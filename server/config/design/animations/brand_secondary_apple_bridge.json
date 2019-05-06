@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_apple_bridge",
+  "image": "assets/animations/brands/secondary_apple_bridge.png",
+  "frameWidth": 284,
+  "frameHeight": 292,
+  "frames": 48,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_football",
+  "image": "assets/animations/brands/secondary_football.png",
+  "frameWidth": 226,
+  "frameHeight": 244,
+  "frames": 48,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

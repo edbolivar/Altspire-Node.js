@@ -1,0 +1,11 @@
+{
+  "id": "menu_metaballs_bike_exit",
+  "image": "assets/animations/menu/metaballs_bike_exit.png",
+  "frameWidth": 65,
+  "frameHeight": 55,
+  "frames": 26,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

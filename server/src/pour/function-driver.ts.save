@@ -1,0 +1,385 @@
+//
+// this class has the higher level function calls, that the app will call
+// to format / decode valve controller messages
+//
+// Class FunctionDriver - version 0.1 - 11/25/2017 MDB
+//
+//
+
+import {PubSubEventArgs, SubscribeEvent} from "../universal/pub-sub-types";
+import {JsUtil} from "../universal/JsUtil";
+import {AppInfoService} from "../services/app-info.service";
+import {PubSubTopic} from "../universal/pub-sub-types";
+import {IoDriver} from "./io-driver";
+
+// var IODriver=require("./io-driver.ts");
+// var io=new IODriver();
+
+const debug=false;  //set this to true to see console debugging messages
+let flag:boolean=false;
+
+const cmd =
+    {"GetVersion":0xF6,
+    "Ping":0xFE,
+    "IO":0x10,
+    "IOStatus":0x12,
+    "IOPour":0x14,
+    "IOLastDrink":0x16,
+    "ClearErrors":0x18,
+    "DispenseLED":0x1C,
+    "CrewServe": 0x1E
+    };
+    
+    
+
+export class FunctionDriver {
+    objectId: number ;
+    iod: IoDriver ;
+
+    constructor(private appInfo: AppInfoService ) {
+        this.objectId = JsUtil.getObjectId();
+        this.iod = new IoDriver(this.appInfo);
+
+        // SubscribeEvent.Create(PubSubTopic.testIODriver,this.objectId)
+        //    .HandleEventWithThisMethod(e => this.handleTestIODriver(e))
+        //    .Done() ;
+    }
+
+    handleTestIODriver(e: PubSubEventArgs) {
+        if(flag) {
+            console.log("reentering handleTestIODriver");
+            return;
+        }
+        flag=true;
+        console.log("handleTestIODriver ",this.iod.vcPort);
+        console.log("data received:",e);
+        let self = this;
+        this.iod = new IoDriver(this.appInfo);
+
+        // test high level pour functions
+        // dispense pepsi for 1 sec (V1 + V9)
+        /*
+        self.loadDispenseSequence([true,false,false,false,false,false,false,false,true],function(msg) {
+            console.log("startDispense for 1000 ms",msg);
+            self.startDispense(1000, function(msg) {
+               console.log("ended Dispense",msg);
+               self.closePort(function() {
+                   flag=false;
+                   //self.iod=null; // destroy FunctionDriver object
+               });
+           });
+        });
+        */
+
+        self.getVersion(function(msg) {
+            console.log("getVersion:",msg);
+            self.closePort(function() {
+                flag=false;
+            });
+        })
+    };
+
+    clip(value:number,minValue:number,maxValue:number) {
+        return Math.trunc(Math.min(maxValue,Math.max(minValue,value)));
+    }
+
+    closePort(cb) {
+        // if(this.iod)
+        this.iod.closePort(cb);
+        //else
+        //    cb;
+    }
+
+    discoverPort() {  // MDB: Won't be needed here
+        // ok to hardcode what we are looking for
+        // the initialize the port (ok, to hardcode0
+        this.io.findValveController(function(e){
+            console.log("Find valve Controller",e);
+        });
+    }
+
+    isConnected() {
+        return this.iod.isConnected();
+    }
+
+    // HIGH level valve controller wrappers as of c# version
+    getVersion(cb) {
+        if(debug) console.log("GetVersion");
+        this.version(cb);
+
+    }
+
+
+
+    clearErrors(cb) {
+        if(debug) console.log("clearErrors");
+        this.ioClearErrors(cb);
+    }
+
+    setIceBinSwitchSafety(enableSwitchSafety:boolean, cb) {
+        if(debug) console.log("setIceBinSwitchSafety");
+        this.setCrewServe(enableSwitchSafety?1:0,cb);
+    }
+
+    setDispenseLED(brightness:number, timeSpanInMilliseconds:number, cb) {
+        // brightness reange: 0-100
+        // timeSpan range: 0-25500 ms
+        if(debug) console.log("setDispenseLED");
+        this.dispenseLight(this.clip(brightness,0,100),this.clip(timeSpanInMilliseconds/100,0,255),cb);
+    }
+
+    getDispenseTima(cb) {
+        if(debug) console.log("getDispenseTime");
+        this.ioLastDrink(function(msg) {
+            msg.dispenseTime=msg.dispenseTime*100; //adjust to milliseconds
+            if(cb) cb(msg);
+        })
+    }
+
+    loadDispenseSequence(valves:Array<boolean>, cb) {
+        // convert from array[0..31] of boolean to array of valves to enable
+        // call low level driver to set valve controller valves in preparation for pouring
+        if(debug) console.log("loadDispenseSequence");
+        let a=[];
+        valves.forEach(function (v,i) {
+            if(v) a.push(i+1);
+        });
+        this.io(a,cb);
+    }
+
+    startDispense(dispenseTimeInMilliseconds:number, cb) {
+        if(debug) console.log("startDispense");
+        this.ioPour(this.clip(dispenseTimeInMilliseconds/100,0,255),0,0, cb);
+    }
+
+    startDispenseX(dispenseTimeInMilliseconds:number, pourMode:number, topOffDelayInSeconds, cb) {
+        // overloaded startDispene with all valve controller parameters
+        if(debug) console.log("startDispenseX");
+        this.ioPour(this.clip(dispenseTimeInMilliseconds/100,0,255),
+                    this.clip(pourMode,0,4),
+                    this.clip(topOffDelayInSeconds*10,0,255),
+                    cb);
+    }
+
+    stopDispense(cb) {
+        console.log("stopDispense");
+        this.ioPour(0,0,0, cb);
+    }
+
+
+    //todo
+    getStatus () {}
+
+
+    // LOW level valve controller commands as of the specification
+    ping(cb) { // 4.1
+        let self=this;
+        self.iod.closePort(function() {
+            self.iod.write(new Buffer([cmd.Ping]), function () {
+                self.iod.read(function (err, msg) {
+                    if (debug) console.log("ping:", msg, msg[0], msg[0] == 0xff);
+                    let ioresponse = new IOResponse();
+                    ioresponse.ack = msg[0] == 0xff;
+                    if (cb) cb(ioresponse);
+                })
+            })
+        });
+    }
+
+    version(cb) { // 4.2
+        let self = this;
+        // sends VC Version command, then executes callback with JSON formatted response data
+        // {"bufferSize":<n>,"version":<string>}
+        if(debug) console.log("version");
+
+        self.iod.closePort(function() {
+            self.iod.write(new Buffer([cmd.GetVersion,0x01]),function() {
+                self.iod.read(function(err,msg) {
+                    if (debug) console.log("getVersion -> io.read:", err, msg);
+                    let ioresponse = new IOVersionResponse();
+                    ioresponse.ack = msg[0] == 0xf7;
+                    ioresponse.bufferSize = msg[1];
+                    ioresponse.version = msg[2] + "." + msg[3] + "." + msg[4] + "." + (msg[5] * 256 + msg[6]);
+                    if (cb) cb(ioresponse);
+                })
+            })
+        });
+    }
+
+    io(a:Array<number>,cb) { // 4.7
+        let self = this;
+        // calls VC I/O SendCmd to enable  array "a" of valves, then executes callback with result
+        if(debug) console.log("io");
+        let v=0; //disable all valves by default
+        a.forEach(function(valve) {v|=1<<(valve-1)});
+        if(debug) console.log("enableValves",a,Math.abs(v).toString(2));
+        let msg=new Buffer([cmd.IO,(v & 0xff000000)>>24,(v & 0xff0000)>>16,(v & 0xff00)>>8,v & 0xff]);
+        if(debug) console.log("enableValves msg:",msg);
+        self.iod.closePort(function() {
+            self.iod.write(msg, function () {
+                self.iod.read(function (err, msg) {
+                    //self.iod.closePort(null);
+                    let ioresponse = new IOResponse();
+                    ioresponse.ack = msg[0] == 0x11;
+                    if (cb) cb(ioresponse);
+                })
+            });
+        });
+        }
+
+    ioStatus(cb) { // 4.9
+        //    ErrorFlag bit mappings
+        //    Bit   function
+        //    0     Reserved
+        //    1     CommunicationsTimeoutError
+        //    2     FoamSensed
+        //    3     PourLeverPressed
+        //    4     LegacyValve0
+        //    5     LegacyValve1
+        //    6     LegacyValve2
+        //    7     LegacyValve3
+        let self = this;
+      //  self.iod.closePort(function(err,msg) {
+      //      if(debug) console.log("ioStatus - closePort")
+            self.iod.write(new Buffer([cmd.IOStatus]),function() {
+                if(debug) console.log("ioStatus - write");
+                self.iod.read(function(err,msg) {
+                    if (debug) console.log("ioStatus==>:", err, msg, msg.length);
+                    let ioresponse = new IOStatusResponse();
+                    if(msg.length>=12) {  //do if message is well formed
+                        let v = msg[7] * 8 ** 3 + msg[8] * 8 ** 2 + msg[9] * 8 + msg[10];
+                        let a = [];
+                        for (let i = 0; i < 32; i++)
+                            if ((v & 1 << i) != 0) a.push(i);
+
+                        ioresponse.ack = msg[0] == 0x13;
+                        ioresponse.dispenseFlag = msg[1] == 1;
+                        ioresponse.errorFlag = {
+                            timeOut: self.isBit(msg[2], 1),
+                            foamSensed: self.isBit(msg[2], 2),
+                            pourLever: self.isBit(msg[2], 3),
+                            legacyValve0: self.isBit(msg[2], 4),
+                            legacyValve1: self.isBit(msg[2], 5),
+                            legacyValve2: self.isBit(msg[2], 6),
+                            legacyValve3: self.isBit(msg[2], 7)
+                        };
+                        ioresponse.powerFlag = msg[3] == 1;
+                        ioresponse.drinkTimerNumber = msg[4];
+                        ioresponse.drinkTimer = msg[5] * 256 + msg[6];
+                        ioresponse.valvesOn = a;
+                        ioresponse.iceBinLidSwitchState = msg[11] == 1;
+                    }
+                    if (cb) cb(ioresponse);
+                });
+            })
+        //});
+    }
+
+    isBit(value,bit) {
+        return (value & (1<<bit)) != 0;
+    }
+
+    ioPour(time:number, pourOptions:number, topOffDelay:number, cb) { // 4.11
+        // time / topOffDelay 10 units=1 second
+        // pourOptions 0=normal / 1=lever triggered / 2 Optifill auto / 3 Optifill + lever
+        if(debug) console.log("ioPour");
+        let self = this;
+        self.iod.closePort(function() {
+            self.iod.write(new Buffer([cmd.IOPour, time, pourOptions, topOffDelay]), function () {
+                self.iod.read(function (err, msg) {
+                    let ioresponse = new IOResponse();
+                    ioresponse.ack = msg[0] == 0x15;
+                    cb(ioresponse);
+                })
+            })
+        })
+    }
+
+    ioLastDrink(cb) { //4.13
+        if(debug) console.log("ioLastDrink");
+        let self=this;
+        self.iod.closePort(function() {
+            self.iod.write(new Buffer([cmd.IOLastDrink]), function() {
+                self.iod.read(function(err,msg) {
+                    let ioresponse = new IOLastDrinkResponse();
+                    ioresponse.ack = msg[0] == 0x17;
+                    ioresponse.dispenseTime = msg[1] * 256 + msg[2];
+                    ioresponse.dispenseActuations = msg[3];
+                    if (cb) cb(ioresponse);
+                });
+            })
+        });
+    }
+
+    ioClearErrors(cb) { //4.15
+        if(debug) console.log("ioclearErrors");
+        let self=this;
+        self.closePort(function() {
+            if(debug) console.log("ioclearErrors.afterClosePort");
+            self.iod.write(new Buffer([cmd.ClearErrors]),function() {
+                if(debug) console.log("ioclearErrors.after.iod.write");
+                self.iod.read(function(err,msg) {
+                    if(debug) console.log("ioclearErrors.after.iod.read");
+                    let ioresponse = new IOResponse();
+                    ioresponse.ack = msg[0] == 0x19;
+                    //if (cb) cb(ioresponse);
+                    cb(ioresponse);
+                })
+            })
+        });
+    }
+
+    dispenseLight(lightLevel:number, lightTime:number, cb) { // 4.17
+        if(debug) console.log("dispenseLight");
+        let self=this;
+        self.iod.closePort(function() {
+            self.iod.write(new Buffer([cmd.DispenseLED,lightLevel,lightTime]),function() {
+                self.iod.read(function(err,msg) {
+                    let ioresponse = new IOResponse();
+                    ioresponse.ack = msg[0] == 0x1d;
+                    if (cb) cb(ioresponse);
+                });
+            })
+        })
+    }
+
+    setCrewServe(crewOptionFlag:number,cb) {
+        if(debug) console.log("setCrewServe");
+        let self=this;
+        self.iod.closePort(function() {
+            self.iod.write(new Buffer([cmd.CrewServe,crewOptionFlag]), function() {
+                self.iod.read(function(err,msg) {
+                    let ioresponse = new IOResponse();
+                    ioresponse.ack = msg[0] == 0x1f;
+                    if (cb) cb(ioresponse);
+                });
+            })
+        })
+    }
+}
+
+
+
+export class IOResponse {
+    ack = false;
+}
+
+export class IOVersionResponse extends IOResponse {
+    bufferSize = 0;
+    version    = "";
+}
+
+export class IOStatusResponse extends IOResponse {
+    dispenseFlag         = false;
+    errorFlag            = {timeOut:false,foamSensed:false,pourLever:false,legacyValve0:false,legacyValve1:false,legacyValve2:false,legacyValve3:false};
+    powerFlag            = false;
+    drinkTimerNumber     = 0;
+    drinkTimer           = 0;
+    valvesOn             = [];
+    iceBinLidSwitchState = false;
+}
+
+export class IOLastDrinkResponse extends IOResponse {
+    dispenseTime = 0;
+    dispenseActuations = 0;
+}

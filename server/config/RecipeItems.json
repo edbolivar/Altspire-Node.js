@@ -1,0 +1,3215 @@
+{
+ "Version": "1.0",
+ "Recipes": [
+  {
+    "Id": "8b29a7ed-6328-4eda-b3a6-3c56af581a18",
+    "Name": "Lemon Berry Twst",
+    "BeverageId": "mix-lemon-berry-twst",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000503894",
+      "012000029295",
+      "012000503887",
+      "012000029301"
+    ],
+    "FlavorSkus": [
+      "012000043246",
+      "888888000008",
+      "012000043239",
+      "888888000012"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000503894",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000029295",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000503887",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000029301",
+        "Name": "Sierra Mist"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043246",
+        "Name": "Flavor Works Lemon"
+      },
+      {
+        "Sku": "888888000008",
+        "Name": "FW Lemon (CA)"
+      },
+      {
+        "Sku": "012000043239",
+        "Name": "Flavor Works Strawberry"
+      },
+      {
+        "Sku": "888888000012",
+        "Name": "FW Strawberry (CA)"
+      }
+    ],
+    "CaloriesPerOz": "12.787520366375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "45a12d52-541d-4b26-bc02-462031a1c2dc",
+    "Name": "Strawberry Fields",
+    "BeverageId": "mix-strawberry-fields",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000127"
+    ],
+    "FlavorSkus": [
+      "012000043239",
+      "888888000012",
+      "012000043253",
+      "888888000014"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000127",
+        "Name": "7UP Free"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043239",
+        "Name": "Flavor Works Strawberry"
+      },
+      {
+        "Sku": "888888000012",
+        "Name": "FW Strawberry (CA)"
+      },
+      {
+        "Sku": "012000043253",
+        "Name": "Flavor Works Lime"
+      },
+      {
+        "Sku": "888888000014",
+        "Name": "FW Lime (CA)"
+      }
+    ],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "49f8a125-c670-4028-9d67-ab677113ef7f",
+    "Name": "Kentucky Cream",
+    "BeverageId": "mix-kentucky-cream",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000630453",
+      "012000033520",
+      "999998000128"
+    ],
+    "FlavorSkus": [
+      "888888000010",
+      "012000043215"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000630453",
+        "Name": "Pepsi Zero 0 Sugar"
+      },
+      {
+        "Sku": "012000033520",
+        "Name": "Pepsi Zero 0 Sugar"
+      },
+      {
+        "Sku": "999998000128",
+        "Name": "Pepsi Zero 0 Sugar"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "888888000010",
+        "Name": "FW Vanilla (CA)"
+      },
+      {
+        "Sku": "012000043215",
+        "Name": "Flavor Works Vanilla"
+      }
+    ],
+    "CaloriesPerOz": "0.092038886375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "ce798b18-4d07-4f6e-8f22-5735138ba71a",
+    "Name": "Dark & Wild",
+    "BeverageId": "mix-dark-and-wild",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000630453",
+      "012000033520",
+      "999998000128"
+    ],
+    "FlavorSkus": [
+      "888888000006",
+      "012000043222"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000630453",
+        "Name": "Pepsi Zero 0 Sugar"
+      },
+      {
+        "Sku": "012000033520",
+        "Name": "Pepsi Zero 0 Sugar"
+      },
+      {
+        "Sku": "999998000128",
+        "Name": "Pepsi Zero 0 Sugar"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "888888000006",
+        "Name": "FW Cherry (CA)"
+      },
+      {
+        "Sku": "012000043222",
+        "Name": "Flavor Works Cherry"
+      }
+    ],
+    "CaloriesPerOz": "0.092038886375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "77d665d8-d618-4dbb-a0ed-e44b57f88a53",
+    "Name": "Citrus Fiesta",
+    "BeverageId": "mix-citrus-fiesta",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000124"
+    ],
+    "FlavorSkus": [
+      "888888000014",
+      "012000043253"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000124",
+        "Name": "Tango Orange"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "888888000014",
+        "Name": "FW Lime (CA)"
+      },
+      {
+        "Sku": "012000043253",
+        "Name": "Flavor Works Lime"
+      }
+    ],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 10
+  },
+  {
+    "Id": "60be9d17-4ac1-46de-a1b9-a804bb40af3e",
+    "Name": "Robinson's Summer Fruit",
+    "BeverageId": "robinson-summer-fruit",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "999998000133"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000133",
+        "Name": "Robinson's Summer Fruit"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "e8e28d7e-ecce-4e04-90f7-0fe91c943fdc",
+    "Name": "Southern Style",
+    "BeverageId": "mix-southern-style",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000400094",
+      "012000029325",
+      "012000402500",
+      "012000029318",
+      "069000020265"
+    ],
+    "FlavorSkus": [
+      "012000043260",
+      "012000043246",
+      "888888000008"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400094",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000029325",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000402500",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000029318",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "069000020265",
+        "Name": "Mountain Dew"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043260",
+        "Name": "Flavor Works Peach"
+      },
+      {
+        "Sku": "012000043246",
+        "Name": "Flavor Works Lemon"
+      },
+      {
+        "Sku": "888888000008",
+        "Name": "FW Lemon (CA)"
+      }
+    ],
+    "CaloriesPerOz": "13.581469126",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "4309756b-a3e9-4cd7-a9f3-461c920d93f1",
+    "Name": "American Summer",
+    "BeverageId": "mix-american-summer",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000503894",
+      "012000029295",
+      "012000503887",
+      "012000029301"
+    ],
+    "FlavorSkus": [
+      "012000043246",
+      "888888000008",
+      "012000043239",
+      "888888000012"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000503894",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000029295",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000503887",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000029301",
+        "Name": "Sierra Mist"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043246",
+        "Name": "Flavor Works Lemon"
+      },
+      {
+        "Sku": "888888000008",
+        "Name": "FW Lemon (CA)"
+      },
+      {
+        "Sku": "012000043239",
+        "Name": "Flavor Works Strawberry"
+      },
+      {
+        "Sku": "888888000012",
+        "Name": "FW Strawberry (CA)"
+      }
+    ],
+    "CaloriesPerOz": "12.787520366375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "bbf13efe-1d1e-47aa-9047-c240331a519c",
+    "Name": "Midnight Fog",
+    "BeverageId": "mix-midnight-fog",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400032",
+      "012000029363",
+      "012000402463",
+      "012000029356",
+      "069000003039"
+    ],
+    "FlavorSkus": [
+      "012000043277",
+      "888888000010",
+      "012000043215"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400032",
+        "Name": "Pepsi"
+      },
+      {
+        "Sku": "012000029363",
+        "Name": "Pepsi"
+      },
+      {
+        "Sku": "012000402463",
+        "Name": "Pepsi"
+      },
+      {
+        "Sku": "012000029356",
+        "Name": "Pepsi"
+      },
+      {
+        "Sku": "069000003039",
+        "Name": "Pepsi"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043277",
+        "Name": "Flavor Works Raspberry"
+      },
+      {
+        "Sku": "888888000010",
+        "Name": "FW Vanilla (CA)"
+      },
+      {
+        "Sku": "012000043215",
+        "Name": "Flavor Works Vanilla"
+      }
+    ],
+    "CaloriesPerOz": "12.67401590125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "89bed8e8-651f-418a-9105-2551290cc7e5",
+    "Name": "Orchard Blush",
+    "BeverageId": "mix-orchard-blush",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000030772",
+      "012000023194"
+    ],
+    "FlavorSkus": [
+      "888888000010",
+      "012000043215",
+      "012000043239",
+      "888888000012"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000030772",
+        "Name": "Manzanita Sol"
+      },
+      {
+        "Sku": "012000023194",
+        "Name": "Manzanita Sol"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "888888000010",
+        "Name": "FW Vanilla (CA)"
+      },
+      {
+        "Sku": "012000043215",
+        "Name": "Flavor Works Vanilla"
+      },
+      {
+        "Sku": "012000043239",
+        "Name": "Flavor Works Strawberry"
+      },
+      {
+        "Sku": "888888000012",
+        "Name": "FW Strawberry (CA)"
+      }
+    ],
+    "CaloriesPerOz": "13.239827853375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "9288343a-7a4a-480b-9b44-38739ab0c5dc",
+    "Name": "Violet Twilight",
+    "BeverageId": "mix-violet-twilight",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000110658"
+    ],
+    "FlavorSkus": [
+      "012000043277",
+      "012000043222",
+      "888888000006"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000110658",
+        "Name": "Sobe Yumberry Pomegranate"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043277",
+        "Name": "Flavor Works Raspberry"
+      },
+      {
+        "Sku": "012000043222",
+        "Name": "Flavor Works Cherry"
+      },
+      {
+        "Sku": "888888000006",
+        "Name": "FW Cherry (CA)"
+      }
+    ],
+    "CaloriesPerOz": "0.17683818075",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "f62250ea-183f-4275-af7a-c57e8bafa082",
+    "Name": "Three Layer Berry",
+    "BeverageId": "mix-three-layer-berry",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000400094",
+      "012000029325",
+      "069000020265",
+      "012000402500",
+      "012000029318"
+    ],
+    "FlavorSkus": [
+      "012000043277",
+      "012000043239",
+      "888888000012",
+      "012000043222",
+      "888888000006"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400094",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000029325",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "069000020265",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000402500",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000029318",
+        "Name": "Mountain Dew"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043277",
+        "Name": "Flavor Works Raspberry"
+      },
+      {
+        "Sku": "012000043239",
+        "Name": "Flavor Works Strawberry"
+      },
+      {
+        "Sku": "888888000012",
+        "Name": "FW Strawberry (CA)"
+      },
+      {
+        "Sku": "012000043222",
+        "Name": "Flavor Works Cherry"
+      },
+      {
+        "Sku": "888888000006",
+        "Name": "FW Cherry (CA)"
+      }
+    ],
+    "CaloriesPerOz": "13.581469126",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "a3997d94-215d-41a8-a6fa-723eb91136f4",
+    "Name": "Zing Cherry",
+    "BeverageId": "mix-zing-cherry",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000400629",
+      "012000402517"
+    ],
+    "FlavorSkus": [
+      "012000043222",
+      "888888000006",
+      "012000043253",
+      "888888000014"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400629",
+        "Name": "Diet Mountain Dew"
+      },
+      {
+        "Sku": "012000402517",
+        "Name": "Diet Mountain Dew"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043222",
+        "Name": "Flavor Works Cherry"
+      },
+      {
+        "Sku": "888888000006",
+        "Name": "FW Cherry (CA)"
+      },
+      {
+        "Sku": "012000043253",
+        "Name": "Flavor Works Lime"
+      },
+      {
+        "Sku": "888888000014",
+        "Name": "FW Lime (CA)"
+      }
+    ],
+    "CaloriesPerOz": "0.402270201",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "e380a5ab-9f99-4012-be69-08abc3c90971",
+    "Name": "Gala-la-la",
+    "BeverageId": "mix-gala-la-la",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000030772",
+      "012000023194"
+    ],
+    "FlavorSkus": [
+      "012000043246",
+      "888888000008",
+      "012000043260",
+      "012000043222",
+      "888888000006"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000030772",
+        "Name": "Manzanita Sol"
+      },
+      {
+        "Sku": "012000023194",
+        "Name": "Manzanita Sol"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043246",
+        "Name": "Flavor Works Lemon"
+      },
+      {
+        "Sku": "888888000008",
+        "Name": "FW Lemon (CA)"
+      },
+      {
+        "Sku": "012000043260",
+        "Name": "Flavor Works Peach"
+      },
+      {
+        "Sku": "012000043222",
+        "Name": "Flavor Works Cherry"
+      },
+      {
+        "Sku": "888888000006",
+        "Name": "FW Cherry (CA)"
+      }
+    ],
+    "CaloriesPerOz": "13.239827853375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "8af6af90-426e-48e1-99eb-a4a6a930d96a",
+    "Name": "Snazzberry",
+    "BeverageId": "mix-snazzberry",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000400094",
+      "012000029325",
+      "069000020265",
+      "012000402500",
+      "012000029318"
+    ],
+    "FlavorSkus": [
+      "012000043246",
+      "888888000008",
+      "012000043277"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400094",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000029325",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "069000020265",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000402500",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000029318",
+        "Name": "Mountain Dew"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043246",
+        "Name": "Flavor Works Lemon"
+      },
+      {
+        "Sku": "888888000008",
+        "Name": "FW Lemon (CA)"
+      },
+      {
+        "Sku": "012000043277",
+        "Name": "Flavor Works Raspberry"
+      }
+    ],
+    "CaloriesPerOz": "13.581469126",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "6202696c-a649-46b4-8134-2028d9687c63",
+    "Name": "Shimmy Berry",
+    "BeverageId": "mix-shimmy-berry",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000503894",
+      "012000029295",
+      "012000503887",
+      "012000029301"
+    ],
+    "FlavorSkus": [
+      "012000043277",
+      "012000043260"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000503894",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000029295",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000503887",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000029301",
+        "Name": "Sierra Mist"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043277",
+        "Name": "Flavor Works Raspberry"
+      },
+      {
+        "Sku": "012000043260",
+        "Name": "Flavor Works Peach"
+      }
+    ],
+    "CaloriesPerOz": "12.787520366375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "80615346-83c4-4c35-a69f-f91736fac417",
+    "Name": "Beach Ready",
+    "BeverageId": "mix-beach-ready",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400063",
+      "012000029349",
+      "069000011034",
+      "012000402470",
+      "012000029332"
+    ],
+    "FlavorSkus": [
+      "012000043239",
+      "888888000012",
+      "012000043246",
+      "888888000008"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400063",
+        "Name": "Diet Pepsi"
+      },
+      {
+        "Sku": "012000029349",
+        "Name": "Diet Pepsi"
+      },
+      {
+        "Sku": "069000011034",
+        "Name": "Diet Pepsi"
+      },
+      {
+        "Sku": "012000402470",
+        "Name": "Diet Pepsi"
+      },
+      {
+        "Sku": "012000029332",
+        "Name": "Diet Pepsi"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043239",
+        "Name": "Flavor Works Strawberry"
+      },
+      {
+        "Sku": "888888000012",
+        "Name": "FW Strawberry (CA)"
+      },
+      {
+        "Sku": "012000043246",
+        "Name": "Flavor Works Lemon"
+      },
+      {
+        "Sku": "888888000008",
+        "Name": "FW Lemon (CA)"
+      }
+    ],
+    "CaloriesPerOz": "0.049141772125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "1ba10e45-05ef-474c-aada-5799fbf2b830",
+    "Name": "Darkelberry",
+    "BeverageId": "mix-darkelberry",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400117",
+      "012000404085",
+      "069000041055"
+    ],
+    "FlavorSkus": [
+      "012000043222",
+      "888888000006",
+      "012000043215",
+      "888888000010"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400117",
+        "Name": "Mug"
+      },
+      {
+        "Sku": "012000404085",
+        "Name": "Mug"
+      },
+      {
+        "Sku": "069000041055",
+        "Name": "Mug"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043222",
+        "Name": "Flavor Works Cherry"
+      },
+      {
+        "Sku": "888888000006",
+        "Name": "FW Cherry (CA)"
+      },
+      {
+        "Sku": "012000043215",
+        "Name": "Flavor Works Vanilla"
+      },
+      {
+        "Sku": "888888000010",
+        "Name": "FW Vanilla (CA)"
+      }
+    ],
+    "CaloriesPerOz": "11.98158140825",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "9a5289c0-a175-49ab-b1be-72928b18b650",
+    "Name": "Ruby Juicy",
+    "BeverageId": "mix-ruby-juicy",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000016196",
+      "012000016189"
+    ],
+    "FlavorSkus": [
+      "012000043277",
+      "012000043239",
+      "888888000012",
+      "012000043222",
+      "888888000006"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000016196",
+        "Name": "Tropicana Lemonade"
+      },
+      {
+        "Sku": "012000016189",
+        "Name": "Tropicana Lemonade"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043277",
+        "Name": "Flavor Works Raspberry"
+      },
+      {
+        "Sku": "012000043239",
+        "Name": "Flavor Works Strawberry"
+      },
+      {
+        "Sku": "888888000012",
+        "Name": "FW Strawberry (CA)"
+      },
+      {
+        "Sku": "012000043222",
+        "Name": "Flavor Works Cherry"
+      },
+      {
+        "Sku": "888888000006",
+        "Name": "FW Cherry (CA)"
+      }
+    ],
+    "CaloriesPerOz": "12.905748882625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "b3b1bda9-cbc7-4c88-8ae4-70271cad970e",
+    "Name": "Peachy Green",
+    "BeverageId": "mix-peachy-green",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000027512",
+      "012000027529"
+    ],
+    "FlavorSkus": [
+      "012000043260",
+      "888888000012",
+      "012000043239"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000027512",
+        "Name": "Brisk Green Peached Tea 0 cal"
+      },
+      {
+        "Sku": "012000027529",
+        "Name": "Brisk Green Peached Tea 0 cal"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043260",
+        "Name": "Flavor Works Peach"
+      },
+      {
+        "Sku": "888888000012",
+        "Name": "FW Strawberry (CA)"
+      },
+      {
+        "Sku": "012000043239",
+        "Name": "Flavor Works Strawberry"
+      }
+    ],
+    "CaloriesPerOz": "0.293329525",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "a115f62f-58e9-4372-908f-8db8089461f7",
+    "Name": "Sun Blossom",
+    "BeverageId": "mix-sun-blossom",
+    "Type": "Mix",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000027512",
+      "012000027529"
+    ],
+    "FlavorSkus": [
+      "012000043246",
+      "888888000008",
+      "012000043260",
+      "012000043222",
+      "888888000006"
+    ],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000027512",
+        "Name": "Brisk Green Peached Tea 0 cal"
+      },
+      {
+        "Sku": "012000027529",
+        "Name": "Brisk Green Peached Tea 0 cal"
+      }
+    ],
+    "FlavorSkus2": [
+      {
+        "Sku": "012000043246",
+        "Name": "Flavor Works Lemon"
+      },
+      {
+        "Sku": "888888000008",
+        "Name": "FW Lemon (CA)"
+      },
+      {
+        "Sku": "012000043260",
+        "Name": "Flavor Works Peach"
+      },
+      {
+        "Sku": "012000043222",
+        "Name": "Flavor Works Cherry"
+      },
+      {
+        "Sku": "888888000006",
+        "Name": "FW Cherry (CA)"
+      }
+    ],
+    "CaloriesPerOz": "0.293329525",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+    "Name": "Pepsi",
+    "BeverageId": "pepsi",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400032",
+      "012000029363",
+      "012000402463",
+      "012000029356",
+      "069000003039"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400032",
+        "Name": "Pepsi"
+      },
+      {
+        "Sku": "012000029363",
+        "Name": "Pepsi"
+      },
+      {
+        "Sku": "012000402463",
+        "Name": "Pepsi"
+      },
+      {
+        "Sku": "012000029356",
+        "Name": "Pepsi"
+      },
+      {
+        "Sku": "069000003039",
+        "Name": "Pepsi"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "12.67401590125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "431b9e25-fbd5-4232-ba13-b9b86e938409",
+    "Name": "Pepsi Real Sugar",
+    "BeverageId": "pepsi-real-sugar",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "069000148730"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "069000148730",
+        "Name": "Pepsi Real Sugar"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+    "Name": "Diet Pepsi",
+    "BeverageId": "pepsi-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400063",
+      "012000029349",
+      "012000402470",
+      "012000029332",
+      "069000011034"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400063",
+        "Name": "Diet Pepsi"
+      },
+      {
+        "Sku": "012000029349",
+        "Name": "Diet Pepsi"
+      },
+      {
+        "Sku": "012000402470",
+        "Name": "Diet Pepsi"
+      },
+      {
+        "Sku": "012000029332",
+        "Name": "Diet Pepsi"
+      },
+      {
+        "Sku": "069000011034",
+        "Name": "Diet Pepsi"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.049141772125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+    "Name": "Pepsi Zero 0 Sugar",
+    "BeverageId": "pepsi-max",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000630453",
+      "012000033520",
+      "999998000128"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000630453",
+        "Name": "Pepsi Zero 0 Sugar"
+      },
+      {
+        "Sku": "012000033520",
+        "Name": "Pepsi Zero 0 Sugar"
+      },
+      {
+        "Sku": "999998000128",
+        "Name": "Pepsi Zero 0 Sugar"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": null,
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "d406b898-8e4d-4ee7-b04a-bc8a3c5f79ea",
+    "Name": "Caffeine Free Pepsi",
+    "BeverageId": "pepsi-caffeine-free",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400544",
+      "012000402487"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400544",
+        "Name": "Caffeine Free Pepsi"
+      },
+      {
+        "Sku": "012000402487",
+        "Name": "Caffeine Free Pepsi"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "12.690966116125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "67130f75-2518-42d3-a47b-18cb2009d7a6",
+    "Name": "Caffeine Free Diet Pepsi",
+    "BeverageId": "pepsi-diet-caffeine-free",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400070",
+      "012000402494"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400070",
+        "Name": "Caffeine Free Diet Pepsi"
+      },
+      {
+        "Sku": "012000402494",
+        "Name": "Caffeine Free Diet Pepsi"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.049142372125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "cc615c84-5833-40af-9d94-3ef55de627c7",
+    "Name": "Pepsi Next",
+    "BeverageId": "pepsi-next",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000119"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000119",
+        "Name": "Pepsi Next"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "9a04d078-30b4-4be1-8801-294a85a90182",
+    "Name": "Pepsi Wild Cherry",
+    "BeverageId": "pepsi-wild-cherry",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400186",
+      "012000608902"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400186",
+        "Name": "Pepsi Wild Cherry"
+      },
+      {
+        "Sku": "012000608902",
+        "Name": "Pepsi Wild Cherry"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "12.959509283875",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "cd143085-7793-49d2-b275-fd1b241128ed",
+    "Name": "Diet Wild Cherry Pepsi",
+    "BeverageId": "pepsi-wild-cherry-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000503832"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000503832",
+        "Name": "Diet Wild Cherry Pepsi"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "bc331e6e-6315-48c7-a1f0-e140eadc7d10",
+    "Name": "Mountain Dew",
+    "BeverageId": "mountain-dew",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000400094",
+      "012000029325",
+      "012000402500",
+      "012000029318",
+      "069000020265"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400094",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000029325",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000402500",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "012000029318",
+        "Name": "Mountain Dew"
+      },
+      {
+        "Sku": "069000020265",
+        "Name": "Mountain Dew"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "13.581469126",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "ad018d95-3cd2-4883-86bc-a70b7ba383aa",
+    "Name": "Diet Mountain Dew",
+    "BeverageId": "mountain-dew-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000400629",
+      "012000402517"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400629",
+        "Name": "Diet Mountain Dew"
+      },
+      {
+        "Sku": "012000402517",
+        "Name": "Diet Mountain Dew"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.402270201",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "79d8b159-bedd-4794-a2c7-373fafedf940",
+    "Name": "Mountain Dew Baja Blast",
+    "BeverageId": "mountain-dew-baja-blast",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000011306",
+      "012000843143"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000011306",
+        "Name": "Mountain Dew Baja Blast"
+      },
+      {
+        "Sku": "012000843143",
+        "Name": "Mountain Dew Baja Blast"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "13.851034113625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "1768ee2d-493f-453f-aa82-3492773e7ed5",
+    "Name": "Diet Mountain Dew Baja Blast",
+    "BeverageId": "mountain-dew-baja-blast-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000130007",
+      "012000130014"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000130007",
+        "Name": "Diet Mountain Dew Baja Blast"
+      },
+      {
+        "Sku": "012000130014",
+        "Name": "Diet Mountain Dew Baja Blast"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "b9dfe2c0-0b4b-43da-a1d4-64e13ed9b7d8",
+    "Name": "Mountain Dew Sangrita Blast",
+    "BeverageId": "mountain-dew-sangrita-blast",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000130021",
+      "012000130038"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000130021",
+        "Name": "Mountain Dew Sangrita Blast"
+      },
+      {
+        "Sku": "012000130038",
+        "Name": "Mountain Dew Sangrita Blast"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "14.183606130875",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "e6e133cb-6315-48c7-a1f0-01d7cdae041e",
+    "Name": "Mountain Dew Code Red",
+    "BeverageId": "mountain-dew-code-red",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000402425",
+      "012000101366"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000402425",
+        "Name": "Mountain Dew Code Red"
+      },
+      {
+        "Sku": "012000101366",
+        "Name": "Mountain Dew Code Red"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "14.332751795375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "abc1c09f-5178-4371-b897-3d2636e53c84",
+    "Name": "Mountain Dew Pitch Black",
+    "BeverageId": "mountain-dew-pitch-black",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000152559"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000152559",
+        "Name": "Mountain Dew Pitch Black"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "13.993088399625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "a8e785d7-e7e3-4666-a48e-a75b88dc0fce",
+    "Name": "Mountain Dew Kickstart Black Cherry",
+    "BeverageId": "kickstart-black-cherry",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000150913"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000150913",
+        "Name": "Mountain Dew Kickstart Black Cherry"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "5.25391806075",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "9e270d6d-e9d7-44a5-9f5c-4f0366795c4c",
+    "Name": "Mountain Dew Kickstart Fruit Punch",
+    "BeverageId": "kickstart-fruit-punch",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000150920"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000150920",
+        "Name": "Mountain Dew Kickstart Fruit Punch"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "6b537627-d7c6-4925-bfc7-c02928eca05e",
+    "Name": "Mountain Dew Kickstart Orange",
+    "BeverageId": "kickstart-orange-citrus",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000111983"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000111983",
+        "Name": "Mountain Dew Kickstart Orange"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "5.245825267625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "9c5622f9-cac7-49d4-923d-47fc4d753693",
+    "Name": "Crush Strawberry",
+    "BeverageId": "crush-strawberry",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "088500902079",
+      "056000004593"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "088500902079",
+        "Name": "Crush Strawberry"
+      },
+      {
+        "Sku": "056000004593",
+        "Name": "Crush Strawberry"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "14.62",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 10
+  },
+  {
+    "Id": "fcb44600-acd4-4686-8f28-6612b6def2f1",
+    "Name": "Mist Twst",
+    "BeverageId": "mist-twst",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000503894",
+      "012000029295",
+      "012000503887",
+      "012000029301"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000503894",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000029295",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000503887",
+        "Name": "Sierra Mist"
+      },
+      {
+        "Sku": "012000029301",
+        "Name": "Sierra Mist"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "12.787520366375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "eb6bc44b-89f8-4fb8-8530-d2bb3486bcba",
+    "Name": "Diet Mist Twst",
+    "BeverageId": "mist-twst-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000201615",
+      "012000201608"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000201615",
+        "Name": "Diet Sierra Mist"
+      },
+      {
+        "Sku": "012000201608",
+        "Name": "Diet Sierra Mist"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.248522053375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "6761903e-d5e0-4c12-a7fd-4a84252abab1",
+    "Name": "Mug Root Beer",
+    "BeverageId": "mug",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400117",
+      "012000404085",
+      "069000041055"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400117",
+        "Name": "Mug"
+      },
+      {
+        "Sku": "012000404085",
+        "Name": "Mug"
+      },
+      {
+        "Sku": "069000041055",
+        "Name": "Mug"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "11.98158140825",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "dfa038bb-af62-4d2a-b171-000c7bb03068",
+    "Name": "Culvers Root Beer",
+    "BeverageId": "culver-root-beer",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "088500903199"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "088500903199",
+        "Name": "Culvers Root Beer"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "3edd71ae-47c4-4349-a5ff-953abd0b74c8",
+    "Name": "Diet Mug",
+    "BeverageId": "mug-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000400674",
+      "999999000005"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000400674",
+        "Name": "Diet Mug"
+      },
+      {
+        "Sku": "999999000005",
+        "Name": "Diet Mug"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "457fce55-d6af-45f1-87a2-3558db10d6d6",
+    "Name": "Diet Culvers Root Beer",
+    "BeverageId": "culver-root-beer-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "088500001109"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "088500001109",
+        "Name": "Diet Culvers Root Beer"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "44c77fd9-90c0-4ed8-9b01-f202f0dda336",
+    "Name": "Tropicana Lemonade",
+    "BeverageId": "tropicana-lemonade",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000016196",
+      "012000016189"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000016196",
+        "Name": "Tropicana Lemonade"
+      },
+      {
+        "Sku": "012000016189",
+        "Name": "Tropicana Lemonade"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "12.905748882625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "e46acfbc-77b1-4d46-9023-0eebd387de91",
+    "Name": "Tropicana Fruit Punch",
+    "BeverageId": "tropicana-fruit-punch",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000016226",
+      "012000016219"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000016226",
+        "Name": "Tropicana Fruit Punch"
+      },
+      {
+        "Sku": "012000016219",
+        "Name": "Tropicana Fruit Punch"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "14.15059155",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "f329d9b2-94a2-4c9d-95a0-8e8b8ac00a5c",
+    "Name": "Tropicana Twister Orange",
+    "BeverageId": "tropicana-twister-orange",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000016110",
+      "012000016097"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000016110",
+        "Name": "Tropicana Twister Orange"
+      },
+      {
+        "Sku": "012000016097",
+        "Name": "Tropicana Twister Orange"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "14.267350958375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "a5b6df91-5837-4d74-ae52-7077e5dcb255",
+    "Name": "Tropicana Light Lemonade",
+    "BeverageId": "tropicana-lemonade-light",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000016103",
+      "012000016127"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000016103",
+        "Name": "Tropicana Light Lemonade"
+      },
+      {
+        "Sku": "012000016127",
+        "Name": "Tropicana Light Lemonade"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.537148346",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "16e3e80b-11c7-4c12-aab1-10cd5292264e",
+    "Name": "Tropicana Pink Lemonade",
+    "BeverageId": "tropicana-pink-lemonade",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000016165",
+      "012000016158"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000016165",
+        "Name": "Tropicana Pink Lemonade"
+      },
+      {
+        "Sku": "012000016158",
+        "Name": "Tropicana Pink Lemonade"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "12.904102998125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "ee1aded4-5f43-4571-80d0-d6acdc57e857",
+    "Name": "Dr Pepper",
+    "BeverageId": "dr-pepper",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "054900710545",
+      "054900800017",
+      "054900002039"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "054900710545",
+        "Name": "Dr Pepper"
+      },
+      {
+        "Sku": "054900800017",
+        "Name": "Dr Pepper"
+      },
+      {
+        "Sku": "054900002039",
+        "Name": "Dr Pepper"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "11.9627566934931",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "5dd7cc18-afe9-4daf-8f54-c907069a85ad",
+    "Name": "Diet Dr Pepper",
+    "BeverageId": "dr-pepper-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "054900720476",
+      "054900720513",
+      "054900800291"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "054900720476",
+        "Name": "Diet Dr Pepper"
+      },
+      {
+        "Sku": "054900720513",
+        "Name": "Diet Dr Pepper"
+      },
+      {
+        "Sku": "054900800291",
+        "Name": "Diet Dr Pepper"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.0919164619749373",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "ae7592bd-e4fd-4895-af8c-5ba17698bc7b",
+    "Name": "Brisk Tea Unsweetened",
+    "BeverageId": "brisk-iced-tea-unsweetened",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "041000007231",
+      "041000010002"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "041000007231",
+        "Name": "Brisk Tea Unsweetened"
+      },
+      {
+        "Sku": "041000010002",
+        "Name": "Brisk Tea Unsweetened"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.1179133965",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "8f76e30b-c82f-441b-90d9-1a57b7c903d7",
+    "Name": "Sweet Tea",
+    "BeverageId": "brisk-sweet-tea-iced-tea",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "041000007262",
+      "041000010026"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "041000007262",
+        "Name": "Brisk Tea"
+      },
+      {
+        "Sku": "041000010026",
+        "Name": "Brisk Tea"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "6.645892956375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "f7b41789-80b9-41d5-a3c8-64b3a6346a90",
+    "Name": "Lemonade",
+    "BeverageId": "brisk-lemonade",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "041000075018",
+      "999999000007",
+      "069000071021"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "041000075018",
+        "Name": "Brisk Lemonade"
+      },
+      {
+        "Sku": "999999000007",
+        "Name": "Brisk Lemonade"
+      },
+      {
+        "Sku": "069000071021",
+        "Name": "Brisk Lemonade"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "534a5a0f-a35d-47a1-9270-9fd8c233542b",
+    "Name": "Brisk Lemon Iced Tea",
+    "BeverageId": "brisk-lemon-iced-tea",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "090000000023",
+      "041000007866",
+      "041000010033",
+      "069000015476"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "090000000023",
+        "Name": "unknown"
+      },
+      {
+        "Sku": "041000007866",
+        "Name": "Brisk Lemon Iced Tea"
+      },
+      {
+        "Sku": "041000010033",
+        "Name": "Brisk Lemon Iced Tea"
+      },
+      {
+        "Sku": "069000015476",
+        "Name": "Brisk Lemon Iced Tea"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "6.846451639125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "d690b699-a9c9-449e-ac6a-38f5a5b3930e",
+    "Name": "Brisk 1/2 & 1/2",
+    "BeverageId": "brisk-half-and-half",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000112027",
+      "012000112010"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000112027",
+        "Name": "Brisk 1/2 & 1/2"
+      },
+      {
+        "Sku": "012000112010",
+        "Name": "Brisk 1/2 & 1/2"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "5.29387424225",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "5f4d8cb2-f9a0-4c7f-a649-e3f5ba5cc8ff",
+    "Name": "Brisk Mango",
+    "BeverageId": "brisk-mango-iced-tea",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000112003",
+      "012000111990"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000112003",
+        "Name": "Brisk Mango Fiesta"
+      },
+      {
+        "Sku": "012000111990",
+        "Name": "Brisk Mango Fiesta"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "5.987762934375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "e431d94a-699e-44f2-be87-59e52b336b30",
+    "Name": "Brisk Green Peach Iced Tea, 0 Calories",
+    "BeverageId": "brisk-no-calorie-peach-iced-green-tea",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000027512",
+      "012000027529"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000027512",
+        "Name": "Brisk Green Peached Tea 0 cal"
+      },
+      {
+        "Sku": "012000027529",
+        "Name": "Brisk Green Peached Tea 0 cal"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.293329525",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "4eae68f5-92d6-48ee-90ce-486dc1a84878",
+    "Name": "Brisk Raspberry Iced Tea",
+    "BeverageId": "brisk-raspberry-iced-tea",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "041000010187",
+      "041000010309",
+      "069000147191"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "041000010187",
+        "Name": "Brisk Raspberry Iced Tea"
+      },
+      {
+        "Sku": "041000010309",
+        "Name": "Brisk Raspberry Iced Tea"
+      },
+      {
+        "Sku": "069000147191",
+        "Name": "Brisk Raspberry Iced Tea"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "6.311866315",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "a6a36971-c269-4ae8-9f17-d8cb1d962854",
+    "Name": "Brisk Strawberry Melon",
+    "BeverageId": "brisk-strawberry-melon",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000161131"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "5.860767521625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "5be91d4c-3d5e-4f95-bdfb-09e83ab4a196",
+    "Name": "Manzanita Sol",
+    "BeverageId": "manzanita-sol",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000030772",
+      "012000023194"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000030772",
+        "Name": "Manzanita Sol"
+      },
+      {
+        "Sku": "012000023194",
+        "Name": "Manzanita Sol"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "13.239827853375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "b7eb0d79-1e2c-49fa-9a42-d9a998d36511",
+    "Name": "Sobe Yumberry Pomegranate",
+    "BeverageId": "sobe-yumberry-pomegranate",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "012000110658"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000110658",
+        "Name": "Sobe Yumberry Pomegranate"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.17683818075",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "7b0bfe17-f003-4e60-8068-8ce4e332304c",
+    "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean",
+    "BeverageId": "sobe-elixir-diet-cranberry-grapefruit-lean",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "999999000001",
+      "739510701151"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999999000001",
+        "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean"
+      },
+      {
+        "Sku": "739510701151",
+        "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0.213528732625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "dd6a348b-6982-4a0b-80b5-e81b44495c18",
+    "Name": "Sobe Elixir Citrus Energy",
+    "BeverageId": "sobe-elixir-citrus-energy",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "739510701069"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "739510701069",
+        "Name": "Sobe Elixir Citrus Energy"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "13.479600536125",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "15ac0322-043c-4fa3-b50d-4ad1e58f90bd",
+    "Name": "Sobe V Water Blueberry Pomegranate",
+    "BeverageId": "sobe-v-water-blueberry-pomegranate",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "999998000126"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000126",
+        "Name": "Sobe V Water Blueberry Pomegranate"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "62f3891f-7fec-4b3e-9879-025ea139fd1f",
+    "Name": "Fruit Shoot",
+    "BeverageId": "fruit-shoot",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "999998000125"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000125",
+        "Name": "Fruit Shoot"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "69101a3c-f79c-4aae-bb9d-81209d121c53",
+    "Name": "Gatorade Lemon-Lime",
+    "BeverageId": "gatorade-lemon-lime",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "052000330052"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "052000330052",
+        "Name": "Gatorade Lemon-Lime"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "7.552276649625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "449524ab-0006-47e3-a4b0-c55cff597971",
+    "Name": "G2 Fruit Punch",
+    "BeverageId": "g2-fruit-punch",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "055577041024"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "055577041024",
+        "Name": "G2 Fruit Punch"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "1.798541150875",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "f82e6b60-5644-4114-81cb-2cf1acfcbf50",
+    "Name": "Mirinda Orange",
+    "BeverageId": "mirinda-orange",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000146"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000146",
+        "Name": "Mirinda Orange"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "402e4695-b4c1-4e0b-8ed5-e18934cce870",
+    "Name": "Mirinda Strawberry",
+    "BeverageId": "mirinda",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "012000404368",
+      "012000400230"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "012000404368",
+        "Name": "Mirinda Strawberry"
+      },
+      {
+        "Sku": "012000400230",
+        "Name": "Mirinda Strawberry"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": null,
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "69bd03e0-a656-4c02-b741-b94cb0bdd1b5",
+    "Name": "Crush Grape",
+    "BeverageId": "crush-grape",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999999000002",
+      "999999000008",
+      "056000000946"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999999000002",
+        "Name": "Crush Grape"
+      },
+      {
+        "Sku": "999999000008",
+        "Name": "Crush Grape"
+      },
+      {
+        "Sku": "056000000946",
+        "Name": "Crush Grape"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "13.3",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+    "Name": "Crush Orange",
+    "BeverageId": "crush-orange",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "088500901263",
+      "088500902406",
+      "056000000922"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "088500901263",
+        "Name": "Crush Orange"
+      },
+      {
+        "Sku": "088500902406",
+        "Name": "Crush Orange"
+      },
+      {
+        "Sku": "056000000922",
+        "Name": "Crush Orange"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "13.6226783973756",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "a0d8fb49-8e43-49b5-9d55-647d20c9a4d6",
+    "Name": "Crush Cream Soda",
+    "BeverageId": "crush-cream",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "056000000939"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "056000000939",
+        "Name": "Crush Cream"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "14.2",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "bda4ca4c-f0bf-4d0e-9c34-cc6bdbbf8d41",
+    "Name": "Schweppes Ginger Ale",
+    "BeverageId": "schweppe-ginger-ale",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "088500901423",
+      "088500901652",
+      "016600010127"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "088500901423",
+        "Name": "Schweppes Ginger Ale"
+      },
+      {
+        "Sku": "088500901652",
+        "Name": "Schweppes Ginger Ale"
+      },
+      {
+        "Sku": "016600010127",
+        "Name": "Schweppes Ginger Ale"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": null,
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "5cf869af-d91c-4a56-930a-1de427d13055",
+    "Name": "Aquafina Flavorsplash (berry loco)",
+    "BeverageId": "aquafina-flavorsplash-berry-loco",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999999000003",
+      "999999000009"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999999000003",
+        "Name": "Aquafina Flavorsplash (berry loco)"
+      },
+      {
+        "Sku": "999999000009",
+        "Name": "Aquafina Flavorsplash (berry loco)"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "96e1f1d2-ce1b-47bc-ad3b-9bfcee8de8f9",
+    "Name": "Aquafina Flavorsplash (peelin' good)",
+    "BeverageId": "aquafina-flavorsplash-peelin-good",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999999000004",
+      "999999000010"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999999000004",
+        "Name": "Aquafina Flavorsplash (peelin' good)"
+      },
+      {
+        "Sku": "999999000010",
+        "Name": "Aquafina Flavorsplash (peelin' good)"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "34e9bd3c-be98-44cd-a8df-d92d4bff25e2",
+    "Name": "Lipton Lemon",
+    "BeverageId": "lipton-lemon",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "999998000122"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000122",
+        "Name": "Lipton Lemon"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "9.127110590875",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "64e8228e-220d-4fa6-a127-002383e39867",
+    "Name": "Lipton Peach",
+    "BeverageId": "lipton-peach",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "999998000121"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000121",
+        "Name": "Lipton Peach"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "5.849455873625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "2cc62b41-650f-4439-ad79-e7d8444c21b3",
+    "Name": "Tango Apple",
+    "BeverageId": "tango-apple",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000123"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000123",
+        "Name": "Tango Apple"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "ae6dedac-5466-4e3d-a0fd-6c4da08ea4a0",
+    "Name": "Tango Orange",
+    "BeverageId": "tango-orange",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000124"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000124",
+        "Name": "Tango Orange"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+    "Name": "7UP",
+    "BeverageId": "7up",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "065400002030",
+      "078000200157",
+      "078000200010"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "065400002030",
+        "Name": "7UP"
+      },
+      {
+        "Sku": "078000200157",
+        "Name": "7UP"
+      },
+      {
+        "Sku": "078000200010",
+        "Name": "7UP"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "11.7860791033261",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "5a27a266-1c57-40d7-8a8a-ff0b0704157b",
+    "Name": "7UP Free",
+    "BeverageId": "7up-free",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000127"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000127",
+        "Name": "7UP Free"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "942f5e31-cfbf-4442-9917-db546f494eee",
+    "Name": "7UP Mojito",
+    "BeverageId": "7up-mojito",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000120"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000120",
+        "Name": "7UP Mojito"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "2fb003bb-3663-4ab6-969c-2fcde27fad52",
+    "Name": "Dole Strawberry Kiwi",
+    "BeverageId": "dole-strawberry-kiwi",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [
+      "065912006502"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "065912006502",
+        "Name": "Dole Strawberry Kiwi"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "7b2d030a-7b43-40a6-b552-fe9b6896faa0",
+    "Name": "Izze Blackberry",
+    "BeverageId": "izze-sparkling-blackberry",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000116"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000116",
+        "Name": "Izze Blackberry"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "646ca2ff-8f0b-4564-97e3-925ce66c0d52",
+    "Name": "Izze Clementine",
+    "BeverageId": "izze-sparkling-clementine",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000117"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000117",
+        "Name": "Izze Clementine"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "9.323110827625",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "432d388d-dbea-4311-bbaa-275dad1d8825",
+    "Name": "Izze Grapefruit",
+    "BeverageId": "izze-sparkling-grapefruit",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000118"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000118",
+        "Name": "Izze Grapefruit"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "9.779599487375",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "40e5f770-c44a-40f9-915d-5035b34a4bbb",
+    "Name": "Izze Pomegranate",
+    "BeverageId": "izze-sparkling-pomegranate",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "999998000115"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "999998000115",
+        "Name": "Izze Pomegranate"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "aa3abf90-a583-442b-94ed-bb4782c47f8b",
+    "Name": "Cheerwine",
+    "BeverageId": "cheerwine",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "070925000836",
+      "070925000812"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "070925000836",
+        "Name": "Cheerwine"
+      },
+      {
+        "Sku": "070925000812",
+        "Name": "Cheerwine"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "3dd6e261-f6e3-43a9-a494-bb29c8e86841",
+    "Name": "Diet Cheerwine",
+    "BeverageId": "cheerwine-diet",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "070925000881"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "070925000881",
+        "Name": "Diet Cheerwine"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "5a0e67ed-825b-4c59-9869-7148db66dc81",
+    "Name": "Big Red",
+    "BeverageId": "big-red",
+    "Type": "Beverage",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [
+      "850233004258"
+    ],
+    "FlavorSkus": [],
+    "SyrupSkus2": [
+      {
+        "Sku": "850233004258",
+        "Name": "BIG RED"
+      }
+    ],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "12.5",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 5
+  },
+  {
+    "Id": "73fd5c76-b87d-4628-addd-6e7b35fe79c8",
+    "Name": "Aquafina Sparkling",
+    "BeverageId": "water-sparkling",
+    "Type": "Water",
+    "WaterSkus": [
+      "0111",
+      "0333"
+    ],
+    "SyrupSkus": [],
+    "FlavorSkus": [],
+    "SyrupSkus2": [],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 0
+  },
+  {
+    "Id": "f094e81a-b006-410d-9d38-58246e08e51f",
+    "Name": "Water",
+    "BeverageId": "water-tap",
+    "Type": "Water",
+    "WaterSkus": [
+      "0222",
+      "0444"
+    ],
+    "SyrupSkus": [],
+    "FlavorSkus": [],
+    "SyrupSkus2": [],
+    "FlavorSkus2": [],
+    "CaloriesPerOz": "0",
+    "UnAllowedFlavors": [],
+    "TopOffDelay": 0
+  }
+ ]
+}

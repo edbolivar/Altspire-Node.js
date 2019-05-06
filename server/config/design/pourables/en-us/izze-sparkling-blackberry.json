@@ -1,0 +1,99 @@
+{
+  "id": "izze-sparkling-blackberry",
+  "recipeId": "7b2d030a-7b43-40a6-b552-fe9b6896faa0",
+  "languageCountryCode": "en-us",
+  "name": "Izze Sparkling Blackberry",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-izze",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/izze-sparkling-blackberry_logo.png",
+      "logoBrand": "./assets/beverages/izze-sparkling-blackberry_logo.png",
+      "gradient": "./assets/beverages/izze-sparkling-blackberry_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/izze-sparkling-pomegranate_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/izze-sparkling-pomegranate_idle.webm",
+      "liquidBackground": "./assets/beverages/izze-sparkling-blackberry_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffe18aaa",
+      "animationLight": "#e13b80",
+      "animationDark": "#9a0f5e"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f5afcc",
+        "#c3527c"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f7ebef",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ae3763",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_blackberry_tower",
+      "offsetX": 0.0,
+      "offsetY": -30.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_blackberry_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_blackberry_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_blackberry_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff776a70",
+      "#ff774143",
+      "#ff774143"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/izze-sparkling-blackberry_logo.png",
+  "spire6BackgroundColor": "#e2aac5",
+  "CalorieCups": []
+}

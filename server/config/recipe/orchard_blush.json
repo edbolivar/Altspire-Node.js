@@ -1,0 +1,47 @@
+{
+  "Revision": 1,
+  "Id": "89bed8e8-651f-418a-9105-2551290cc7e5",
+  "Name": "Orchard Blush",
+  "BeverageId": "mix-orchard-blush",
+  "Type": "Mix",
+  "BrandId": "manzanita-sol" ,
+  "FlavorIds":[
+    "vanilla",
+    "strawberry"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000030772",
+      "Name": "Manzanita Sol"
+    },
+    {
+      "Sku": "012000023194",
+      "Name": "Manzanita Sol"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "888888000010",
+      "Name": "FW Vanilla (CA)"
+    },
+    {
+      "Sku": "012000043215",
+      "Name": "Flavor Works Vanilla"
+    },
+    {
+      "Sku": "012000043239",
+      "Name": "Flavor Works Strawberry"
+    },
+    {
+      "Sku": "888888000012",
+      "Name": "FW Strawberry (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

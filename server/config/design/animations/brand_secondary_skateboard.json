@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_skateboard",
+  "image": "assets/animations/brands/secondary_skateboard.png",
+  "frameWidth": 210,
+  "frameHeight": 210,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.67,
+  "format": "bgra"
+}

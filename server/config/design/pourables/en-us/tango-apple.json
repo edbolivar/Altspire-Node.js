@@ -1,0 +1,97 @@
+{
+  "id": "tango-apple",
+  "recipeId": "2cc62b41-650f-4439-ad79-e7d8444c21b3",
+  "languageCountryCode": "en-us",
+  "name": "Tango Apple",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-tango",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/tango-apple_logo.png",
+      "logoBrand": "./assets/beverages/tango-apple_logo.png",
+      "gradient": "./assets/beverages/tango-apple_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/manzanita-sol_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/manzanita-sol_idle.webm",
+      "liquidBackground": "./assets/beverages/manzanita-sol_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffff8e8e",
+      "animationLight": "#ffa9aa",
+      "animationDark": "#d1191b"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff7e80",
+        "#ff2e31",
+        "#bb0a0d"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffd8d8",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ff6567",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff5b5b"
+    ]
+  },
+  "Weighting": 1860,
+  "spire6ImageLogo": "./assets/beverages/tango-apple_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

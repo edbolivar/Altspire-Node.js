@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "dole_strawberry_kiwi",
+  "Weighting": 1910,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "CDN DOL STW KWI ",
+      "MixRatio": "5",
+      "Name": "Dole Strawberry Kiwi",
+      "SKU": "065912006502",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

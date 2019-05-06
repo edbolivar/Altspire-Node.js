@@ -1,0 +1,96 @@
+{
+  "id": "mix-hail-mary",
+  "recipeId": null,
+  "languageCountryCode": "en-us",
+  "name": "Hail Mary",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-hail-mary_logo.png",
+      "logoBrand": "./assets/beverages/mix-hail-mary_logo.png",
+      "gradient": "./assets/beverages/mix-hail-mary_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-hail-mary_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-hail-mary_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-hail-mary_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffcf202c",
+      "animationLight": "#ffb4b9",
+      "animationDark": "#ff4c57"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fcf596",
+        "#fc5372",
+        "#cf202c"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fcf596",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#fc5372",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#cf202c",
+        "opacityMin": 0.35,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffffff"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-hail-mary_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

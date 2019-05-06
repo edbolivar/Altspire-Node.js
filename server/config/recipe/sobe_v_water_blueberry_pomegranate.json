@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "15ac0322-043c-4fa3-b50d-4ad1e58f90bd",
+  "Name": "Sobe V Water Blueberry Pomegranate",
+  "BeverageId": "sobe-v-water-blueberry-pomegranate",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000126",
+      "Name": "Sobe V Water Blueberry Pomegranate"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

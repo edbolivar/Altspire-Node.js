@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "mountain_dew_kickstart_orange",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "Mountain Dew Kickstart Orange",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Kickstart Orange",
+      "SKU": "012000111983",
+      "CaloriesPerOz": "5.245825267625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

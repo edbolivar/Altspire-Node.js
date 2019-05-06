@@ -1,0 +1,11 @@
+{
+  "id": "menu_element_headphones",
+  "image": "assets/animations/menu/element_headphones.png",
+  "frameWidth": 128,
+  "frameHeight": 128,
+  "frames": 95,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

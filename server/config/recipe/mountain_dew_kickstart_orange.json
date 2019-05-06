@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "6b537627-d7c6-4925-bfc7-c02928eca05e",
+  "Name": "Mountain Dew Kickstart Orange",
+  "BeverageId": "kickstart-orange-citrus",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000111983",
+      "Name": "Mountain Dew Kickstart Orange"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

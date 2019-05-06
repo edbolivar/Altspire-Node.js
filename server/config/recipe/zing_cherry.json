@@ -1,0 +1,47 @@
+{
+  "Revision": 1,
+  "Id": "a3997d94-215d-41a8-a6fa-723eb91136f4",
+  "Name": "Zing Cherry",
+  "BeverageId": "mix-zing-cherry",
+  "Type": "Mix",
+  "BrandId": "mountain-dew-diet" ,
+  "FlavorIds":[
+    "cherry",
+    "lime"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400629",
+      "Name": "Diet Mountain Dew"
+    },
+    {
+      "Sku": "012000402517",
+      "Name": "Diet Mountain Dew"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043222",
+      "Name": "Flavor Works Cherry"
+    },
+    {
+      "Sku": "888888000006",
+      "Name": "FW Cherry (CA)"
+    },
+    {
+      "Sku": "012000043253",
+      "Name": "Flavor Works Lime"
+    },
+    {
+      "Sku": "888888000014",
+      "Name": "FW Lime (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

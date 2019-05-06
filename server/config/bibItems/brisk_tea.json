@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "brisk_tea",
+  "Weighting": 1500,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "LPT FTN SW NLEM 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Sweet Tea",
+      "SKU": "041000007262",
+      "CaloriesPerOz": "6.645892956375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "LPT FTN SW NLEM 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Sweet Tea",
+      "SKU": "041000010026",
+      "CaloriesPerOz": "6.645892956375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

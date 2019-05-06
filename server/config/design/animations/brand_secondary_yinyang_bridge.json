@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_yinyang_bridge",
+  "image": "assets/animations/brands/secondary_yinyang_bridge.png",
+  "frameWidth": 183,
+  "frameHeight": 201,
+  "frames": 110,
+  "smoothing": "bilinear",
+  "fps": 13,
+  "scale": 2,
+  "format": "bgra"
+}

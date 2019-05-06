@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_hearts_white_tower",
+  "image": "assets/animations/brands/secondary_hearts_white_tower.png",
+  "frameWidth": 264,
+  "frameHeight": 245,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

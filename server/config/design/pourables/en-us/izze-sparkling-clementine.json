@@ -1,0 +1,99 @@
+{
+  "id": "izze-sparkling-clementine",
+  "recipeId": "646ca2ff-8f0b-4564-97e3-925ce66c0d52",
+  "languageCountryCode": "en-us",
+  "name": "Izze Sparkling Clementine",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-izze",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/izze-sparkling-clementine_logo.png",
+      "logoBrand": "./assets/beverages/izze-sparkling-clementine_logo.png",
+      "gradient": "./assets/beverages/izze-sparkling-clementine_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/izze-sparkling-clementine_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/izze-sparkling-clementine_idle.webm",
+      "liquidBackground": "./assets/beverages/izze-sparkling-clementine_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fff3950f",
+      "animationLight": "#fcc622",
+      "animationDark": "#d15402"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffa71d",
+        "#ffa71d"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fdecdb",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f28b20",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_clementine_tower",
+      "offsetX": 0.0,
+      "offsetY": -30.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_clementine_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_clementine_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_clementine_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#fff3950f",
+      "#ffb5560b",
+      "#ffb5560b"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/izze-sparkling-clementine_logo.png",
+  "spire6BackgroundColor": "#ffe695",
+  "CalorieCups": []
+}

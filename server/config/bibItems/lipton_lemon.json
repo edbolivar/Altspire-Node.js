@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "lipton_lemon",
+  "Weighting": 1880,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "lipton lemon 5L",
+      "MixRatio": "5",
+      "Name": "Lipton Lemon",
+      "SKU": "999998000122",
+      "CaloriesPerOz": "9.127110590875",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

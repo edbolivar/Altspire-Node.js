@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_clouds_tower",
+  "image": "assets/animations/brands/secondary_clouds_tower.png",
+  "frameWidth": 300,
+  "frameHeight": 262,
+  "frames": 60,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

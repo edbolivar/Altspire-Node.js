@@ -1,0 +1,97 @@
+{
+  "id": "tango-orange",
+  "recipeId": "ae6dedac-5466-4e3d-a0fd-6c4da08ea4a0",
+  "languageCountryCode": "fr-ca",
+  "name": "Tango Orange",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-tango",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/tango-orange_logo.png",
+      "logoBrand": "./assets/beverages/tango-orange_logo.png",
+      "gradient": "./assets/beverages/tango-orange_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/tango-orange_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/tango-orange_idle.webm",
+      "liquidBackground": "./assets/beverages/tango-orange_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffffea05",
+      "animationLight": "#ffd861",
+      "animationDark": "#ff7d13"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffd861",
+        "#ff8b24"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fad77a",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ffa524",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff9d3100"
+    ]
+  },
+  "Weighting": 1870,
+  "spire6ImageLogo": "./assets/beverages/tango-orange_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

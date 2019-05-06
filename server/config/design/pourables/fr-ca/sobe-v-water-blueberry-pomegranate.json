@@ -1,0 +1,96 @@
+{
+  "id": "sobe-v-water-blueberry-pomegranate",
+  "recipeId": "15ac0322-043c-4fa3-b50d-4ad1e58f90bd",
+  "languageCountryCode": "fr-ca",
+  "name": "Sobe V-Water Blueberry Pomegranate",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-sobe",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/sobe-v-water-blueberry-pomegranate_logo.png",
+      "logoBrand": "./assets/beverages/sobe-v-water-blueberry-pomegranate_logo_brand.png",
+      "gradient": "./assets/beverages/sobe-v-water-blueberry-pomegranate_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/sobe-yumberry-pomegranate_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/sobe-yumberry-pomegranate_idle.webm",
+      "liquidBackground": "./assets/beverages/sobe-yumberry-pomegranate_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffff969b",
+      "animationLight": "#feb2c9",
+      "animationDark": "#f40056"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff9cba",
+        "#d80e44"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#dedede",
+        "opacityMin": 0.7,
+        "opacityMax": 0.9,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#dcdcdc",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffad3f47"
+    ]
+  },
+  "Weighting": 1640,
+  "spire6ImageLogo": "./assets/beverages/sobe-v-water-blueberry-pomegranate_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

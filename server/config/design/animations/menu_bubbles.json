@@ -1,0 +1,11 @@
+{
+  "id": "menu_bubbles",
+  "image": "assets/animations/menu/bubbles.png",
+  "frameWidth": 186,
+  "frameHeight": 186,
+  "frames": 110,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "bgraPacked4444"
+}

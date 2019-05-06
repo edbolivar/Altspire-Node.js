@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "manzanita_sol",
+  "Weighting": 1600,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "MANZANITA SOL 5 GAL BIB",
+      "MixRatio": "5",
+      "Name": "Manzanita Sol",
+      "SKU": "012000030772",
+      "CaloriesPerOz": "13.239827853375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "MANZANITA SOL 3 GAL BIB",
+      "MixRatio": "5",
+      "Name": "Manzanita Sol",
+      "SKU": "012000023194",
+      "CaloriesPerOz": "13.239827853375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

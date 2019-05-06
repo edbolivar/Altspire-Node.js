@@ -1,0 +1,101 @@
+{
+  "id": "mug",
+  "recipeId": "6761903e-d5e0-4c12-a7fd-4a84252abab1",
+  "languageCountryCode": "en-us",
+  "name": "Mug",
+  "flavors": [
+    "cherry",
+    "vanilla"
+  ],
+  "group": "group-mug",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mug_logo.png",
+      "logoBrand": "./assets/beverages/mug_logo.png",
+      "gradient": "./assets/beverages/mug_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mug_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mug_idle.webm",
+      "liquidBackground": "./assets/beverages/mug_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffb5774d",
+      "animationLight": "#dca683",
+      "animationDark": "#7c442b"
+    },
+    "particlesHome": {
+      "colors": [
+        "#8a5531",
+        "#703f1f",
+        "#61361a"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#dfd0c4",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#daba8c",
+        "opacityMin": 0.7,
+        "opacityMax": 0.8,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#9b8371",
+        "opacityMin": 0.4,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_paws",
+      "offsetX": 0.0,
+      "offsetY": -20.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_paws",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.3,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_paws_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_paws_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.3,
+      "scale": 0.9
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff502a09",
+      "#ff220800",
+      "#ff220800"
+    ]
+  },
+  "Weighting": 1290,
+  "spire6ImageLogo": "./assets/beverages/mug_logo.png",
+  "spire6BackgroundColor": "#65391c",
+  "CalorieCups": []
+}

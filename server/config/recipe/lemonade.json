@@ -1,0 +1,31 @@
+{
+  "Revision": 1,
+  "Id": "f7b41789-80b9-41d5-a3c8-64b3a6346a90",
+  "Name": "Brisk Lemonade",
+  "BeverageId": "brisk-lemonade",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "041000075018",
+      "Name": "Brisk Lemonade"
+    },
+    {
+      "Sku": "999999000007",
+      "Name": "Brisk Lemonade"
+    },
+    {
+      "Sku": "069000071021",
+      "Name": "Brisk Lemonade"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_yinyang",
+  "image": "assets/animations/brands/secondary_yinyang.png",
+  "frameWidth": 168,
+  "frameHeight": 186,
+  "frames": 127,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

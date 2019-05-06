@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "3edd71ae-47c4-4349-a5ff-953abd0b74c8",
+  "Name": "Diet Mug",
+  "BeverageId": "mug-diet",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400674",
+      "Name": "Diet Mug"
+    },
+    {
+      "Sku": "999999000005",
+      "Name": "Diet Mug"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

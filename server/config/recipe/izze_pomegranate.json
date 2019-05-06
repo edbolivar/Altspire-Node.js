@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "40e5f770-c44a-40f9-915d-5035b34a4bbb",
+  "Name": "Izze Pomegranate",
+  "BeverageId": "izze-sparkling-pomegranate",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000115",
+      "Name": "Izze Pomegranate"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

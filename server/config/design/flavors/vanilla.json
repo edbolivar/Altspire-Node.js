@@ -1,0 +1,29 @@
+{
+	"id": "vanilla",
+	"resourceId": "vanilla_id",
+	"name": "Flavor Works Vanilla",
+	"design": {
+		"textColor": "0xefe06b",
+		"textSelectedColor": "0xfff8cc",
+		"alphaDisabled": 0.6,
+		"backgroundColor": "0xe7e4b3"
+	},
+	"select": {
+		"asset": "assets/animations/flavors/vanilla_select.png",
+		"width": 226,
+		"height": 226,
+		"frames": 36,
+		"fps": 30,
+		"scale": 1
+	},
+	"spin": {
+		"asset": "assets/animations/flavors/vanilla_spin.png",
+		"width": 226,
+		"height": 226,
+		"frames": 61,
+		"fps": 30,
+		"scale": 1
+	},
+	"Spire6ImageLogo": "./assets/beverages/vanilla.png",
+	"Spire6BackgroundColor":"#e7e4b3"
+}

@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "mountain_dew_code_red",
+  "Weighting": 1240,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "MT DEW CODE RED 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Code Red",
+      "SKU": "012000402425",
+      "CaloriesPerOz": "14.332751795375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "MT DEW CODE RED 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Code Red",
+      "SKU": "012000101366",
+      "CaloriesPerOz": "14.332751795375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+  "Name": "Pepsi",
+  "BeverageId": "pepsi",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400032",
+      "Name": "Pepsi"
+    },
+    {
+      "Sku": "012000029363",
+      "Name": "Pepsi"
+    },
+    {
+      "Sku": "012000402463",
+      "Name": "Pepsi"
+    },
+    {
+      "Sku": "012000029356",
+      "Name": "Pepsi"
+    },
+    {
+      "Sku": "069000003039",
+      "Name": "Pepsi"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "5be91d4c-3d5e-4f95-bdfb-09e83ab4a196",
+  "Name": "Manzanita Sol",
+  "BeverageId": "manzanita-sol",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000030772",
+      "Name": "Manzanita Sol"
+    },
+    {
+      "Sku": "012000023194",
+      "Name": "Manzanita Sol"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

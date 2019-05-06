@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "brisk_mango_fiesta",
+  "Weighting": 1510,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "BSK MANGO FIESTA 5 GAL BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Mango Fiesta",
+      "SKU": "012000112003",
+      "CaloriesPerOz": "5.987762934375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "BSK MANGO FIESTA 3 GAL BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Mango Fiesta",
+      "SKU": "012000111990",
+      "CaloriesPerOz": "5.987762934375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

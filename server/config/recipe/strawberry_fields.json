@@ -1,0 +1,43 @@
+{
+  "Revision": 1,
+  "Id": "45a12d52-541d-4b26-bc02-462031a1c2dc",
+  "Name": "Strawberry Fields",
+  "BeverageId": "mix-strawberry-fields",
+  "Type": "Mix",
+  "BrandId": "7up-free" ,
+  "FlavorIds":[
+    "strawberry",
+    "lime"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000127",
+      "Name": "7UP Free"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043239",
+      "Name": "Flavor Works Strawberry"
+    },
+    {
+      "Sku": "888888000012",
+      "Name": "FW Strawberry (CA)"
+    },
+    {
+      "Sku": "012000043253",
+      "Name": "Flavor Works Lime"
+    },
+    {
+      "Sku": "888888000014",
+      "Name": "FW Lime (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

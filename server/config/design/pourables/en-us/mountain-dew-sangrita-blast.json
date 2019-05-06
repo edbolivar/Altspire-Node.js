@@ -1,0 +1,99 @@
+{
+  "id": "mountain-dew-sangrita-blast",
+  "recipeId": "b9dfe2c0-0b4b-43da-a1d4-64e13ed9b7d8",
+  "languageCountryCode": "en-us",
+  "name": "Mountain Dew Sangrita Blast",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mountain-dew",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mountain-dew-sangrita-blast_logo.png",
+      "logoBrand": "./assets/beverages/mountain-dew-sangrita-blast_logo.png",
+      "gradient": "./assets/beverages/mountain-dew-sangrita-blast_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mountain-dew-sangrita-blast_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mountain-dew-sangrita-blast_idle.webm",
+      "liquidBackground": "./assets/beverages/mountain-dew-sangrita-blast_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffe962df",
+      "animationLight": "#f76bea",
+      "animationDark": "#910488"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff7cf3",
+        "#920089"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fb8de9",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#7f1f79",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_hat_tower",
+      "offsetX": 0.0,
+      "offsetY": 60.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_hat_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_hat_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffe959de",
+      "#ffff1c8e",
+      "#ffff1c8e"
+    ]
+  },
+  "Weighting": 1230,
+  "spire6ImageLogo": "./assets/beverages/mountain-dew-sangrita-blast_logo.png",
+  "spire6BackgroundColor": "#da60a1",
+  "CalorieCups": []
+}

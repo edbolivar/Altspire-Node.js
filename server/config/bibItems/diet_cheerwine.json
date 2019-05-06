@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "diet_cheerwine",
+  "Weighting": 1710,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "Diet Cheerwine 3G",
+      "MixRatio": "5",
+      "Name": "Diet Cheerwine",
+      "SKU": "070925000881",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

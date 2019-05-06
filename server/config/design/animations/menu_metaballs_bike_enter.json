@@ -1,0 +1,11 @@
+{
+  "id": "menu_metaballs_bike_enter",
+  "image": "assets/animations/menu/metaballs_bike_enter.png",
+  "frameWidth": 65,
+  "frameHeight": 45,
+  "frames": 29,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "7up_mojito",
+  "Weighting": 1850,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "7up mojito 3G BIB",
+      "MixRatio": "5",
+      "Name": "7UP Mojito",
+      "SKU": "999998000120",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "crush_cream",
+  "Weighting": 1760,
+  "bibItems": [
+    {
+      "Bibsize": "20",
+      "Description": "CRSH CRM SDA 20L BIB",
+      "MixRatio": "5",
+      "Name": "Crush Cream Soda",
+      "SKU": "056000000939",
+      "CaloriesPerOz": "14.2",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

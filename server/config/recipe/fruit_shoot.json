@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "62f3891f-7fec-4b3e-9879-025ea139fd1f",
+  "Name": "Fruit Shoot",
+  "BeverageId": "fruit-shoot",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000125",
+      "Name": "Fruit Shoot"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

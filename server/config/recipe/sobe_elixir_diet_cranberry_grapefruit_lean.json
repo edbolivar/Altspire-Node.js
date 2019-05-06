@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "7b0bfe17-f003-4e60-8068-8ce4e332304c",
+  "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean",
+  "BeverageId": "sobe-elixir-diet-cranberry-grapefruit-lean",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999999000001",
+      "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean"
+    },
+    {
+      "Sku": "739510701151",
+      "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "tango_orange",
+  "Weighting": 1870,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "tango orange 12L",
+      "MixRatio": "5",
+      "Name": "Tango Orange",
+      "SKU": "999998000124",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

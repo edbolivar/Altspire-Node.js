@@ -1,0 +1,99 @@
+{
+  "id": "sobe-elixir-diet-cranberry-grapefruit-lean",
+  "recipeId": "7b0bfe17-f003-4e60-8068-8ce4e332304c",
+  "languageCountryCode": "en-us",
+  "name": "Sobe Lean Cranberry Grapefruit",
+  "maxFlavors": 2,
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-sobe",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/sobe-elixir-diet-cranberry-grapefruit-lean_logo.png",
+      "logoBrand": "./assets/beverages/sobe-elixir-diet-cranberry-grapefruit-lean_logo.png",
+      "gradient": "./assets/beverages/sobe-elixir-diet-cranberry-grapefruit-lean_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/sobe-elixir-diet-cranberry-grapefruit-lean_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/sobe-elixir-diet-cranberry-grapefruit-lean_idle.webm",
+      "liquidBackground": "./assets/beverages/sobe-elixir-diet-cranberry-grapefruit-lean_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#fff5a9a3",
+      "animationLight": "#febebe",
+      "animationDark": "#da0e0a"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffadad",
+        "#ca1613"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f9b9b9",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#b34342",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_clouds_tower",
+      "offsetX": 0.0,
+      "offsetY": 20.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_clouds_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 0.9
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_clouds_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_clouds_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.9
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff3f28",
+      "#ff3a0c08",
+      "#ff3a0c08"
+    ]
+  },
+  "Weighting": 1620,
+  "spire6ImageLogo": "./assets/beverages/sobe-elixir-diet-cranberry-grapefruit-lean_logo.png",
+  "spire6BackgroundColor": "#cfebfb",
+  "CalorieCups": []
+}

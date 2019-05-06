@@ -1,0 +1,18 @@
+{
+  "Revision": 1,
+  "Id": "f094e81a-b006-410d-9d38-58246e08e51f",
+  "Name": "Water",
+  "BeverageId": "water-tap",
+   "Type": "Water",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 0
+}

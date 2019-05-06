@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "flavor_works_lemon",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "1",
+      "Description": "1 Gal BIB",
+      "MixRatio": "5",
+      "Name": "Flavor Works Lemon",
+      "SKU": "012000043246",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+      "AltName" : "lemon",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

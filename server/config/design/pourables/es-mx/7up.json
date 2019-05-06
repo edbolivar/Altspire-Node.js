@@ -1,0 +1,97 @@
+{
+  "id": "7up",
+  "recipeId": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+  "languageCountryCode": "es-mx",
+  "name": "7-UP",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "raspberry",
+    "lime"
+  ],
+  "group": "group-7up",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/7up_logo_us.png",
+      "logoBrand": "./assets/beverages/7up_logo_us.png",
+      "gradient": "./assets/beverages/7up_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/7up_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/7up_idle.webm",
+      "liquidBackground": "./assets/beverages/7up_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffff118",
+      "animationLight": "#2a9a43",
+      "animationDark": "#096115"
+    },
+    "particlesHome": {
+      "colors": [
+        "#dff7de",
+        "#28cc20"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#e8e7e2",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#b2aea7",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff51a21d",
+      "#ff4c640b",
+      "#ff4c640b"
+    ]
+  },
+  "Weighting": 1810,
+  "spire6ImageLogo": "./assets/beverages/7up_logo_us.png",
+  "spire6BackgroundColor": "#37992c",
+  "CalorieCups": []
+}

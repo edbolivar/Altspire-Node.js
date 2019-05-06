@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "gatorade_lemon-lime",
+  "Weighting": 1650,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "GATORADE LMN LIME 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Gatorade Lemon-Lime",
+      "SKU": "052000330052",
+      "CaloriesPerOz": "7.552276649625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

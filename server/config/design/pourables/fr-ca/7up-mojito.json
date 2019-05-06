@@ -1,0 +1,95 @@
+{
+  "id": "7up-mojito",
+  "recipeId": "942f5e31-cfbf-4442-9917-db546f494eee",
+  "languageCountryCode": "fr-ca",
+  "name": "7-UP Mojito",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "raspberry",
+    "lime"
+  ],
+  "group": "group-7up",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/7up-mojito_logo.png",
+      "logoBrand": "./assets/beverages/7up-mojito_logo.png",
+      "gradient": "./assets/beverages/7up-mojito_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/7up-mojito_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/7up-mojito_idle.webm",
+      "liquidBackground": "./assets/beverages/7up-mojito_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffff216",
+      "animationLight": "#2a9a43",
+      "animationDark": "#096115"
+    },
+    "particlesHome": {
+      "colors": [
+        "#dff7de",
+        "#28cc20"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#35ae57",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ccf9ca",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff8f6c0c"
+    ]
+  },
+  "Weighting": 1850,
+  "spire6ImageLogo": "./assets/beverages/7up-mojito_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

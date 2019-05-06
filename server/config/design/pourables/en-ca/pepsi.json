@@ -1,0 +1,107 @@
+{
+  "id": "pepsi",
+  "recipeId": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+  "languageCountryCode": "en-ca",
+  "name": "Pepsi",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-pepsi",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/pepsi_logo.png",
+      "logoBrand": "./assets/beverages/pepsi_logo_brand.png",
+      "gradient": "./assets/beverages/pepsi_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/pepsi_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/pepsi_idle.webm",
+      "liquidBackground": "./assets/beverages/pepsi_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ff197af1",
+      "animationLight": "#7ebaff",
+      "animationDark": "#0951ce"
+    },
+    "particlesHome": {
+      "colors": [
+        "#218ef4",
+        "#1376d3",
+        "#054db0"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#7fe0ff",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#4caed6",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#209be2",
+        "opacityMin": 0.35,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_headphone",
+      "offsetX": 0.0,
+      "offsetY": -70.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_headphone",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_headphone_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_headphone_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.4,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff123495",
+      "#ff000c57",
+      "#ff000c57"
+    ]
+  },
+  "Weighting": 1030,
+  "spire6ImageLogo": "./assets/beverages/pepsi_logo.png",
+  "spire6BackgroundColor": "#2d71b0",
+  "CalorieCups": []
+}

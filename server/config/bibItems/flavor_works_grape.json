@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "flavor_works_grape",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "1",
+      "Description": "1 Gal BIB",
+      "MixRatio": "5",
+      "Name": "Flavor Works Grape",
+      "SKU": "012000043284",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+      "AltName" : "grape",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

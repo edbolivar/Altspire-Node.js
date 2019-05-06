@@ -1,0 +1,107 @@
+{
+  "id": "mountain-dew",
+  "recipeId": "bc331e6e-6315-48c7-a1f0-e140eadc7d10",
+  "languageCountryCode": "es-mx",
+  "name": "Mountain Dew",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mountain-dew",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mountain-dew_logo.png",
+      "logoBrand": "./assets/beverages/mountain-dew_logo.png",
+      "gradient": "./assets/beverages/mountain-dew_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mountain-dew_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mountain-dew_idle.webm",
+      "liquidBackground": "./assets/beverages/mountain-dew_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "0xff56dd21",
+      "animationLight": "#4dee4d",
+      "animationDark": "#068606"
+    },
+    "particlesHome": {
+      "colors": [
+        "#36d236",
+        "#0ea127",
+        "#068923"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#0fdf2e",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#35b40e",
+        "opacityMin": 0.2,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#00701b",
+        "opacityMin": 0.3,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_skateboard",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_skateboard",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.6,
+      "scale": 0.88
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_skateboard_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_skateboard_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.6,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff51a20f",
+      "#ff4a7d07",
+      "#ff4a7d07"
+    ]
+  },
+  "Weighting": 1170,
+  "spire6ImageLogo": "./assets/beverages/mountain-dew_logo_brand.png",
+  "spire6BackgroundColor": "#0f964e",
+  "CalorieCups": []
+}

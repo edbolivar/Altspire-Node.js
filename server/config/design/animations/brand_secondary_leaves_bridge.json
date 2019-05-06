@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_leaves_bridge",
+  "image": "assets/animations/brands/secondary_leaves_bridge.png",
+  "frameWidth": 198,
+  "frameHeight": 326,
+  "frames": 60,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

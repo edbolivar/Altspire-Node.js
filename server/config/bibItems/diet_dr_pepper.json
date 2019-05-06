@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "diet_dr_pepper",
+  "Weighting": 1380,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "Diet Dr Pepper 5G",
+      "MixRatio": "5",
+      "Name": "Diet Dr Pepper",
+      "SKU": "054900720476",
+      "CaloriesPerOz": "0.0919164619749373",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "Diet Dr Pepper 3G",
+      "MixRatio": "5",
+      "Name": "Diet Dr Pepper",
+      "SKU": "054900720513",
+      "CaloriesPerOz": "0.0919164619749373",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "12",
+      "Description": "CDN DIET DRPEP 12L BIB",
+      "MixRatio": "5",
+      "Name": "Diet Dr Pepper",
+      "SKU": "054900800291",
+      "CaloriesPerOz": "0.0919164619749373",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

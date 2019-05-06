@@ -1,0 +1,98 @@
+{
+  "id": "crush-strawberry",
+  "recipeId": "9c5622f9-cac7-49d4-923d-47fc4d753693",
+  "languageCountryCode": "en-us",
+  "name": "Crush Strawberry",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mirinda",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/crush-strawberry_logo.png",
+      "logoBrand": "./assets/beverages/crush-strawberry_logo.png",
+      "gradient": "./assets/beverages/mirinda-strawberry_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mirinda-strawberry_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mirinda-strawberry_idle.webm",
+      "liquidBackground": "./assets/beverages/mirinda-strawberry_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fff7a08b",
+      "animationLight": "#f24d2f",
+      "animationDark": "#d02e1d"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f6806b",
+        "#f35336"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fbac9e",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#e66a54",
+        "opacityMin": 0.35,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffb9331b",
+      "#ff840e0e",
+      "#ff840e0e"
+    ]
+  },
+  "Weighting": 1770,
+  "spire6ImageLogo": "./assets/beverages/crush-strawberry_logo.png",
+  "spire6BackgroundColor": "#e51478",
+  "CalorieCups": []
+}

@@ -1,0 +1,11 @@
+{
+  "id": "menu_metaballs_headphones_1",
+  "image": "assets/animations/menu/metaballs_headphones_1.png",
+  "frameWidth": 80,
+  "frameHeight": 71,
+  "frames": 25,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

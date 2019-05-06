@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "high_still",
+  "Weighting": 30,
+  "bibItems": [
+    {
+      "Bibsize": "PW-H",
+      "Description": "Main water supply",
+      "MixRatio": "5",
+      "Name": "High Still",
+      "SKU": "0222",
+      "CaloriesPerOz": null,
+      "Type": "StillWater",
+      "Country": [
+        "US",
+		"CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

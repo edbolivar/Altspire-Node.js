@@ -1,0 +1,99 @@
+{
+  "id": "izze-sparkling-grapefruit",
+  "recipeId": "432d388d-dbea-4311-bbaa-275dad1d8825",
+  "languageCountryCode": "en-us",
+  "name": "Izze Sparkling Grapefruit",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-izze",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/izze-sparkling-grapefruit_logo.png",
+      "logoBrand": "./assets/beverages/izze-sparkling-grapefruit_logo.png",
+      "gradient": "./assets/beverages/izze-sparkling-grapefruit_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/izze-sparkling-grapefruit_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/izze-sparkling-grapefruit_idle.webm",
+      "liquidBackground": "./assets/beverages/izze-sparkling-grapefruit_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffff5d47",
+      "animationLight": "#ff666e",
+      "animationDark": "#bb3539"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fda2a7",
+        "#ff4146"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffe4e2",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#c43a31",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_grapefruit_tower",
+      "offsetX": 0.0,
+      "offsetY": -30.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_grapefruit_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_grapefruit_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_grapefruit_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff8347",
+      "#ffff5738",
+      "#ffff5738"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/izze-sparkling-grapefruit_logo.png",
+  "spire6BackgroundColor": "#fcd7d1",
+  "CalorieCups": []
+}

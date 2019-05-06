@@ -1,0 +1,29 @@
+{
+	"id": "grape",
+	"resourceId": "grape_id",
+	"name": "Flavor Works Grape",
+	"design": {
+		"textColor": "0x8560a8",
+		"textSelectedColor": "0xb57aba",
+		"alphaDisabled": 0.6,
+		"backgroundColor": "0x99589e"
+	},
+	"select": {
+		"asset": "assets/animations/flavors/grape_select.png",
+		"width": 226,
+		"height": 226,
+		"frames": 33,
+		"fps": 30,
+		"scale": 1
+	},
+	"spin": {
+		"asset": "assets/animations/flavors/grape_spin.png",
+		"width": 226,
+		"height": 226,
+		"frames": 66,
+		"fps": 30,
+		"scale": 1
+	},
+	"Spire6ImageLogo": "./assets/beverages/grape.png",
+	"Spire6BackgroundColor":"#99589e"
+}

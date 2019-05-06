@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "flavor_works_lime",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "1",
+      "Description": "1 Gal BIB",
+      "MixRatio": "5",
+      "Name": "Flavor Works Lime",
+      "SKU": "012000043253",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+      "AltName" : "lime",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

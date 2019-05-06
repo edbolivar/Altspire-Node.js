@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "fruit_shoot",
+  "Weighting": 1900,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "fruit shoot",
+      "MixRatio": "5",
+      "Name": "Fruit Shoot",
+      "SKU": "999998000125",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

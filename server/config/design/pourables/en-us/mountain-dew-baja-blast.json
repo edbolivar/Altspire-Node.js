@@ -1,0 +1,107 @@
+{
+  "id": "mountain-dew-baja-blast",
+  "recipeId": "79d8b159-bedd-4794-a2c7-373fafedf940",
+  "languageCountryCode": "en-us",
+  "name": "Mountain Dew Baja Blast",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mountain-dew",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mountain-dew-baja-blast_logo.png",
+      "logoBrand": "./assets/beverages/mountain-dew-baja-blast_logo.png",
+      "gradient": "./assets/beverages/mountain-dew-baja-blast_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mountain-dew-baja-blast_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mountain-dew-baja-blast_idle.webm",
+      "liquidBackground": "./assets/beverages/mountain-dew-baja-blast_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ff41efe0",
+      "animationLight": "#47e8da",
+      "animationDark": "#19807d"
+    },
+    "particlesHome": {
+      "colors": [
+        "#92eee6",
+        "#18c7b7",
+        "#109c8e"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#92eee6",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#18c7b7",
+        "opacityMin": 0.7,
+        "opacityMax": 0.9,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#109c8e",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_waves",
+      "offsetX": 0.0,
+      "offsetY": 70.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_waves",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 0.8
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_waves_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_waves",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffa4ffa9",
+      "#ff447445",
+      "#ff447445"
+    ]
+  },
+  "Weighting": 1210,
+  "spire6ImageLogo": "./assets/beverages/mountain-dew-baja-blast_logo.png",
+  "spire6BackgroundColor": "#43bbbc",
+  "CalorieCups": []
+}

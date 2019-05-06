@@ -1,0 +1,53 @@
+{
+  "id": "mix-gala-la-la",
+  "recipeId": "e380a5ab-9f99-4012-be69-08abc3c90971",
+  "languageCountryCode": "fr-ca",
+  "name": "Gala-la-la",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-gala-la-la_logo.png",
+      "logoBrand": "./assets/beverages/mix-gala-la-la_logo_brand.png",
+      "gradient": "./assets/beverages/mix-gala-la-la_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mountain-dew-code-red_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mountain-dew-code-red_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-gala-la-la_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffe85474",
+      "animationLight": "#dc3559",
+      "animationDark": "#a31d3d"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f28a99",
+        "#ce2047"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fce2e5",
+        "opacityMin": "0.45",
+        "opacityMax": "0.55",
+        "frequency": "1",
+        "colorVariation": "0"
+      },
+      {
+        "color": "#f39daa",
+        "opacityMin": "0.35",
+        "opacityMax": "0.5",
+        "frequency": "1",
+        "colorVariation": "0"
+      }
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-gala-la-la_logo.png",
+  "spire6BackgroundColor": null
+}

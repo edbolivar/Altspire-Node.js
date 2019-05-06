@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "aquafina_flavorsplash_(berry_loco)",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "Aquafina Flavorsplash berry loco 5G",
+      "MixRatio": "5",
+      "Name": "Aquafina Flavorsplash (berry loco)",
+      "SKU": "999999000003",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "Aquafina Flavorsplash berry loco 3G",
+      "MixRatio": "5",
+      "Name": "Aquafina Flavorsplash (berry loco)",
+      "SKU": "999999000009",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

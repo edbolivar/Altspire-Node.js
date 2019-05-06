@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "34e9bd3c-be98-44cd-a8df-d92d4bff25e2",
+  "Name": "Lipton Lemon",
+  "BeverageId": "lipton-lemon",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000122",
+      "Name": "Lipton Lemon"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

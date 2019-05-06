@@ -1,0 +1,106 @@
+{
+  "id": "manzanita-sol",
+  "recipeId": "5be91d4c-3d5e-4f95-bdfb-09e83ab4a196",
+  "languageCountryCode": "en-us",
+  "name": "Manzanita Sol Apple/Manzana",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-manzanita",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/manzanita-sol_logo.png",
+      "logoBrand": "./assets/beverages/manzanita-sol_logo_brand.png",
+      "gradient": "./assets/beverages/manzanita-sol_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/manzanita-sol_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/manzanita-sol_idle.webm",
+      "liquidBackground": "./assets/beverages/manzanita-sol_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffff8e8e",
+      "animationLight": "#ffa9aa",
+      "animationDark": "#ce1619"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff7e80",
+        "#bb0a0d"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ff7e80",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ff2e31",
+        "opacityMin": 0.7,
+        "opacityMax": 0.9,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#bb0a0d",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_apple",
+      "offsetX": 0.0,
+      "offsetY": 10.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_apple",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.2,
+      "scale": 0.8
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_apple_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.4,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_apple_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.2,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff890600",
+      "#ff970400",
+      "#ff970400"
+    ]
+  },
+  "Weighting": 1600,
+  "spire6ImageLogo": "./assets/beverages/manzanita-sol_logo.png",
+  "spire6BackgroundColor": "#ed3322",
+  "CalorieCups": []
+}

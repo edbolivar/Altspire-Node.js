@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_skateboard_purple",
+  "image": "assets/animations/brands/secondary_skateboard_purple.png",
+  "frameWidth": 144,
+  "frameHeight": 165,
+  "frames": 143,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

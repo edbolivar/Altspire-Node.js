@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "d406b898-8e4d-4ee7-b04a-bc8a3c5f79ea",
+  "Name": "Caffeine Free Pepsi",
+  "BeverageId": "pepsi-caffeine-free",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400544",
+      "Name": "Caffeine Free Pepsi"
+    },
+    {
+      "Sku": "012000402487",
+      "Name": "Caffeine Free Pepsi"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

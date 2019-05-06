@@ -1,0 +1,76 @@
+{
+  "id": "culver-root-beer",
+  "recipeId": "dfa038bb-af62-4d2a-b171-000c7bb03068",
+  "languageCountryCode": "en-us",
+  "name": "Culver Root Beer",
+  "flavors": [
+    "cherry",
+    "vanilla"
+  ],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/culver-root-beer.png",
+      "logoBrand": "./assets/beverages/culver-root-beer.png",
+      "gradient": "./assets/beverages/culver-root-beer_gradient.png",
+      "liquidIntro": null,
+      "liquidIdle": null,
+      "liquidBackground": "./assets/beverages/culver_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffb57759",
+      "animationLight": "#c98b75",
+      "animationDark": "#723926"
+    },
+    "particlesHome": {
+      "colors": [
+        "#823f2a",
+        "#61331a"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_root-beer-tower",
+      "offsetX": 0.0,
+      "offsetY": -20.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_root-beer-tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.3,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_root-beer-bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_root-beer-bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.3,
+      "scale": 0.9
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffffff"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/culver-root-beer.png",
+  "spire6BackgroundColor": "#9d654c",
+  "CalorieCups": []
+}

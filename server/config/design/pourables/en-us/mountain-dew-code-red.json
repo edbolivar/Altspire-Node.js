@@ -1,0 +1,99 @@
+{
+  "id": "mountain-dew-code-red",
+  "recipeId": "e6e133cb-6315-48c7-a1f0-01d7cdae041e",
+  "languageCountryCode": "en-us",
+  "name": "Mountain Dew Code Red",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mountain-dew",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mountain-dew-code-red_logo.png",
+      "logoBrand": "./assets/beverages/mountain-dew-code-red_logo.png",
+      "gradient": "./assets/beverages/mountain-dew-code-red_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mountain-dew-code-red_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mountain-dew-code-red_idle.webm",
+      "liquidBackground": "./assets/beverages/mountain-dew-code-red_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffff344f",
+      "animationLight": "#eea0aa",
+      "animationDark": "#b7140d"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffacb7",
+        "#b60024"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffb2bb",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ac0033",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_tunnel_tower",
+      "offsetX": 0.0,
+      "offsetY": 40.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_tunnel_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_tunnel_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.95,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_tunnel_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff410303",
+      "#ff7d0000",
+      "#ff7d0000"
+    ]
+  },
+  "Weighting": 1240,
+  "spire6ImageLogo": "./assets/beverages/mountain-dew-code-red_logo.png",
+  "spire6BackgroundColor": "#d53a30",
+  "CalorieCups": []
+}

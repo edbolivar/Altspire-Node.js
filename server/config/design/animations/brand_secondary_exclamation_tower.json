@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_exclamation_tower",
+  "image": "assets/animations/brands/secondary_exclamation_tower.png",
+  "frameWidth": 192,
+  "frameHeight": 336,
+  "frames": 75,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

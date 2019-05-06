@@ -1,0 +1,148 @@
+{
+  "Assignments": [
+    {
+      "ValveId": "S11 - V19",
+      "SKU": null,
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S12 - V20",
+      "SKU": null,
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "F1 - V25",
+      "SKU": "012000043222",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "F2 - V26",
+      "SKU": "",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "F3 - V27",
+      "SKU": "012000043239",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S1 - V9",
+      "SKU": "012000400032",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S2 - V10",
+      "SKU": "012000400063",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S3 - V11",
+      "SKU": "012000201615",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S4 - V12",
+      "SKU": "012000400094",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S5 - V13",
+      "SKU": "012000016226",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "PW-L - V4",
+      "SKU": "0444",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "CW-L - V3",
+      "SKU": "0333",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "F4 - V28",
+      "SKU": "012000043246",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "F5 - V29",
+      "SKU": "012000043277",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "F6 - V30",
+      "SKU": "",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S13 - V21",
+      "SKU": null,
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S14 - V22",
+      "SKU": null,
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "PW-R - V2",
+      "SKU": "0222",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "CW-R - V1",
+      "SKU": "0111",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S6 - V14",
+      "SKU": "041000075018",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S7 - V15",
+      "SKU": "012000400117",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S8 - V16",
+      "SKU": "012000503894",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S9 - V17",
+      "SKU": "012000400629",
+      "IsLocked": false,
+      "IsHighYield": false
+    },
+    {
+      "ValveId": "S10 - V18",
+      "SKU": null,
+      "IsLocked": false,
+      "IsHighYield": false
+    }
+  ]
+}

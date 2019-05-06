@@ -1,0 +1,30 @@
+{
+  "Revision": 1,
+  "Id": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+  "Name": "Pepsi Zero 0 Sugar",
+  "BeverageId": "pepsi-zero",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000630453",
+      "Name": "Pepsi Zero 0 Sugar"
+    },
+    {
+      "Sku": "012000033520",
+      "Name": "Pepsi Zero 0 Sugar"
+    },
+    {
+      "Sku": "999998000128",
+      "Name": "Pepsi Zero 0 Sugar"
+    }
+  ],
+  "FlavorSkus": [],
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,93 @@
+{
+  "id": "mix-strawberry-fields",
+  "recipeId": "45a12d52-541d-4b26-bc02-462031a1c2dc",
+  "languageCountryCode": "en-ca",
+  "name": "Strawberry Fields",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-strawberry-fields_logo.png",
+      "logoBrand": "./assets/beverages/mix-strawberry-fields_logo_brand.png",
+      "gradient": "./assets/beverages/mix-strawberry-fields_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-strawberry-fields_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-strawberry-fields_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-strawberry-fields_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#fffa798a",
+      "animationLight": "#f65f62",
+      "animationDark": "#de3f43"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f65e5c",
+        "#dc3841"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fcdae1",
+        "opacityMin": 0.7,
+        "opacityMax": 0.9,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f47d93",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": []
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-strawberry-fields_logo_brand.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

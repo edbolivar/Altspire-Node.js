@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_leaves_tower",
+  "image": "assets/animations/brands/secondary_leaves_tower.png",
+  "frameWidth": 198,
+  "frameHeight": 329,
+  "frames": 75,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.33,
+  "format": "bgra"
+}

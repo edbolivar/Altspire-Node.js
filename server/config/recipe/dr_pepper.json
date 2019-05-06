@@ -1,0 +1,31 @@
+{
+  "Revision": 1,
+  "Id": "ee1aded4-5f43-4571-80d0-d6acdc57e857",
+  "Name": "Dr Pepper",
+  "BeverageId": "dr-pepper",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "054900710545",
+      "Name": "Dr Pepper"
+    },
+    {
+      "Sku": "054900800017",
+      "Name": "Dr Pepper"
+    },
+    {
+      "Sku": "054900002039",
+      "Name": "Dr Pepper"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

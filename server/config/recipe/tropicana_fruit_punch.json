@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "e46acfbc-77b1-4d46-9023-0eebd387de91",
+  "Name": "Tropicana Fruit Punch",
+  "BeverageId": "tropicana-fruit-punch",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000016226",
+      "Name": "Tropicana Fruit Punch"
+    },
+    {
+      "Sku": "012000016219",
+      "Name": "Tropicana Fruit Punch"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

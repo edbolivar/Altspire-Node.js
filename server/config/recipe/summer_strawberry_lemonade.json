@@ -1,0 +1,37 @@
+{
+  "Revision": 1,
+  "Id": "917d1c28-8c07-43b4-b77d-a07548067049",
+  "Name": "Summer Strawberry Lemonade",
+  "BeverageId": "mix-summer-strawberry-lemonade",
+  "Type": "Mix",
+  "BrandId": "brisk-lemonade" ,
+  "FlavorIds":[
+    "strawberry"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "041000075018",
+      "Name": "Brisk Lemonade"
+    },
+    {
+      "Sku": "999999000007",
+      "Name": "Brisk Lemonade"
+    },
+    {
+      "Sku": "069000071021",
+      "Name": "Brisk Lemonade"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043239",
+      "Name": "Flavor Works Strawberry"
+    }
+  ], 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

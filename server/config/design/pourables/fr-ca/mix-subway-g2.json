@@ -1,0 +1,86 @@
+{
+  "id": "mix-subway-g2",
+  "recipeId": null,
+  "languageCountryCode": "fr-ca",
+  "name": "Subway G2",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/founders_favorite_logo.png",
+      "logoBrand": "./assets/beverages/founders_favorite_brand_logo.png",
+      "gradient": "./assets/beverages/founders_favorite_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/g2-fruit-punch_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/g2-fruit-punch_idle.webm",
+      "liquidBackground": "./assets/beverages/founders_favorite_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffed1e5b",
+      "animationLight": "#f9bcc9",
+      "animationDark": "#f27686"
+    },
+    "particlesHome": {
+      "colors": [
+        "#e5e5e5",
+        "#aeaeae"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#e5e5e5",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#aeaeae",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": []
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/founders_favorite_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

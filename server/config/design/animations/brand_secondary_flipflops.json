@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_flipflops",
+  "image": "assets/animations/brands/secondary_flipflops.png",
+  "frameWidth": 129,
+  "frameHeight": 222,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

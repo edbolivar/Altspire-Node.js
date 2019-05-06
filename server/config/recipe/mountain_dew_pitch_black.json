@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "abc1c09f-5178-4371-b897-3d2636e53c84",
+  "Name": "Mountain Dew Pitch Black",
+  "BeverageId": "mountain-dew-pitch-black",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000152559",
+      "Name": "Mountain Dew Pitch Black"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

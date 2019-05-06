@@ -1,0 +1,64 @@
+{
+  "Revision": 1,
+  "Id": "f62250ea-183f-4275-af7a-c57e8bafa082",
+  "Name": "Three Layer Berry",
+  "BeverageId": "mix-three-layer-berry",
+  "Type": "Mix",
+  "BrandId": "mountain-dew" ,
+  "FlavorIds":[
+    "raspberry",
+    "strawberry",
+    "cherry"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400094",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000029325",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "069000020265",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000402500",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000029318",
+      "Name": "Mountain Dew"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043277",
+      "Name": "Flavor Works Raspberry"
+    },
+    {
+      "Sku": "012000043239",
+      "Name": "Flavor Works Strawberry"
+    },
+    {
+      "Sku": "888888000012",
+      "Name": "FW Strawberry (CA)"
+    },
+    {
+      "Sku": "012000043222",
+      "Name": "Flavor Works Cherry"
+    },
+    {
+      "Sku": "888888000006",
+      "Name": "FW Cherry (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

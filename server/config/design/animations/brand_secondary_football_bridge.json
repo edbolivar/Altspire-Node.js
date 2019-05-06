@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_football_bridge",
+  "image": "assets/animations/brands/secondary_football_bridge.png",
+  "frameWidth": 221,
+  "frameHeight": 210,
+  "frames": 48,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

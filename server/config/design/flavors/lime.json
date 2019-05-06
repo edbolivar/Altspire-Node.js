@@ -1,0 +1,29 @@
+{
+	"id": "lime",
+	"resourceId": "lime_id",
+	"name": "Flavor Works Lime",
+	"design": {
+		"textColor": "0xa0dc51",
+		"textSelectedColor": "0xe8f76d",
+		"alphaDisabled": 0.3,
+		"backgroundColor": "0xd2e252"
+	},
+	"select": {
+		"asset": "assets/animations/flavors/lime_select.png",
+		"width": 226,
+		"height": 226,
+		"frames": 36,
+		"fps": 30,
+		"scale": 1
+	},
+	"spin": {
+		"asset": "assets/animations/flavors/lime_spin.png",
+		"width": 226,
+		"height": 226,
+		"frames": 60,
+		"fps": 30,
+		"scale": 1
+	},
+	"Spire6ImageLogo": "./assets/beverages/lime.png",
+	"Spire6BackgroundColor":"#d2e252"
+}

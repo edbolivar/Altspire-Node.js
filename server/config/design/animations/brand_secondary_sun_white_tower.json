@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_sun_white_tower",
+  "image": "assets/animations/brands/secondary_sun_white_tower.png",
+  "frameWidth": 225,
+  "frameHeight": 303,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

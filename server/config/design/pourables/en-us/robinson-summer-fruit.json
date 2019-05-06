@@ -1,0 +1,102 @@
+{
+  "id": "robinson-summer-fruit",
+  "recipeId": "60be9d17-4ac1-46de-a1b9-a804bb40af3e",
+  "languageCountryCode": "en-us",
+  "name": "Robinson's summer fruit",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/robinson-summer-fruit_logo.png",
+      "logoBrand": "./assets/beverages/robinson-summer-fruit_brand.png",
+      "gradient": "./assets/beverages/tropicana-fruit-punch_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/tropicana-fruit-punch_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/tropicana-fruit-punch_idle.webm",
+      "liquidBackground": "./assets/beverages/tropicana-fruit-punch_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffffb1b6",
+      "animationLight": "#ffd1d1",
+      "animationDark": "#ed5353"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffbaba",
+        "#e4312f"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffbaba",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ff6773",
+        "opacityMin": 0.7,
+        "opacityMax": 0.9,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#e4312f",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffffff"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/robinson-summer-fruit_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "sierra_mist_zero_sugar",
+  "Weighting": 1270,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "DIET SRRA MST 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Sierra Mist Zero Sugar",
+      "SKU": "012000201615",
+      "CaloriesPerOz": "0.248522053375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "DIET SRRA MST 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Sierra Mist Zero Sugar",
+      "SKU": "012000201608",
+      "CaloriesPerOz": "0.248522053375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

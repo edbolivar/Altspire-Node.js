@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "5a0e67ed-825b-4c59-9869-7148db66dc81",
+  "Name": "Big Red",
+  "BeverageId": "big-red",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "850233004258",
+      "Name": "BIG RED"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

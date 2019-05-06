@@ -1,0 +1,87 @@
+{
+  "Revision": 1,
+  "Id": "pepsi",
+  "Weighting": 1030,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "PEPSI 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Pepsi",
+      "SKU": "012000400032",
+      "CaloriesPerOz": "12.67401590125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "5",
+      "Description": "Pepsi 5G HYS",
+      "MixRatio": "6",
+      "Name": "Pepsi",
+      "SKU": "012000029363",
+      "CaloriesPerOz": "12.67401590125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": true,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "20",
+      "Description": "Canada Pepsi 20L BIB",
+      "MixRatio": "5",
+      "Name": "Pepsi",
+      "SKU": "069000003039",
+      "CaloriesPerOz": "12.67401590125",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    },
+    {
+      "Bibsize": "3",
+      "Description": "PEPSI 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Pepsi",
+      "SKU": "012000402463",
+      "CaloriesPerOz": "12.67401590125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "PEPSI 3G HYS",
+      "MixRatio": "6",
+      "Name": "Pepsi",
+      "SKU": "012000029356",
+      "CaloriesPerOz": "12.67401590125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": true,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

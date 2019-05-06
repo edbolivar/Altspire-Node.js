@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "7up",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "Bubly Raspberry",
+      "MixRatio": "3",
+      "Name": "Bubly Raspberry",
+      "SKU": "012000180170",
+      "CaloriesPerOz": "0.23746614975",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

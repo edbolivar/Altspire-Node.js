@@ -1,0 +1,99 @@
+{
+  "id": "big-red",
+  "recipeId": "5a0e67ed-825b-4c59-9869-7148db66dc81",
+  "languageCountryCode": "en-us",
+  "name": "Big Red",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/big-red_logo.png",
+      "logoBrand": "./assets/beverages/big-red_logo.png",
+      "gradient": "./assets/beverages/big-red_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mountain-dew-code-red_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mountain-dew-code-red_idle.webm",
+      "liquidBackground": "./assets/beverages/big-red_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffff5f5f",
+      "animationLight": "#f90c30",
+      "animationDark": "#c51528"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff6a6a",
+        "#e90000"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fec5cb",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#fc6e7e",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_deliciously",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 0.6
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff870908",
+      "#ffa60505",
+      "#ffa60505"
+    ]
+  },
+  "Weighting": 2010,
+  "spire6ImageLogo": "./assets/beverages/big-red_logo.png",
+  "spire6BackgroundColor": "#e91a39",
+  "CalorieCups": []
+}

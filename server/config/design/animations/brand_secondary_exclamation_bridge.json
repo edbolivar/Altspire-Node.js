@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_exclamation_bridge",
+  "image": "assets/animations/brands/secondary_exclamation_bridge.png",
+  "frameWidth": 147,
+  "frameHeight": 313,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

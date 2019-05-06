@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "caffeine_free_pepsi",
+  "Weighting": 1050,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "Caff Free Pepsi 5G",
+      "MixRatio": "5",
+      "Name": "Caffeine Free Pepsi",
+      "SKU": "012000400544",
+      "CaloriesPerOz": "12.690966116125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "Caff Free Pepsi 3G",
+      "MixRatio": "5",
+      "Name": "Caffeine Free Pepsi",
+      "SKU": "012000402487",
+      "CaloriesPerOz": "12.690966116125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

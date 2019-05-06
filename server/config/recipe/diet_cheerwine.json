@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "3dd6e261-f6e3-43a9-a494-bb29c8e86841",
+  "Name": "Diet Cheerwine",
+  "BeverageId": "cheerwine-diet",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "070925000881",
+      "Name": "Diet Cheerwine"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

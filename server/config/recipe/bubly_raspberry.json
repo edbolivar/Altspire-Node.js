@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "6c94a347-1a1e-4b23-a50a-8ba1dcca02bd",
+  "Name": "Bubly Raspberry",
+  "BeverageId": "bubly-raspberry",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000180170",
+      "Name": "Bubly Raspberry"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

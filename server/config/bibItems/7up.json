@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "7up",
+  "Weighting": 1810,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "7UP 3 GALLON BIB Brand Formula 2642",
+      "MixRatio": "3",
+      "Name": "7UP",
+      "SKU": "078000200157",
+      "CaloriesPerOz": "11.7860791033261",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "5",
+      "Description": "7UP 5 GALLON BIB Brand Formula 2642",
+      "MixRatio": "5",
+      "Name": "7UP",
+      "SKU": "078000200010",
+      "CaloriesPerOz": "11.7860791033261",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "20",
+      "Description": "CDN 7UP 20L BIB",
+      "MixRatio": "5",
+      "Name": "7UP",
+      "SKU": "065400002030",
+      "CaloriesPerOz": "11.7860791033261",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

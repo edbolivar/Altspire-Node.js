@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "646ca2ff-8f0b-4564-97e3-925ce66c0d52",
+  "Name": "Izze Clementine",
+  "BeverageId": "izze-sparkling-clementine",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000117",
+      "Name": "Izze Clementine"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

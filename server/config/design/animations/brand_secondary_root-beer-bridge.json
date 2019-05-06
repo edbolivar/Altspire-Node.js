@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_root-beer-bridge",
+  "image": "assets/animations/brands/secondary_barrel_bridge.png",
+  "frameWidth": 209,
+  "frameHeight": 290,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

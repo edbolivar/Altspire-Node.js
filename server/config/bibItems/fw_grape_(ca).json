@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "fw_grape_(ca)",
+  "bibItems": [
+    {
+      "Bibsize": "4",
+      "Description": "4L BIB",
+      "MixRatio": "5",
+      "Name": "FW Grape (CA)",
+      "SKU": "888888000007",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+      "AltName" : "grape",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

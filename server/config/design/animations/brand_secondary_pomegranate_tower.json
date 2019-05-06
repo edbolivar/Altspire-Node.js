@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_pomegranate_tower",
+  "image": "assets/animations/brands/secondary_pomegranate_tower.png",
+  "frameWidth": 243,
+  "frameHeight": 258,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

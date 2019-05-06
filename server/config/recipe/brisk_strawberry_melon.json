@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "a6a36971-c269-4ae8-9f17-d8cb1d962854",
+  "Name": "Brisk Strawberry Melon",
+  "BeverageId": "brisk-strawberry-melon",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [ 
+    { 
+      "Sku": "012000161131", 
+      "Name": "Brisk Strawberry Melon" 
+    } 
+  ], 
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

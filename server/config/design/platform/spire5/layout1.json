@@ -1,0 +1,21 @@
+{
+  "top": "12vh",
+  "left": "-1vw",
+  "right": "-1vw",
+  "bottom": "6.8vh",
+  "adaleft": -80,
+  "items": [
+    {
+      "x": 110,
+      "y": 457,
+      "radius": 230
+    }
+  ],
+  "adaItems": [
+    {
+      "x": 0,
+      "y": 400,
+      "radius": 85
+    }
+  ]
+}

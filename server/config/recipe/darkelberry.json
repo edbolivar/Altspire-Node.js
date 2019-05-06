@@ -1,0 +1,51 @@
+{
+  "Revision": 1,
+  "Id": "1ba10e45-05ef-474c-aada-5799fbf2b830",
+  "Name": "Darkelberry",
+  "BeverageId": "mix-darkelberry",
+  "Type": "Mix",
+  "BrandId": "mug" ,
+  "FlavorIds":[
+    "cherry",
+    "vanilla"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400117",
+      "Name": "Mug"
+    },
+    {
+      "Sku": "012000404085",
+      "Name": "Mug"
+    },
+    {
+      "Sku": "069000041055",
+      "Name": "Mug"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043222",
+      "Name": "Flavor Works Cherry"
+    },
+    {
+      "Sku": "888888000006",
+      "Name": "FW Cherry (CA)"
+    },
+    {
+      "Sku": "012000043215",
+      "Name": "Flavor Works Vanilla"
+    },
+    {
+      "Sku": "888888000010",
+      "Name": "FW Vanilla (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

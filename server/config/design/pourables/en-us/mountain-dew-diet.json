@@ -1,0 +1,107 @@
+{
+  "id": "mountain-dew-diet",
+  "recipeId": "ad018d95-3cd2-4883-86bc-a70b7ba383aa",
+  "languageCountryCode": "en-us",
+  "name": "Diet Mountain Dew",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mountain-dew",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mountain-dew-diet_logo.png",
+      "logoBrand": "./assets/beverages/mountain-dew-diet_logo.png",
+      "gradient": "./assets/beverages/mountain-dew-diet_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mountain-dew_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mountain-dew_idle.webm",
+      "liquidBackground": "./assets/beverages/mountain-dew-diet_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ff04ed57",
+      "animationLight": "#1aff6c",
+      "animationDark": "#02c011"
+    },
+    "particlesHome": {
+      "colors": [
+        "#04ed54",
+        "#04d746",
+        "#21cc48"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#16ef37",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#44d119",
+        "opacityMin": 0.2,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#048322",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_bike",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_bike",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.8,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_bike_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_bike_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.5,
+      "scale": 0.75
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff65bf1f",
+      "#ff4a7d07",
+      "#ff4a7d07"
+    ]
+  },
+  "Weighting": 1180,
+  "spire6ImageLogo": "./assets/beverages/mountain-dew-diet_logo.png",
+  "spire6BackgroundColor": "#b3dc82",
+  "CalorieCups": []
+}

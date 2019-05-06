@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_flag_tower",
+  "image": "assets/animations/brands/secondary_flag_tower.png",
+  "frameWidth": 311,
+  "frameHeight": 323,
+  "frames": 74,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

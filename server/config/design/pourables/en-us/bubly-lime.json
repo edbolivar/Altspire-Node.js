@@ -1,0 +1,90 @@
+{
+  "id": "bubly-lime",
+  "recipeId": "c10ab86c-21ea-4d06-b28e-ad8b19778c41",
+  "languageCountryCode": "en-us",
+  "name": "Bubly Lime",
+  "flavors": [],
+  "group": "group-bubbly",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/bubly-lime_logo.png",
+      "logoBrand": "./assets/beverages/bubly-lime_logo_brand.png",
+      "gradient": "./assets/beverages/bubly-lime_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/bubly-lime_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/bubly-lime_loop.webm",
+      "liquidBackground": "./assets/beverages/bubly-lime_background.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fff4eb60",
+      "animationLight": "#00b550",
+      "animationDark": "#007433"
+    },
+    "particlesHome": {
+      "colors": [
+        "#00b550",
+        "#007433"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#007433",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#00b550",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff6cC71c",
+      "#ff7db811",
+      "#ff7db811"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/bubly-lime_logo.png",
+  "spire6BackgroundColor": "#00b450",
+  "CalorieCups": []
+}

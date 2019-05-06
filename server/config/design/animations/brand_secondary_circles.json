@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_circles",
+  "image": "assets/animations/brands/secondary_circles.png",
+  "frameWidth": 112,
+  "frameHeight": 136,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

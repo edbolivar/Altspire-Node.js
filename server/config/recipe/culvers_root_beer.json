@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "dfa038bb-af62-4d2a-b171-000c7bb03068",
+  "Name": "Culvers Root Beer",
+  "BeverageId": "culver-root-beer",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "088500903199",
+      "Name": "Culvers Root Beer"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

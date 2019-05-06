@@ -1,0 +1,98 @@
+{
+  "id": "aquafina-sparkling-lemon-lime",
+  "recipeId": "d9c7f607-e6eb-4fa2-8807-abc1651c677f",
+  "languageCountryCode": "en-us",
+  "name": "Aquafina Sparkling Lemon Lime",
+  "flavors": [],
+  "group": "group-aquafina",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/aquafina-sparkling-lemon-lime_logo.png",
+      "logoBrand": "./assets/beverages/aquafina-sparkling-lemon-lime_logo_brand.png",
+      "gradient": "./assets/beverages/aquafina-sparkling-lemon-lime_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/Aquafina-Sparkling-Lemon-Lime_Intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/Aquafina-Sparkling-Lemon-Lime_Loop.webm",
+      "liquidBackground": "./assets/beverages/mist-twst-diet_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffd8c99",
+      "animationLight": "#a3a932",
+      "animationDark": "#828907"
+    },
+    "particlesHome": {
+      "colors": [
+        "#cace57",
+        "#a3a932",
+        "#828907"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#cace57",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#a3a932",
+        "opacityMin": 0.2,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#828907",
+        "opacityMin": 0.3,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff51a20f",
+      "#ff4a7d07",
+      "#ff4a7d07"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/aquafina-sparkling-lemon-lime_logo.png",
+  "spire6BackgroundColor": "#8ceb5c",
+  "CalorieCups": []
+}

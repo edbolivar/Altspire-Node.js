@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "fw_vanilla_(ca)",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "4",
+      "Description": "4L BIB",
+      "MixRatio": "5",
+      "Name": "FW Vanilla (CA)",
+      "SKU": "888888000010",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+       "AltName" : "vanilla",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "69101a3c-f79c-4aae-bb9d-81209d121c53",
+  "Name": "Gatorade Lemon-Lime",
+  "BeverageId": "gatorade-lemon-lime",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "052000330052",
+      "Name": "Gatorade Lemon-Lime"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

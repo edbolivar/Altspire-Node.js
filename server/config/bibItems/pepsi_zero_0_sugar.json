@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "pepsi_zero_0_sugar",
+  "Weighting": 1060,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "PEPSI MAX 5GAL BIB",
+      "MixRatio": "5",
+      "Name": "Pepsi Zero 0 Sugar",
+      "SKU": "012000630453",
+      "CaloriesPerOz": 0,
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "PEPSI MAX 3GAL BIB",
+      "MixRatio": "5",
+      "Name": "Pepsi Zero 0 Sugar",
+      "SKU": "012000033520",
+      "CaloriesPerOz": 0,
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "12",
+      "Description": "PEPSI MAX INTL BIB",
+      "MixRatio": "5",
+      "Name": "Pepsi Zero 0 Sugar",
+      "SKU": "999998000128",
+      "CaloriesPerOz": 0,
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

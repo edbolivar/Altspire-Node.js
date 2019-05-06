@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "g2_fruit_punch",
+  "Weighting": 1660,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "CDN G2 FT PUNCH",
+      "MixRatio": "5",
+      "Name": "G2 Fruit Punch",
+      "SKU": "055577041024",
+      "CaloriesPerOz": "1.798541150875",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

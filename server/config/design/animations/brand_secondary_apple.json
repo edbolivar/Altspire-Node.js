@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_apple",
+  "image": "assets/animations/brands/secondary_apple.png",
+  "frameWidth": 288,
+  "frameHeight": 285,
+  "frames": 49,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

@@ -1,0 +1,43 @@
+{
+  "Revision": 1,
+  "Id": "b3b1bda9-cbc7-4c88-8ae4-70271cad970e",
+  "Name": "Peachy Green",
+  "BeverageId": "mix-peachy-green",
+  "Type": "Mix",
+  "BrandId": "brisk-no-calorie-peach-iced-green-tea",
+  "FlavorIds":[
+    "peach",
+    "strawberry"
+  ],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000027512",
+      "Name": "Brisk Green Peached Tea 0 cal"
+    },
+    {
+      "Sku": "012000027529",
+      "Name": "Brisk Green Peached Tea 0 cal"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043260",
+      "Name": "Flavor Works Peach"
+    },
+    {
+      "Sku": "888888000012",
+      "Name": "FW Strawberry (CA)"
+    },
+    {
+      "Sku": "012000043239",
+      "Name": "Flavor Works Strawberry"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

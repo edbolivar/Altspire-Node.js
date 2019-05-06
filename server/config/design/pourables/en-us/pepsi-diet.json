@@ -1,0 +1,106 @@
+{
+  "id": "pepsi-diet",
+  "recipeId": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+  "languageCountryCode": "en-us",
+  "name": "Diet Pepsi",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-pepsi",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/pepsi-diet_logo.png",
+      "logoBrand": "./assets/beverages/pepsi-diet_logo_brand.png",
+      "gradient": "./assets/beverages/pepsi-diet_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/pepsi_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/pepsi_idle.webm",
+      "liquidBackground": "./assets/beverages/pepsi-diet_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffd7dbe5",
+      "animationLight": "#e4e9ed",
+      "animationDark": "#98a4aa"
+    },
+    "particlesHome": {
+      "colors": [
+        "#d9dee3",
+        "#bfc7c9",
+        "#b2bbbc"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#cbd1d6",
+        "opacityMin": 0.6,
+        "opacityMax": 0.75,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#afb7cb",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#a8b3be",
+        "opacityMin": 0.3,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_hearts",
+      "offsetX": 0.0,
+      "offsetY": -80.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_hearts",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.9,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_hearts_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_hearts_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.85
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffd7b08f",
+      "#ff704b38",
+      "#ff704b38"
+    ]
+  },
+  "Weighting": 1040,
+  "spire6ImageLogo": "./assets/beverages/pepsi-diet_logo.png",
+  "spire6BackgroundColor": "#b0b0b0",
+  "CalorieCups": []
+}

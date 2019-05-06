@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "ae7592bd-e4fd-4895-af8c-5ba17698bc7b",
+  "Name": "Brisk Tea Unsweetened",
+  "BeverageId": "brisk-iced-tea-unsweetened",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "041000007231",
+      "Name": "Brisk Tea Unsweetened"
+    },
+    {
+      "Sku": "041000010002",
+      "Name": "Brisk Tea Unsweetened"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

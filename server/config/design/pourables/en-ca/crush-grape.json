@@ -1,0 +1,99 @@
+{
+  "id": "crush-grape",
+  "recipeId": "69bd03e0-a656-4c02-b741-b94cb0bdd1b5",
+  "languageCountryCode": "en-ca",
+  "name": "Crush Grape",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-crush",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/crush-grape_logo.png",
+      "logoBrand": "./assets/beverages/crush-grape_logo.png",
+      "gradient": "./assets/beverages/crush-grape_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/crush-grape_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/crush-grape_idle.webm",
+      "liquidBackground": "./assets/beverages/crush-grape_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffc954e7",
+      "animationLight": "#cc51ec",
+      "animationDark": "#9d18de"
+    },
+    "particlesHome": {
+      "colors": [
+        "#cd76e2",
+        "#661c82"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#cd76e2",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#661c82",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff3f28",
+      "#ff4e0c1a",
+      "#ff4e0c1a"
+    ]
+  },
+  "Weighting": 1720,
+  "spire6ImageLogo": "./assets/beverages/crush-grape_logo.png",
+  "spire6BackgroundColor": "#7e4098",
+  "CalorieCups": []
+}

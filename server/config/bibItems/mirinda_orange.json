@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "mirinda_orange",
+  "Weighting": 1680,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "Mirinda Orange 12L",
+      "MixRatio": "5",
+      "Name": "Mirinda Orange",
+      "SKU": "999998000146",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

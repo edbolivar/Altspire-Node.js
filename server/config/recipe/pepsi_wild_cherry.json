@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "9a04d078-30b4-4be1-8801-294a85a90182",
+  "Name": "Pepsi Wild Cherry",
+  "BeverageId": "pepsi-wild-cherry",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400186",
+      "Name": "Pepsi Wild Cherry"
+    },
+    {
+      "Sku": "012000608902",
+      "Name": "Pepsi Wild Cherry"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

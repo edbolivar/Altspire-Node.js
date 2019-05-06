@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "e8e28d7e-ecce-4e04-90f7-0fe91c943fdc",
+  "Name": "Southern Style",
+  "BeverageId": "mix-southern-style",
+  "Type": "Mix",
+  "BrandId": "mountain-dew" ,
+  "FlavorIds":[
+    "peach",
+    "lemon"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400094",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000029325",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000402500",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000029318",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "069000020265",
+      "Name": "Mountain Dew"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043260",
+      "Name": "Flavor Works Peach"
+    },
+    {
+      "Sku": "012000043246",
+      "Name": "Flavor Works Lemon"
+    },
+    {
+      "Sku": "888888000008",
+      "Name": "FW Lemon (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

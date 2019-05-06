@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "60be9d17-4ac1-46de-a1b9-a804bb40af3e",
+  "Name": "Robinson's Summer Fruit",
+  "BeverageId": "robinson-summer-fruit",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000133",
+      "Name": "Robinson's Summer Fruit"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

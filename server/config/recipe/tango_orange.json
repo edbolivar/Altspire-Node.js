@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "ae6dedac-5466-4e3d-a0fd-6c4da08ea4a0",
+  "Name": "Tango Orange",
+  "BeverageId": "tango-orange",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000124",
+      "Name": "Tango Orange"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

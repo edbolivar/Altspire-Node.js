@@ -1,0 +1,106 @@
+{
+  "id": "dr-pepper",
+  "recipeId": "ee1aded4-5f43-4571-80d0-d6acdc57e857",
+  "languageCountryCode": "en-us",
+  "name": "Dr Pepper",
+  "flavors": [
+    "cherry",
+    "vanilla",
+    "strawberry",
+    "lemon",
+    "raspberry",
+    "lime",
+    "peach"
+  ],
+  "group": "group-dr-pepper",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/dr-pepper_logo.png",
+      "logoBrand": "./assets/beverages/dr-pepper_logo.png",
+      "gradient": "./assets/beverages/dr-pepper_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/dr-pepper_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/dr-pepper_idle.webm",
+      "liquidBackground": "./assets/beverages/dr-pepper_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffc367f",
+      "animationLight": "#ff83a9",
+      "animationDark": "#b1182a"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ca083a",
+        "#980024",
+        "#850025"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fb769d",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ea2448",
+        "opacityMin": 0.3,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#a7162a",
+        "opacityMin": 0.2,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff5361",
+      "#ffad0718",
+      "#ffad0718"
+    ]
+  },
+  "Weighting": 1370,
+  "spire6ImageLogo": "./assets/beverages/dr-pepper_logo.png",
+  "spire6BackgroundColor": "#7c0e24",
+  "CalorieCups": []
+}

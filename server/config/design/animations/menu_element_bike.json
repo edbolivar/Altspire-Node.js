@@ -1,0 +1,11 @@
+{
+  "id": "menu_element_bike",
+  "image": "assets/animations/menu/element_bike.png",
+  "frameWidth": 128,
+  "frameHeight": 128,
+  "frames": 62,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

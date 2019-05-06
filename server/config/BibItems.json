@@ -1,0 +1,2361 @@
+[
+  {
+    "Bibsize": "5",
+    "Description": "PEPSI 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Pepsi",
+    "SKU": "012000400032",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Pepsi 5G HYS",
+    "MixRatio": "6",
+    "Name": "Pepsi",
+    "SKU": "012000029363",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "Canada Pepsi 20L BIB",
+    "MixRatio": "5",
+    "Name": "Pepsi",
+    "SKU": "069000003039",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "PEPSI 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Pepsi",
+    "SKU": "012000402463",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "PEPSI 3G HYS",
+    "MixRatio": "6",
+    "Name": "Pepsi",
+    "SKU": "012000029356",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "DT PEPSI 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Diet Pepsi",
+    "SKU": "012000400063",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CDN PEP RL SGR 20L",
+    "MixRatio": "5",
+    "Name": "Pepsi Real Sugar",
+    "SKU": "069000148730",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Diet Pepsi 5G HYS",
+    "MixRatio": "8.5",
+    "Name": "Diet Pepsi",
+    "SKU": "012000029349",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "Canada DT PEPSI 12L BIB",
+    "MixRatio": "5",
+    "Name": "Diet Pepsi",
+    "SKU": "069000011034",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "DT PEPSI 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Diet Pepsi",
+    "SKU": "012000402470",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Diet Pepsi 3G HYS",
+    "MixRatio": "8.5",
+    "Name": "Diet Pepsi",
+    "SKU": "012000029332",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "PEPSI MAX 5GAL BIB",
+    "MixRatio": "5",
+    "Name": "Pepsi Zero 0 Sugar",
+    "SKU": "012000630453",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "PEPSI MAX 3GAL BIB",
+    "MixRatio": "5",
+    "Name": "Pepsi Zero 0 Sugar",
+    "SKU": "012000033520",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "PEPSI MAX INTL BIB",
+    "MixRatio": "5",
+    "Name": "Pepsi Zero 0 Sugar",
+    "SKU": "999998000128",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Caff Free Pepsi 5G",
+    "MixRatio": "5",
+    "Name": "Caffeine Free Pepsi",
+    "SKU": "012000400544",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Caff Free Pepsi 3G",
+    "MixRatio": "5",
+    "Name": "Caffeine Free Pepsi",
+    "SKU": "012000402487",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "DIET PEPSI CAFF FREE 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Caffeine Free Diet Pepsi",
+    "SKU": "012000400070",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "DIET PEPSI CAFF FREE 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Caffeine Free Diet Pepsi",
+    "SKU": "012000402494",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CDN PEP NEXT ",
+    "MixRatio": "5",
+    "Name": "Pepsi Next",
+    "SKU": "999998000119",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Pepsi Wild Cherry US 3G",
+    "MixRatio": "3",
+    "Name": "Pepsi Wild Cherry",
+    "SKU": "012000608902",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "PEPSI WILD CHY 5G BIB",
+    "MixRatio": "5",
+    "Name": "Pepsi Wild Cherry",
+    "SKU": "012000400186",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "DT PEPSI WILD CHY 5G BIB",
+    "MixRatio": "5",
+    "Name": "Diet Wild Cherry Pepsi",
+    "SKU": "012000503832",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "MT DEW 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew",
+    "SKU": "012000400094",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Mountain Dew 5G HYS",
+    "MixRatio": "5.5",
+    "Name": "Mountain Dew",
+    "SKU": "012000029325",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CDN MTN DDEW 20L BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew",
+    "SKU": "069000020265",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "MT DEW 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew",
+    "SKU": "012000402500",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Mountain Dew 3G HYS",
+    "MixRatio": "5.5",
+    "Name": "Mountain Dew",
+    "SKU": "012000029318",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "DT MT DEW 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Diet Mountain Dew",
+    "SKU": "012000400629",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "DT MT DEW 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Diet Mountain Dew",
+    "SKU": "012000402517",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "MT DEW BAJA BLAST 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Baja Blast",
+    "SKU": "012000011306",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "MT DEW BAJA BLAST 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Baja Blast",
+    "SKU": "012000843143",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "5G Diet Mountain Dew Baja Blast",
+    "MixRatio": "5",
+    "Name": "Diet Mountain Dew Baja Blast",
+    "SKU": "012000130007",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "3G Diet Mountain Dew Baja Blast",
+    "MixRatio": "5",
+    "Name": "Diet Mountain Dew Baja Blast",
+    "SKU": "012000130014",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "MT DEW SANG BLAST 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Sangrita Blast",
+    "SKU": "012000130021",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "MT DEW SANG BLAST 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Sangrita Blast",
+    "SKU": "012000130038",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "MT DEW CODE RED 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Code Red",
+    "SKU": "012000402425",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "MT DEW CODE RED 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Code Red",
+    "SKU": "012000101366",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "SRRA MST 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Sierra Mist",
+    "SKU": "012000503894",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Sierra Mist 5G HYS",
+    "MixRatio": "6",
+    "Name": "Sierra Mist",
+    "SKU": "012000029295",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "SRRA MST 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Sierra Mist",
+    "SKU": "012000503887",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Sierra Mist 3G HYS",
+    "MixRatio": "6",
+    "Name": "Sierra Mist",
+    "SKU": "012000029301",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "DIET SRRA MST 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Diet Sierra Mist",
+    "SKU": "012000201615",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "DIET SRRA MST 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Diet Sierra Mist",
+    "SKU": "012000201608",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "MUG ROOT BEER 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mug",
+    "SKU": "012000400117",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "MUG ROOT BEER 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Mug",
+    "SKU": "012000404085",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CDN MUG RT BR 20L BIB",
+    "MixRatio": "5",
+    "Name": "Mug",
+    "SKU": "069000041055",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "DT MUG ROOT BEER 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Diet Mug",
+    "SKU": "012000400674",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "DT MUG ROOT BEER 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Diet Mug",
+    "SKU": "999999000005",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "TROP LEMONADE 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Tropicana Lemonade",
+    "SKU": "012000016196",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "TROP LEMONADE 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Tropicana Lemonade",
+    "SKU": "012000016189",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "TROP FRUIT PUNCH 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Tropicana Fruit Punch",
+    "SKU": "012000016226",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "TROP FRUIT PUNCH 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Tropicana Fruit Punch",
+    "SKU": "012000016219",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "TROP TWISTER ORANGE 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Tropicana Twister Orange",
+    "SKU": "012000016110",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "TROP TWISTER ORANGE 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Tropicana Twister Orange",
+    "SKU": "012000016097",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "5G BIB Tropicana Light Lemonade",
+    "MixRatio": "5",
+    "Name": "Tropicana Light Lemonade",
+    "SKU": "012000016103",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "3G BIB Tropicana Light Lemonade",
+    "MixRatio": "5",
+    "Name": "Tropicana Light Lemonade",
+    "SKU": "012000016127",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "5G Tropicana Pink Lemonade",
+    "MixRatio": "5",
+    "Name": "Tropicana Pink Lemonade",
+    "SKU": "012000016165",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "3G Tropicana Pink Lemonade",
+    "MixRatio": "5",
+    "Name": "Tropicana Pink Lemonade",
+    "SKU": "012000016158",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "DR PEPPER 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Dr Pepper",
+    "SKU": "054900710545",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "DR PEPPER 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Dr Pepper",
+    "SKU": "054900800017",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CDN DR PEPPER 20L BIB",
+    "MixRatio": "5",
+    "Name": "Dr Pepper",
+    "SKU": "054900002039",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Diet Dr Pepper 5G",
+    "MixRatio": "5",
+    "Name": "Diet Dr Pepper",
+    "SKU": "054900720476",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Diet Dr Pepper 3G",
+    "MixRatio": "5",
+    "Name": "Diet Dr Pepper",
+    "SKU": "054900720513",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "CDN DIET DRPEP 12L BIB",
+    "MixRatio": "5",
+    "Name": "Diet Dr Pepper",
+    "SKU": "054900800291",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "LPT BRSK UNS NLEM 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Tea Unsweetened",
+    "SKU": "041000007231",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "LPT BRSK UNS NLEM 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Tea Unsweetened",
+    "SKU": "041000010002",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "LPT FTN SW NLEM 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Tea",
+    "SKU": "041000007262",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "LPT FTN SW NLEM 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Tea",
+    "SKU": "041000010026",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "LPT FTN LMNDE 5 GAL BIB SINGLE",
+    "MixRatio": "5",
+    "Name": "Brisk Lemonade",
+    "SKU": "041000075018",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "LPT FTN LMNDE 3 GAL BIB SINGLE",
+    "MixRatio": "5",
+    "Name": "Brisk Lemonade",
+    "SKU": "999999000007",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "CDN BRSK LMND 12L BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Lemonade",
+    "SKU": "069000071021",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "BSK LMN ICED TEA 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Lemon Iced Tea",
+    "SKU": "041000007866",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "BSK LMN ICED TEA 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Lemon Iced Tea",
+    "SKU": "041000010033",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "CDN BRSK TEA SWL 12L BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Lemon Iced Tea",
+    "SKU": "069000015476",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "BSK HALF HALF 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk 1/2 & 1/2",
+    "SKU": "012000112027",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "BSK HALF HALF 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk 1/2 & 1/2",
+    "SKU": "012000112010",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "BSK MANGO FIESTA 5 GAL BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Mango Fiesta",
+    "SKU": "012000112003",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "BSK MANGO FIESTA 3 GAL BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Mango Fiesta",
+    "SKU": "012000111990",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "3G BIB Lipton Brisk No Cal Green Tea Peach",
+    "MixRatio": "5",
+    "Name": "Brisk Green Peached Tea 0 cal",
+    "SKU": "012000027512",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "5G BIB Lipton Brisk No Cal Green Tea Peach",
+    "MixRatio": "5",
+    "Name": "Brisk Green Peached Tea 0 cal",
+    "SKU": "012000027529",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "BRSK RASP TEA 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Raspberry Iced Tea",
+    "SKU": "041000010187",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "BRSK RASP TEA 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Raspberry Iced Tea",
+    "SKU": "041000010309",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "CDN BRSK RASP TEA 12L BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Raspberry Iced Tea",
+    "SKU": "069000147191",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "BRSK STRW MELON 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Brisk Strawberry Melon",
+    "SKU": "012000161131",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "MANZANITA SOL 5 GAL BIB",
+    "MixRatio": "5",
+    "Name": "Manzanita Sol",
+    "SKU": "012000030772",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "MANZANITA SOL 3 GAL BIB",
+    "MixRatio": "5",
+    "Name": "Manzanita Sol",
+    "SKU": "012000023194",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "SOBE YUM POM 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Sobe Yumberry Pomegranate",
+    "SKU": "012000110658",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "SOBE ELIX DT CRAN GPFRT LEAN 5G",
+    "MixRatio": "5",
+    "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean",
+    "SKU": "999999000001",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "SOBE ELIX DT CRAN GPFRT LEAN 3G",
+    "MixRatio": "5",
+    "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean",
+    "SKU": "739510701151",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "sobe v water blueberry pomegranate",
+    "MixRatio": "5",
+    "Name": "Sobe V Water Blueberry Pomegranate",
+    "SKU": "999998000126",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "GATORADE LMN LIME 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Gatorade Lemon-Lime",
+    "SKU": "052000330052",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "CDN G2 FT PUNCH",
+    "MixRatio": "5",
+    "Name": "G2 Fruit Punch",
+    "SKU": "055577041024",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Mirinda Strawberry 3G",
+    "MixRatio": "5",
+    "Name": "Mirinda Strawberry",
+    "SKU": "012000404368",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Mirinda Strawberry 5G",
+    "MixRatio": "5",
+    "Name": "Mirinda Strawberry",
+    "SKU": "012000400230",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "Mirinda Orange 12L",
+    "MixRatio": "5",
+    "Name": "Mirinda Orange",
+    "SKU": "999998000146",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Cheerwine US 3G",
+    "MixRatio": "5",
+    "Name": "Cheerwine",
+    "SKU": "070925000836",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Cheerwine US 5G",
+    "MixRatio": "5",
+    "Name": "Cheerwine",
+    "SKU": "070925000812",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Diet Cheerwine 3G",
+    "MixRatio": "5",
+    "Name": "Diet Cheerwine",
+    "SKU": "070925000881",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "CRUSH ORANGE 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Crush Orange",
+    "SKU": "088500901263",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "CRUSH ORANGE 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Crush Orange",
+    "SKU": "088500902406",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CDN CRUSH ORG 20L BIB",
+    "MixRatio": "5",
+    "Name": "Crush Orange",
+    "SKU": "056000000922",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "CRUSH GRAPE 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Crush Grape",
+    "SKU": "999999000002",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "CRUSH GRAPE 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Crush Grape",
+    "SKU": "999999000008",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CRUSH GRAPE 20L BIB CDN",
+    "MixRatio": "5",
+    "Name": "Crush Grape",
+    "SKU": "056000000946",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CRSH CRM SDA 20L BIB",
+    "MixRatio": "5",
+    "Name": "Crush Cream",
+    "SKU": "056000000939",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "SCHWEPPES GINGER ALE 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Schweppes Ginger Ale",
+    "SKU": "088500901423",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "SCHWEPPES GINGER ALE 3 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Schweppes Ginger Ale",
+    "SKU": "088500901652",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "CDN SCHWEPPES GINGER ALE 12L",
+    "MixRatio": "5",
+    "Name": "Schweppes Ginger Ale",
+    "SKU": "016600010127",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "7UP 3 GALLON BIB Brand Formula 2642",
+    "MixRatio": "3",
+    "Name": "7UP",
+    "SKU": "078000200157",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "7UP 5 GALLON BIB Brand Formula 2642",
+    "MixRatio": "5",
+    "Name": "7UP",
+    "SKU": "078000200010",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "CDN 7UP 20L BIB",
+    "MixRatio": "5",
+    "Name": "7UP",
+    "SKU": "065400002030",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "7up free 12L BIB",
+    "MixRatio": "5",
+    "Name": "7UP Free",
+    "SKU": "999998000127",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "7up mojito 3G BIB",
+    "MixRatio": "5",
+    "Name": "7UP Mojito",
+    "SKU": "999998000120",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "tango apple 12L",
+    "MixRatio": "5",
+    "Name": "Tango Apple",
+    "SKU": "999998000123",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "tango orange 12L",
+    "MixRatio": "5",
+    "Name": "Tango Orange",
+    "SKU": "999998000124",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "lipton lemon 5L",
+    "MixRatio": "5",
+    "Name": "Lipton Lemon",
+    "SKU": "999998000122",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "lipton peach 10L",
+    "MixRatio": "5",
+    "Name": "Lipton Peach",
+    "SKU": "999998000121",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "fruit shoot",
+    "MixRatio": "5",
+    "Name": "Fruit Shoot",
+    "SKU": "999998000125",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "CDN DOL STW KWI ",
+    "MixRatio": "5",
+    "Name": "Dole Strawberry Kiwi",
+    "SKU": "065912006502",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Aquafina Flavorsplash berry loco 5G",
+    "MixRatio": "5",
+    "Name": "Aquafina Flavorsplash (berry loco)",
+    "SKU": "999999000003",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Aquafina Flavorsplash berry loco 3G",
+    "MixRatio": "5",
+    "Name": "Aquafina Flavorsplash (berry loco)",
+    "SKU": "999999000009",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Aquafina Flavorsplash peelin good 5G",
+    "MixRatio": "5",
+    "Name": "Aquafina Flavorsplash (peelin' good)",
+    "SKU": "999999000004",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Aquafina Flavorsplash peelin good 3G",
+    "MixRatio": "5",
+    "Name": "Aquafina Flavorsplash (peelin' good)",
+    "SKU": "999999000010",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "IZZE BLACKBERRY 5G BIB",
+    "MixRatio": "5",
+    "Name": "Izze Blackberry",
+    "SKU": "999998000116",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "IZZE CLEMENTINE 5G BIB",
+    "MixRatio": "5",
+    "Name": "Izze Clementine",
+    "SKU": "999998000117",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "IZZE GRAPEFRUIT 5G BIB",
+    "MixRatio": "5",
+    "Name": "Izze Grapefruit",
+    "SKU": "999998000118",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "IZZE POM 5G BIB",
+    "MixRatio": "5",
+    "Name": "Izze Pomegranate",
+    "SKU": "999998000115",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "BIG RED 3 GALLON BAG IN BOX SINGLE Brand Formula 0309",
+    "MixRatio": "3",
+    "Name": "BIG RED",
+    "SKU": "850233004258",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "20",
+    "Description": "ROBINSONS SUMMER FRUIT 20LITER BIB",
+    "MixRatio": "5",
+    "Name": "Robinson's Summer Fruit",
+    "SKU": "999998000133",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Mountain Dew Kickstart Orange",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Kickstart Orange",
+    "SKU": "012000111983",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Mountain Dew Kickstart Black Cherry",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Kickstart Black Cherry",
+    "SKU": "012000150913",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Mountain Dew Kickstart Fruit Punch",
+    "MixRatio": "5",
+    "Name": "Mountain Dew Kickstart Fruit Punch",
+    "SKU": "012000150920",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Culvers Root Beer 5 Gallon BIB",
+    "MixRatio": "5",
+    "Name": "Culvers Root Beer",
+    "SKU": "088500903199",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "Diet Culvers Root Beer 5 Gallon BIB",
+    "MixRatio": "5",
+    "Name": "Diet Culvers Root Beer",
+    "SKU": "088500001109",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "5",
+    "Description": "CRUSH STRAWBERRY 5 GALLON BIB",
+    "MixRatio": "5",
+    "Name": "Crush Strawberry",
+    "SKU": "088500902079",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "12",
+    "Description": "CRUSH STRAWBERRY 12L BIB",
+    "MixRatio": "5",
+    "Name": "Crush Strawberry",
+    "SKU": "056000004593",
+    "Type": "Syrup",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "Main water supply",
+    "MixRatio": "5",
+    "Name": "Low Still",
+    "SKU": "0444",
+    "Type": "StillWater",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      },
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "Filtered water with carbonation",
+    "MixRatio": "5",
+    "Name": "Low Carb",
+    "SKU": "0333",
+    "Type": "CarbWater",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      },
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "Main water supply",
+    "MixRatio": "5",
+    "Name": "High Still",
+    "SKU": "0222",
+    "Type": "StillWater",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      },
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "Filtered water with carbonation",
+    "MixRatio": "5",
+    "Name": "High Carb",
+    "SKU": "0111",
+    "Type": "CarbWater",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      },
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "4",
+    "Description": "4L BIB",
+    "MixRatio": "5",
+    "Name": "FW Vanilla (CA)",
+    "SKU": "888888000010",
+    "Type": "FlavorShot",
+    "AltName" : "vanilla",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "4",
+    "Description": "4L BIB",
+    "MixRatio": "5",
+    "Name": "FW Strawberry (CA)",
+    "SKU": "888888000012",
+    "Type": "FlavorShot",
+    "AltName" : "strawberry",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "4",
+    "Description": "4L BIB",
+    "MixRatio": "5",
+    "Name": "FW Lime (CA)",
+    "SKU": "888888000014",
+    "Type": "FlavorShot",
+    "AltName" : "lime",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "4",
+    "Description": "4L BIB",
+    "MixRatio": "5",
+    "Name": "FW Lemon (CA)",
+    "SKU": "888888000008",
+    "Type": "FlavorShot",
+    "AltName" : "lemon",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "4",
+    "Description": "4L BIB",
+    "MixRatio": "5",
+    "Name": "FW Cherry (CA)",
+    "SKU": "888888000006",
+    "Type": "FlavorShot",
+    "AltName" : "cherry",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "CA",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "1 Gal BIB",
+    "MixRatio": "5",
+    "Name": "Flavor Works Vanilla",
+    "SKU": "012000043215",
+    "Type": "FlavorShot",
+    "AltName" : "vanilla",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "1 Gal BIB",
+    "MixRatio": "5",
+    "Name": "Flavor Works Strawberry",
+    "SKU": "012000043239",
+    "Type": "FlavorShot",
+    "AltName" : "strawberry",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "1 Gal BIB",
+    "MixRatio": "5",
+    "Name": "Flavor Works Raspberry",
+    "SKU": "012000043277",
+    "Type": "FlavorShot",
+    "AltName" : "rasberry",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "1 Gal BIB",
+    "MixRatio": "5",
+    "Name": "Flavor Works Peach",
+    "SKU": "012000043260",
+    "Type": "FlavorShot",
+    "AltName" : "peach",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "1 Gal BIB",
+    "MixRatio": "5",
+    "Name": "Flavor Works Lime",
+    "SKU": "012000043253",
+    "Type": "FlavorShot",
+    "AltName" : "lime",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "1 Gal BIB",
+    "MixRatio": "5",
+    "Name": "Flavor Works Lemon",
+    "SKU": "012000043246",
+    "Type": "FlavorShot",
+    "AltName" : "lemon",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "1 Gal BIB",
+    "MixRatio": "5",
+    "Name": "Flavor Works Grape",
+    "SKU": "012000043284",
+    "Type": "FlavorShot",
+    "AltName" : "grape",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "1",
+    "Description": "1 Gal BIB",
+    "MixRatio": "5",
+    "Name": "Flavor Works Cherry",
+    "SKU": "012000043222",
+    "Type": "FlavorShot",
+    "AltName" : "cherry",
+    "CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "Mountain Dew Pitch Black",
+    "MixRatio": "3",
+    "Name": "Mountain Dew Pitch Black",
+    "SKU": "012000152559",
+    "Type": "Syrup",
+	"CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  },
+  {
+    "Bibsize": "3",
+    "Description": "SOBE ELIXIR CITRUS ENERGY 3G",
+    "MixRatio": "3",
+    "Name": "Sobe Elixir Citrus Energy",
+    "SKU": "739510701069",
+    "Type": "Syrup",
+	"CountryLanguageCustomers": [
+      {
+        "Country": "US",
+        "Language": "",
+        "Customer": ""
+      }
+    ]
+  }
+
+]

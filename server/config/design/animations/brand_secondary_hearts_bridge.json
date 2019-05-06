@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_hearts_bridge",
+  "image": "assets/animations/brands/secondary_hearts_bridge.png",
+  "frameWidth": 200,
+  "frameHeight": 253,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

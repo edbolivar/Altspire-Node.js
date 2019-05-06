@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_bike_bridge",
+  "image": "assets/animations/brands/secondary_bike_bridge.png",
+  "frameWidth": 208,
+  "frameHeight": 249,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

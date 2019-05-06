@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "942f5e31-cfbf-4442-9917-db546f494eee",
+  "Name": "7UP Mojito",
+  "BeverageId": "7up-mojito",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000120",
+      "Name": "7UP Mojito"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

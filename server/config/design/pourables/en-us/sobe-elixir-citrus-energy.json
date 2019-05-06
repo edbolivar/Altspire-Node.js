@@ -1,0 +1,98 @@
+{
+  "id": "sobe-elixir-citrus-energy",
+  "recipeId": "dd6a348b-6982-4a0b-80b5-e81b44495c18",
+  "languageCountryCode": "en-us",
+  "name": "Sobe Elixir Citrus Energy",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-sobe",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/sobe-elixir-citrus-energy_logo.png",
+      "logoBrand": "./assets/beverages/sobe-elixir-citrus-energy_logo.png",
+      "gradient": "./assets/beverages/sobe-elixir-citrus-energy_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/izze-sparkling-clementine_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/izze-sparkling-clementine_idle.webm",
+      "liquidBackground": "./assets/beverages/sobe-elixir-citrus-energy_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ff80bd01",
+      "animationLight": "#fcc622",
+      "animationDark": "#d24b03"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffa71d",
+        "#fedd79"
+      ],
+      "opacity": {
+        "from": 0.85,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f28b20",
+        "opacityMin": 0.6,
+        "opacityMax": 0.8,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#fef4e9",
+        "opacityMin": 0.15,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_lizard_orange",
+      "offsetX": 0.0,
+      "offsetY": 80.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_lizard_orange",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_lizard_orange",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_lizard_orange",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.75
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff3914",
+      "#ffdc4f0b",
+      "#ffdc4f0b"
+    ]
+  },
+  "Weighting": 1630,
+  "spire6ImageLogo": "./assets/beverages/sobe-elixir-citrus-energy_logo.png",
+  "spire6BackgroundColor": "#f9efb0",
+  "CalorieCups": []
+}

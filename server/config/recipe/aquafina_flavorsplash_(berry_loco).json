@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "5cf869af-d91c-4a56-930a-1de427d13055",
+  "Name": "Aquafina Flavorsplash (berry loco)",
+  "BeverageId": "aquafina-flavorsplash-berry-loco",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999999000003",
+      "Name": "Aquafina Flavorsplash (berry loco)"
+    },
+    {
+      "Sku": "999999000009",
+      "Name": "Aquafina Flavorsplash (berry loco)"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

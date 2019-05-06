@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "bubly_lime",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "Bubly Lime",
+      "MixRatio": "3",
+      "Name": "Bubly Lime",
+      "SKU": "012000180163",
+      "CaloriesPerOz": "0.23746614975",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "tropicana_pink_lemonade",
+  "Weighting": 1360,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "5G Tropicana Pink Lemonade",
+      "MixRatio": "5",
+      "Name": "Tropicana Pink Lemonade",
+      "SKU": "012000016165",
+      "CaloriesPerOz": "12.904102998125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "3G Tropicana Pink Lemonade",
+      "MixRatio": "5",
+      "Name": "Tropicana Pink Lemonade",
+      "SKU": "012000016158",
+      "CaloriesPerOz": "12.904102998125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

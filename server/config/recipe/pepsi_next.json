@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "cc615c84-5833-40af-9d94-3ef55de627c7",
+  "Name": "Pepsi Next",
+  "BeverageId": "pepsi-next",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000119",
+      "Name": "Pepsi Next"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

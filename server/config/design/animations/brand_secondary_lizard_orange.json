@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_lizard_orange",
+  "image": "assets/animations/brands/secondary_lizard_orange.png",
+  "frameWidth": 130,
+  "frameHeight": 187,
+  "frames": 146,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

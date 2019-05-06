@@ -1,0 +1,98 @@
+{
+  "id": "g2-fruit-punch",
+  "recipeId": "449524ab-0006-47e3-a4b0-c55cff597971",
+  "languageCountryCode": "es-mx",
+  "name": "G2 Fruit Punch",
+   "maxFlavors": 2,
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-gatorade",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/g2-fruit-punch_logo.png",
+      "logoBrand": "./assets/beverages/g2-fruit-punch_logo.png",
+      "gradient": "./assets/beverages/g2-fruit-punch_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/g2-fruit-punch_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/g2-fruit-punch_idle.webm",
+      "liquidBackground": "./assets/beverages/g2-fruit-punch_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffdd0330",
+      "animationLight": "#dbdbdb",
+      "animationDark": "#acacac"
+    },
+    "particlesHome": {
+      "colors": [
+        "#e5e5e5",
+        "#aeaeae"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#efefef",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#a7a7a7",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffebebeb",
+      "#ff653c26",
+      "#ff653c26"
+    ]
+  },
+  "Weighting": 1660,
+  "spire6ImageLogo": "./assets/beverages/g2-fruit-punch_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

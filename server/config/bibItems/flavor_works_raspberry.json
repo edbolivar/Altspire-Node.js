@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "flavor_works_raspberry",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "1",
+      "Description": "1 Gal BIB",
+      "MixRatio": "5",
+      "Name": "Flavor Works Raspberry",
+      "SKU": "012000043277",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+      "AltName" : "raspberry",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

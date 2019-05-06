@@ -1,0 +1,52 @@
+{
+  "Revision": 1,
+  "Id": "9a5289c0-a175-49ab-b1be-72928b18b650",
+  "Name": "Ruby Juicy",
+  "BeverageId": "mix-ruby-juicy",
+  "Type": "Mix",
+  "BrandId": "tropicana-lemonade" ,
+  "FlavorIds":[
+    "raspberry",
+    "strawberry",
+    "cherry"
+  ],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000016196",
+      "Name": "Tropicana Lemonade"
+    },
+    {
+      "Sku": "012000016189",
+      "Name": "Tropicana Lemonade"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043277",
+      "Name": "Flavor Works Raspberry"
+    },
+    {
+      "Sku": "012000043239",
+      "Name": "Flavor Works Strawberry"
+    },
+    {
+      "Sku": "888888000012",
+      "Name": "FW Strawberry (CA)"
+    },
+    {
+      "Sku": "012000043222",
+      "Name": "Flavor Works Cherry"
+    },
+    {
+      "Sku": "888888000006",
+      "Name": "FW Cherry (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

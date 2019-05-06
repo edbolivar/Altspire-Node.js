@@ -1,0 +1,31 @@
+{
+  "Revision": 1,
+  "Id": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+  "Name": "7UP",
+  "BeverageId": "7up",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "065400002030",
+      "Name": "7UP"
+    },
+    {
+      "Sku": "078000200157",
+      "Name": "7UP"
+    },
+    {
+      "Sku": "078000200010",
+      "Name": "7UP"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

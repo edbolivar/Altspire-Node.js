@@ -1,0 +1,96 @@
+{
+  "id": "mix-punt-play",
+  "recipeId": null,
+  "languageCountryCode": "en-us",
+  "name": "Punt Play",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-punt-play_logo.png",
+      "logoBrand": "./assets/beverages/mix-punt-play_logo.png",
+      "gradient": "./assets/beverages/mix-punt-play_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-punt-play_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-punt-play_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-punt-play_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffa80338",
+      "animationLight": "#ffb3b7",
+      "animationDark": "#ff4d58"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff656f",
+        "#ed1e5b",
+        "#a80338"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ff656f",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ed1e5b",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#a80338",
+        "opacityMin": 0.35,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffffff"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-punt-play_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

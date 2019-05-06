@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "low_still",
+  "Weighting": 10,
+  "bibItems": [
+    {
+      "Bibsize": "PW-L",
+      "Description": "Main water supply",
+      "MixRatio": "5",
+      "Name": "Low Still",
+      "SKU": "0444",
+      "CaloriesPerOz": null,
+      "Type": "StillWater",
+      "Country": [
+        "US",
+		"CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

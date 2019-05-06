@@ -1,0 +1,1428 @@
+{
+  "Units": [
+    {
+      "Id": "Spire2",
+      "UnitName": "Spire 2",
+      "UnusedValves": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        23,
+        24,
+        31,
+        32
+      ],
+      "ShowBankDescriptions": false,
+      "ValveLayout": [
+        {
+          "RowNumber": 1,
+          "ValveLabelPair": [
+            {
+              "Label": "F5",
+              "ValveNumber": 29,
+              "SortValveNumber": 29,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F6",
+              "ValveNumber": 30,
+              "SortValveNumber": 30,
+              "Bank": 0,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 2,
+          "ValveLabelPair": [
+            {
+              "Label": "S9",
+              "ValveNumber": 17,
+              "SortValveNumber": 17,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S10",
+              "ValveNumber": 18,
+              "SortValveNumber": 18,
+              "Bank": 0,
+              "RowInBank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 3,
+          "ValveLabelPair": [
+            {
+              "Label": "S11",
+              "ValveNumber": 19,
+              "SortValveNumber": 19,
+              "Bank": 0,
+              "RowInBank": 2
+            },
+            {
+              "Label": "S12",
+              "ValveNumber": 20,
+              "SortValveNumber": 20,
+              "Bank": 0,
+              "RowInBank": 2
+            }
+          ]
+        },
+        {
+          "RowNumber": 4,
+          "ValveLabelPair": [
+            {
+              "Label": "F1",
+              "ValveNumber": 25,
+              "SortValveNumber": 25,
+              "Bank": 0,
+              "RowInBank": 3
+            },
+            {
+              "Label": "F2",
+              "ValveNumber": 26,
+              "SortValveNumber": 26,
+              "Bank": 0,
+              "RowInBank": 3
+            }
+          ]
+        },
+        {
+          "RowNumber": 5,
+          "ValveLabelPair": [
+            {
+              "Label": "F3",
+              "ValveNumber": 27,
+              "SortValveNumber": 27,
+              "Bank": 0,
+              "RowInBank": 4
+            },
+            {
+              "Label": "F4",
+              "ValveNumber": 28,
+              "SortValveNumber": 28,
+              "Bank": 0,
+              "RowInBank": 4
+            }
+          ]
+        },
+        {
+          "RowNumber": 6,
+          "ValveLabelPair": [
+            {
+              "Label": "CW",
+              "ValveNumber": 1,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 5
+            },
+            {
+              "Label": "PW",
+              "ValveNumber": 2,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 5
+            }
+          ]
+        },
+        {
+          "RowNumber": 7,
+          "ValveLabelPair": [
+            {
+              "Label": "S1",
+              "ValveNumber": 9,
+              "SortValveNumber": 9,
+              "Bank": 0,
+              "RowInBank": 6
+            },
+            {
+              "Label": "S2",
+              "ValveNumber": 10,
+              "SortValveNumber": 10,
+              "Bank": 0,
+              "RowInBank": 6
+            }
+          ]
+        },
+        {
+          "RowNumber": 8,
+          "ValveLabelPair": [
+            {
+              "Label": "S3",
+              "ValveNumber": 11,
+              "SortValveNumber": 11,
+              "Bank": 0,
+              "RowInBank": 7
+            },
+            {
+              "Label": "S4",
+              "ValveNumber": 12,
+              "SortValveNumber": 12,
+              "Bank": 0,
+              "RowInBank": 7
+            }
+          ]
+        },
+        {
+          "RowNumber": 9,
+          "ValveLabelPair": [
+            {
+              "Label": "S5",
+              "ValveNumber": 13,
+              "SortValveNumber": 13,
+              "Bank": 0,
+              "RowInBank": 8
+            },
+            {
+              "Label": "S6",
+              "ValveNumber": 14,
+              "SortValveNumber": 14,
+              "Bank": 0,
+              "RowInBank": 8
+            }
+          ]
+        },
+        {
+          "RowNumber": 10,
+          "ValveLabelPair": [
+            {
+              "Label": "S7",
+              "ValveNumber": 15,
+              "SortValveNumber": 15,
+              "Bank": 0,
+              "RowInBank": 9
+            },
+            {
+              "Label": "S8",
+              "ValveNumber": 16,
+              "SortValveNumber": 16,
+              "Bank": 0,
+              "RowInBank": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "Spire2Crew",
+      "UnitName": "Spire 2 Crew",
+      "UnusedValves": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        23,
+        24,
+        31,
+        32
+      ],
+      "ShowBankDescriptions": false,
+      "ValveLayout": [
+        {
+          "RowNumber": 1,
+          "ValveLabelPair": [
+            {
+              "Label": "F5",
+              "ValveNumber": 29,
+              "SortValveNumber": 29,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F6",
+              "ValveNumber": 30,
+              "SortValveNumber": 30,
+              "Bank": 0,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 2,
+          "ValveLabelPair": [
+            {
+              "Label": "S9",
+              "ValveNumber": 17,
+              "SortValveNumber": 17,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S10",
+              "ValveNumber": 18,
+              "SortValveNumber": 18,
+              "Bank": 0,
+              "RowInBank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 3,
+          "ValveLabelPair": [
+            {
+              "Label": "S11",
+              "ValveNumber": 19,
+              "SortValveNumber": 19,
+              "Bank": 0,
+              "RowInBank": 2
+            },
+            {
+              "Label": "S12",
+              "ValveNumber": 20,
+              "SortValveNumber": 20,
+              "Bank": 0,
+              "RowInBank": 2
+            }
+          ]
+        },
+        {
+          "RowNumber": 4,
+          "ValveLabelPair": [
+            {
+              "Label": "F1",
+              "ValveNumber": 25,
+              "SortValveNumber": 25,
+              "Bank": 0,
+              "RowInBank": 3
+            },
+            {
+              "Label": "F2",
+              "ValveNumber": 26,
+              "SortValveNumber": 26,
+              "Bank": 0,
+              "RowInBank": 3
+            }
+          ]
+        },
+        {
+          "RowNumber": 5,
+          "ValveLabelPair": [
+            {
+              "Label": "F3",
+              "ValveNumber": 27,
+              "SortValveNumber": 27,
+              "Bank": 0,
+              "RowInBank": 4
+            },
+            {
+              "Label": "F4",
+              "ValveNumber": 28,
+              "SortValveNumber": 28,
+              "Bank": 0,
+              "RowInBank": 4
+            }
+          ]
+        },
+        {
+          "RowNumber": 6,
+          "ValveLabelPair": [
+            {
+              "Label": "CW",
+              "ValveNumber": 1,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 5
+            },
+            {
+              "Label": "PW",
+              "ValveNumber": 2,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 5
+            }
+          ]
+        },
+        {
+          "RowNumber": 7,
+          "ValveLabelPair": [
+            {
+              "Label": "S1",
+              "ValveNumber": 9,
+              "SortValveNumber": 9,
+              "Bank": 0,
+              "RowInBank": 6
+            },
+            {
+              "Label": "S2",
+              "ValveNumber": 10,
+              "SortValveNumber": 10,
+              "Bank": 0,
+              "RowInBank": 6
+            }
+          ]
+        },
+        {
+          "RowNumber": 8,
+          "ValveLabelPair": [
+            {
+              "Label": "S3",
+              "ValveNumber": 11,
+              "SortValveNumber": 11,
+              "Bank": 0,
+              "RowInBank": 7
+            },
+            {
+              "Label": "S4",
+              "ValveNumber": 12,
+              "SortValveNumber": 12,
+              "Bank": 0,
+              "RowInBank": 7
+            }
+          ]
+        },
+        {
+          "RowNumber": 9,
+          "ValveLabelPair": [
+            {
+              "Label": "S5",
+              "ValveNumber": 13,
+              "SortValveNumber": 13,
+              "Bank": 0,
+              "RowInBank": 8
+            },
+            {
+              "Label": "S6",
+              "ValveNumber": 14,
+              "SortValveNumber": 14,
+              "Bank": 0,
+              "RowInBank": 8
+            }
+          ]
+        },
+        {
+          "RowNumber": 10,
+          "ValveLabelPair": [
+            {
+              "Label": "S7",
+              "ValveNumber": 15,
+              "SortValveNumber": 15,
+              "Bank": 0,
+              "RowInBank": 9
+            },
+            {
+              "Label": "S8",
+              "ValveNumber": 16,
+              "SortValveNumber": 16,
+              "Bank": 0,
+              "RowInBank": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "Spire5",
+      "UnitName": "Spire 5",
+      "UnusedValves": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "ValveBanksOrientation": "Vertical",
+      "ValveLayout": [
+        {
+          "RowNumber": 1,
+          "ValveLabelPair": [
+            {
+              "Label": "F1",
+              "ValveNumber": 25,
+              "SortValveNumber": 0,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F2",
+              "ValveNumber": 26,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S1",
+              "ValveNumber": 9,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S3",
+              "ValveNumber": 11,
+              "SortValveNumber": 3,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S5",
+              "ValveNumber": 13,
+              "SortValveNumber": 4,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "PW-L",
+              "ValveNumber": 4,
+              "SortValveNumber": 5,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S7",
+              "ValveNumber": 15,
+              "SortValveNumber": 6,
+              "Bank": 0,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 2,
+          "ValveLabelPair": [
+            {
+              "Label": "F3",
+              "ValveNumber": 27,
+              "SortValveNumber": 0,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "F4",
+              "ValveNumber": 28,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S2",
+              "ValveNumber": 10,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S4",
+              "ValveNumber": 12,
+              "SortValveNumber": 3,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S6",
+              "ValveNumber": 14,
+              "SortValveNumber": 4,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "CW-L",
+              "ValveNumber": 3,
+              "SortValveNumber": 5,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S8",
+              "ValveNumber": 16,
+              "SortValveNumber": 6,
+              "Bank": 0,
+              "RowInBank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 3,
+          "ValveLabelPair": [
+            {
+              "Label": "PW-R",
+              "ValveNumber": 2,
+              "SortValveNumber": 0,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S9",
+              "ValveNumber": 17,
+              "SortValveNumber": 1,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S11",
+              "ValveNumber": 19,
+              "SortValveNumber": 2,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S13",
+              "ValveNumber": 21,
+              "SortValveNumber": 3,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S15",
+              "ValveNumber": 23,
+              "SortValveNumber": 4,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F5",
+              "ValveNumber": 29,
+              "SortValveNumber": 5,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F6",
+              "ValveNumber": 30,
+              "SortValveNumber": 6,
+              "Bank": 1,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 4,
+          "ValveLabelPair": [
+            {
+              "Label": "CW-R",
+              "ValveNumber": 1,
+              "SortValveNumber": 0,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S10",
+              "ValveNumber": 18,
+              "SortValveNumber": 1,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S12",
+              "ValveNumber": 20,
+              "SortValveNumber": 2,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S14",
+              "ValveNumber": 22,
+              "SortValveNumber": 3,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S16",
+              "ValveNumber": 24,
+              "SortValveNumber": 4,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "F7",
+              "ValveNumber": 31,
+              "SortValveNumber": 5,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "F8",
+              "ValveNumber": 32,
+              "SortValveNumber": 6,
+              "Bank": 1,
+              "RowInBank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "Spire3",
+      "UnitName": "Spire 3",
+      "UnusedValves": [
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        23,
+        24,
+        29,
+        30,
+        31,
+        32
+      ],
+      "ValveBanksOrientation": "Vertical",
+      "ValveLayout": [
+        {
+          "RowNumber": 1,
+          "ValveLabelPair": [
+            {
+              "Label": "F1",
+              "ValveNumber": 25,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S11",
+              "ValveNumber": 19,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S1",
+              "ValveNumber": 9,
+              "SortValveNumber": 3,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "PW-L",
+              "ValveNumber": 4,
+              "SortValveNumber": 4,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S3",
+              "ValveNumber": 11,
+              "SortValveNumber": 5,
+              "Bank": 0,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 2,
+          "ValveLabelPair": [
+            {
+              "Label": "F2",
+              "ValveNumber": 26,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S12",
+              "ValveNumber": 20,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S2",
+              "ValveNumber": 10,
+              "SortValveNumber": 3,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "CW-L",
+              "ValveNumber": 3,
+              "SortValveNumber": 4,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S4",
+              "ValveNumber": 12,
+              "SortValveNumber": 5,
+              "Bank": 0,
+              "RowInBank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 3,
+          "ValveLabelPair": [
+            {
+              "Label": "PW-R",
+              "ValveNumber": 2,
+              "SortValveNumber": 1,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S5",
+              "ValveNumber": 13,
+              "SortValveNumber": 2,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F3",
+              "ValveNumber": 27,
+              "SortValveNumber": 3,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S7",
+              "ValveNumber": 15,
+              "SortValveNumber": 4,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S9",
+              "ValveNumber": 17,
+              "SortValveNumber": 5,
+              "Bank": 1,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 4,
+          "ValveLabelPair": [
+            {
+              "Label": "CW-R",
+              "ValveNumber": 1,
+              "SortValveNumber": 1,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S6",
+              "ValveNumber": 14,
+              "SortValveNumber": 2,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "F4",
+              "ValveNumber": 28,
+              "SortValveNumber": 3,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S8",
+              "ValveNumber": 16,
+              "SortValveNumber": 4,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S10",
+              "ValveNumber": 18,
+              "SortValveNumber": 5,
+              "Bank": 1,
+              "RowInBank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "Spire31",
+      "UnitName": "Spire 3.1",
+      "UnusedValves": [
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        23,
+        24,
+        29,
+        30,
+        31,
+        32
+      ],
+      "PlaceHolders": [
+        {
+          "Bank": 0,
+          "Row": 0,
+          "Index": 0
+        },
+        {
+          "Bank": 0,
+          "Row": 0,
+          "Index": 1
+        }
+      ],
+      "ValveLayout": [
+        {
+          "RowNumber": 1,
+          "ValveLabelPair": [
+            {
+              "Label": "S11",
+              "ValveNumber": 19,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S12",
+              "ValveNumber": 20,
+              "SortValveNumber": 3,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F1",
+              "ValveNumber": 25,
+              "SortValveNumber": 4,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F2",
+              "ValveNumber": 26,
+              "SortValveNumber": 5,
+              "Bank": 0,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 2,
+          "ValveLabelPair": [
+            {
+              "Label": "S1",
+              "ValveNumber": 9,
+              "SortValveNumber": 0,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S2",
+              "ValveNumber": 10,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S3",
+              "ValveNumber": 11,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S4",
+              "ValveNumber": 12,
+              "SortValveNumber": 3,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "PW-L",
+              "ValveNumber": 4,
+              "SortValveNumber": 4,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "CW-L",
+              "ValveNumber": 3,
+              "SortValveNumber": 5,
+              "Bank": 0,
+              "RowInBank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 3,
+          "ValveLabelPair": [
+            {
+              "Label": "F3",
+              "ValveNumber": 27,
+              "SortValveNumber": 0,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F4",
+              "ValveNumber": 28,
+              "SortValveNumber": 1,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S9",
+              "ValveNumber": 17,
+              "SortValveNumber": 2,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S10",
+              "ValveNumber": 18,
+              "SortValveNumber": 3,
+              "Bank": 1,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 4,
+          "ValveLabelPair": [
+            {
+              "Label": "PW-R",
+              "ValveNumber": 2,
+              "SortValveNumber": 0,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "CW-R",
+              "ValveNumber": 1,
+              "SortValveNumber": 1,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S5",
+              "ValveNumber": 13,
+              "SortValveNumber": 2,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S6",
+              "ValveNumber": 14,
+              "SortValveNumber": 3,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S7",
+              "ValveNumber": 15,
+              "SortValveNumber": 4,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S8",
+              "ValveNumber": 16,
+              "SortValveNumber": 5,
+              "Bank": 1,
+              "RowInBank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "Spire41",
+      "UnitName": "Spire 4.1",
+      "UnusedValves": [
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        23,
+        24,
+        29,
+        30,
+        31,
+        32
+      ],
+      "PlaceHolders": [
+        {
+          "Bank": 0,
+          "Row": 0,
+          "Index": 0
+        },
+        {
+          "Bank": 0,
+          "Row": 0,
+          "Index": 1
+        }
+      ],
+      "ValveLayout": [
+        {
+          "RowNumber": 1,
+          "ValveLabelPair": [
+            {
+              "Label": "S11",
+              "ValveNumber": 19,
+              "SortValveNumber": 0,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S12",
+              "ValveNumber": 20,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F1",
+              "ValveNumber": 25,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F2",
+              "ValveNumber": 26,
+              "SortValveNumber": 3,
+              "Bank": 0,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F3",
+              "ValveNumber": 27,
+              "SortValveNumber": 4,
+              "Bank": 0,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 2,
+          "ValveLabelPair": [
+            {
+              "Label": "S1",
+              "ValveNumber": 9,
+              "SortValveNumber": 0,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S2",
+              "ValveNumber": 10,
+              "SortValveNumber": 1,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S3",
+              "ValveNumber": 11,
+              "SortValveNumber": 2,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S4",
+              "ValveNumber": 12,
+              "SortValveNumber": 3,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S5",
+              "ValveNumber": 13,
+              "SortValveNumber": 4,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "PW-L",
+              "ValveNumber": 4,
+              "SortValveNumber": 5,
+              "Bank": 0,
+              "RowInBank": 1
+            },
+            {
+              "Label": "CW-L",
+              "ValveNumber": 3,
+              "SortValveNumber": 6,
+              "Bank": 0,
+              "RowInBank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 3,
+          "ValveLabelPair": [
+            {
+              "Label": "F4",
+              "ValveNumber": 28,
+              "SortValveNumber": 0,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F5",
+              "ValveNumber": 29,
+              "SortValveNumber": 1,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "F6",
+              "ValveNumber": 30,
+              "SortValveNumber": 2,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S13",
+              "ValveNumber": 21,
+              "SortValveNumber": 3,
+              "Bank": 1,
+              "RowInBank": 0
+            },
+            {
+              "Label": "S14",
+              "ValveNumber": 22,
+              "SortValveNumber": 4,
+              "Bank": 1,
+              "RowInBank": 0
+            }
+          ]
+        },
+        {
+          "RowNumber": 4,
+          "ValveLabelPair": [
+            {
+              "Label": "PW-R",
+              "ValveNumber": 2,
+              "SortValveNumber": 0,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "CW-R",
+              "ValveNumber": 1,
+              "SortValveNumber": 1,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S6",
+              "ValveNumber": 14,
+              "SortValveNumber": 2,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S7",
+              "ValveNumber": 15,
+              "SortValveNumber": 3,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S8",
+              "ValveNumber": 16,
+              "SortValveNumber": 4,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S9",
+              "ValveNumber": 17,
+              "SortValveNumber": 5,
+              "Bank": 1,
+              "RowInBank": 1
+            },
+            {
+              "Label": "S10",
+              "ValveNumber": 18,
+              "SortValveNumber": 6,
+              "Bank": 1,
+              "RowInBank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "DriveThru",
+      "UnitName": "Drive Thru",
+      "UnusedValves": [
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        23,
+        24,
+        31,
+        32
+      ],
+      "ValveLayout": [
+        {
+          "RowNumber": 1,
+          "ValveLabelPair": [
+            {
+              "Label": "S1",
+              "ValveNumber": 9,
+              "SortValveNumber": 9,
+              "Bank": 0
+            },
+            {
+              "Label": "S2",
+              "ValveNumber": 10,
+              "SortValveNumber": 10,
+              "Bank": 0
+            },
+            {
+              "Label": "F2",
+              "ValveNumber": 26,
+              "SortValveNumber": 26,
+              "Bank": 1
+            },
+            {
+              "Label": "F1",
+              "ValveNumber": 25,
+              "SortValveNumber": 25,
+              "Bank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 2,
+          "ValveLabelPair": [
+            {
+              "Label": "S3",
+              "ValveNumber": 11,
+              "SortValveNumber": 11,
+              "Bank": 0
+            },
+            {
+              "Label": "S4",
+              "ValveNumber": 12,
+              "SortValveNumber": 12,
+              "Bank": 0
+            },
+            {
+              "Label": "F4",
+              "ValveNumber": 28,
+              "SortValveNumber": 28,
+              "Bank": 1
+            },
+            {
+              "Label": "F3",
+              "ValveNumber": 27,
+              "SortValveNumber": 27,
+              "Bank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 3,
+          "ValveLabelPair": [
+            {
+              "Label": "S5",
+              "ValveNumber": 13,
+              "SortValveNumber": 13,
+              "Bank": 0
+            },
+            {
+              "Label": "S6",
+              "ValveNumber": 14,
+              "SortValveNumber": 14,
+              "Bank": 0
+            },
+            {
+              "Label": "F6",
+              "ValveNumber": 30,
+              "SortValveNumber": 30,
+              "Bank": 1
+            },
+            {
+              "Label": "F5",
+              "ValveNumber": 29,
+              "SortValveNumber": 29,
+              "Bank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 4,
+          "ValveLabelPair": [
+            {
+              "Label": "S7",
+              "ValveNumber": 15,
+              "SortValveNumber": 15,
+              "Bank": 0
+            },
+            {
+              "Label": "S8",
+              "ValveNumber": 16,
+              "SortValveNumber": 16,
+              "Bank": 0
+            },
+            {
+              "Label": "LC",
+              "ValveNumber": 3,
+              "SortValveNumber": 1,
+              "Bank": 1
+            },
+            {
+              "Label": "LS",
+              "ValveNumber": 4,
+              "SortValveNumber": 2,
+              "Bank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 5,
+          "ValveLabelPair": [
+            {
+              "Label": "S9",
+              "ValveNumber": 17,
+              "SortValveNumber": 17,
+              "Bank": 0
+            },
+            {
+              "Label": "S10",
+              "ValveNumber": 18,
+              "SortValveNumber": 18,
+              "Bank": 0
+            },
+            {
+              "Label": "HC",
+              "ValveNumber": 1,
+              "SortValveNumber": 3,
+              "Bank": 1
+            },
+            {
+              "Label": "HS",
+              "ValveNumber": 2,
+              "SortValveNumber": 4,
+              "Bank": 1
+            }
+          ]
+        },
+        {
+          "RowNumber": 6,
+          "ValveLabelPair": [
+            {
+              "Label": "S11",
+              "ValveNumber": 19,
+              "SortValveNumber": 19,
+              "Bank": 0
+            },
+            {
+              "Label": "S12",
+              "ValveNumber": 20,
+              "SortValveNumber": 20,
+              "Bank": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Revision": 1,
+  "Id": "6761903e-d5e0-4c12-a7fd-4a84252abab1",
+  "Name": "Mug",
+  "BeverageId": "mug",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400117",
+      "Name": "Mug"
+    },
+    {
+      "Sku": "012000404085",
+      "Name": "Mug"
+    },
+    {
+      "Sku": "069000041055",
+      "Name": "Mug"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

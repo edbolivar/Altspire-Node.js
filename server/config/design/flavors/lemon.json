@@ -1,0 +1,29 @@
+{
+	"id": "lemon",
+	"resourceId": "lemon_id",
+	"name": "Flavor Works Lemon",
+	"design": {
+		"textColor": "0xf6eb35",
+		"textSelectedColor": "0xfefbdb",
+		"alphaDisabled": 0.5,
+		"backgroundColor": "0xfef054"
+	},
+	"select": {
+		"asset": "assets/animations/flavors/lemon_select.png",
+		"width": 226,
+		"height": 226,
+		"frames": 36,
+		"fps": 30,
+		"scale": 1
+	},
+	"spin": {
+		"asset": "assets/animations/flavors/lemon_spin.png",
+		"width": 226,
+		"height": 226,
+		"frames": 66,
+		"fps": 30,
+		"scale": 1
+	},
+	"Spire6ImageLogo": "./assets/beverages/lemon.png",
+	"Spire6BackgroundColor":"#fef054"	
+}

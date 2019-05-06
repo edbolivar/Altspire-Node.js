@@ -1,0 +1,87 @@
+{
+  "Revision": 1,
+  "Id": "diet_pepsi",
+  "Weighting": 1040,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "DT PEPSI 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Diet Pepsi",
+      "SKU": "012000400063",
+      "CaloriesPerOz": "0.049141772125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "5",
+      "Description": "Diet Pepsi 5G HYS",
+      "MixRatio": "8.5",
+      "Name": "Diet Pepsi",
+      "SKU": "012000029349",
+      "CaloriesPerOz": "0.049141772125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": true,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "12",
+      "Description": "Canada DT PEPSI 12L BIB",
+      "MixRatio": "5",
+      "Name": "Diet Pepsi",
+      "SKU": "069000011034",
+      "CaloriesPerOz": "0.083287368",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+      "IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "DT PEPSI 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Diet Pepsi",
+      "SKU": "012000402470",
+      "CaloriesPerOz": "0.049141772125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "Diet Pepsi 3G HYS",
+      "MixRatio": "8.5",
+      "Name": "Diet Pepsi",
+      "SKU": "012000029332",
+      "CaloriesPerOz": "0.049141772125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": true,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

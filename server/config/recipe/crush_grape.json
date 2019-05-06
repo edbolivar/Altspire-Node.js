@@ -1,0 +1,31 @@
+{
+  "Revision": 1,
+  "Id": "69bd03e0-a656-4c02-b741-b94cb0bdd1b5",
+  "Name": "Crush Grape",
+  "BeverageId": "crush-grape",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999999000002",
+      "Name": "Crush Grape"
+    },
+    {
+      "Sku": "999999000008",
+      "Name": "Crush Grape"
+    },
+    {
+      "Sku": "056000000946",
+      "Name": "Crush Grape"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

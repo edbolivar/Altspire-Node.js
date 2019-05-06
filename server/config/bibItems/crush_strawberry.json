@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "crush_strawberry",
+  "Weighting": 1770,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "CRUSH STRAWBERRY 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Crush Strawberry",
+      "SKU": "088500902079",
+      "CaloriesPerOz": "14.62",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "12",
+      "Description": "CRUSH STRAWBERRY 12L BIB",
+      "MixRatio": "5",
+      "Name": "Crush Strawberry",
+      "SKU": "056000004593",
+      "CaloriesPerOz": "14.62",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

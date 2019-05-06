@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "schweppes_ginger_ale",
+  "Weighting": 1780,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "SCHWEPPES GINGER ALE 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Schweppes Ginger Ale",
+      "SKU": "088500901423",
+      "CaloriesPerOz": null,
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "SCHWEPPES GINGER ALE 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Schweppes Ginger Ale",
+      "SKU": "088500901652",
+      "CaloriesPerOz": null,
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "12",
+      "Description": "CDN SCHWEPPES GINGER ALE 12L",
+      "MixRatio": "5",
+      "Name": "Schweppes Ginger Ale",
+      "SKU": "016600010127",
+      "CaloriesPerOz": null,
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

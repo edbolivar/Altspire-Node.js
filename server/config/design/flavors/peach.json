@@ -1,0 +1,29 @@
+{
+	"id": "peach",
+	"resourceId": "peach_id",
+	"name": "Flavor Works Peach",
+	"design": {
+		"textColor": "0xfbaf5d",
+		"textSelectedColor": "0xffd19d",
+		"alphaDisabled": 0.5,
+		"backgroundColor": "0xffb668"
+	},
+	"select": {
+		"asset": "assets/animations/flavors/peach_select.png",
+		"width": 226,
+		"height": 226,
+		"frames": 36,
+		"fps": 30,
+		"scale": 1
+	},
+	"spin": {
+		"asset": "assets/animations/flavors/peach_spin.png",
+		"width": 226,
+		"height": 226,
+		"frames": 62,
+		"fps": 30,
+		"scale": 1
+	},
+	"Spire6ImageLogo": "./assets/beverages/peach.png",
+	"Spire6BackgroundColor":"#ffb668"
+}

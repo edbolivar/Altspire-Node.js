@@ -1,0 +1,98 @@
+{
+  "id": "tropicana-pink-lemonade",
+  "recipeId": "16e3e80b-11c7-4c12-aab1-10cd5292264e",
+  "languageCountryCode": "en-us",
+  "name": "Tropicana Pink Lemonade ",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-tropicana",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/tropicana-pink-lemonade_logo.png",
+      "logoBrand": "./assets/beverages/tropicana-pink-lemonade_logo.png",
+      "gradient": "./assets/beverages/tropicana-pink-lemonade_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/tropicana-pink-lemonade_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/tropicana-pink-lemonade_idle.webm",
+      "liquidBackground": "./assets/beverages/tropicana-pink-lemonade_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#fffdc4d5",
+      "animationLight": "#fccde0",
+      "animationDark": "#fd3e9e"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffc0dd",
+        "#ff4fa8"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffc4dc",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ff65a8",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_sun_white_tower",
+      "offsetX": 0.0,
+      "offsetY": 40.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_sun_white_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_sun_white_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.7,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_sun_white_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff90cf",
+      "#fff73737",
+      "#fff73737"
+    ]
+  },
+  "Weighting": 1360,
+  "spire6ImageLogo": "./assets/beverages/tropicana-pink-lemonade_logo.png",
+  "spire6BackgroundColor": "#f7e8ea",
+  "CalorieCups": []
+}

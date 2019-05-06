@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "2fb003bb-3663-4ab6-969c-2fcde27fad52",
+  "Name": "Dole Strawberry Kiwi",
+  "BeverageId": "dole-strawberry-kiwi",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "065912006502",
+      "Name": "Dole Strawberry Kiwi"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "brisk_raspberry_iced_tea",
+  "Weighting": 1560,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "BRSK RASP TEA 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Raspberry Iced Tea",
+      "SKU": "041000010187",
+      "CaloriesPerOz": "6.311866315",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "BRSK RASP TEA 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Raspberry Iced Tea",
+      "SKU": "041000010309",
+      "CaloriesPerOz": "6.311866315",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "12",
+      "Description": "CDN BRSK RASP TEA 12L BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Raspberry Iced Tea",
+      "SKU": "069000147191",
+      "CaloriesPerOz": "6.311866315",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

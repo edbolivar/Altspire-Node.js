@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "sobe_elixir_citrus_energy",
+  "Weighting": 1630,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "SOBE ELIXIR CITRUS ENERGY 3G",
+      "MixRatio": "3",
+      "Name": "Sobe Elixir Citrus Energy",
+      "SKU": "739510701069",
+      "CaloriesPerOz": "13.479600536125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

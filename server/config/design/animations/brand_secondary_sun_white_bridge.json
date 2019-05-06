@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_sun_white_bridge",
+  "image": "assets/animations/brands/secondary_sun_white_bridge.png",
+  "frameWidth": 226,
+  "frameHeight": 304,
+  "frames": 59,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

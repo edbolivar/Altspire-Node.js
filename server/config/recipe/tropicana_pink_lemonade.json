@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "16e3e80b-11c7-4c12-aab1-10cd5292264e",
+  "Name": "Tropicana Pink Lemonade",
+  "BeverageId": "tropicana-pink-lemonade",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000016165",
+      "Name": "Tropicana Pink Lemonade"
+    },
+    {
+      "Sku": "012000016158",
+      "Name": "Tropicana Pink Lemonade"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

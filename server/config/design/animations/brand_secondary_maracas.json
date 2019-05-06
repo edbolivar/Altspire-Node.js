@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_maracas",
+  "image": "assets/animations/brands/secondary_maracas.png",
+  "frameWidth": 260,
+  "frameHeight": 272,
+  "frames": 49,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

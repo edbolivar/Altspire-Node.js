@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "izze_grapefruit",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "IZZE GRAPEFRUIT 5G BIB",
+      "MixRatio": "5",
+      "Name": "Izze Grapefruit",
+      "SKU": "999998000118",
+      "CaloriesPerOz": "9.779599487375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

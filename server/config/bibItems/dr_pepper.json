@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "dr_pepper",
+  "Weighting": 1370,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "DR PEPPER 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Dr Pepper",
+      "SKU": "054900710545",
+      "CaloriesPerOz": "11.9627566934931",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "DR PEPPER 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Dr Pepper",
+      "SKU": "054900800017",
+      "CaloriesPerOz": "11.9627566934931",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "20",
+      "Description": "CDN DR PEPPER 20L BIB",
+      "MixRatio": "5",
+      "Name": "Dr Pepper",
+      "SKU": "054900002039",
+      "CaloriesPerOz": "11.9627566934931",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

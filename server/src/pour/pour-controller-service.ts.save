@@ -1,0 +1,227 @@
+import {inject, injectable} from 'inversify';
+import {JsUtil} from "../universal/JsUtil";
+import * as inversify from "inversify";
+import { environment } from '../environments/environment';
+import {AppConfig} from "../universal/app.types";
+import {PubSubService} from "../universal/pub-sub.service";
+import TYPES from "../server.types";
+import {EventDescriptor, PublishEvent, PubSubEventArgs, PubSubTopic, SubscribeEvent} from "../universal/pub-sub-types";
+import {AppInfoService} from "../services/app-info.service";
+import {ValveControllerService} from "./valve-controller-service";
+import {FunctionDriver} from "./function-driver";
+import {getErrorLogger} from "@angular/core/src/errors";
+
+//let flag:boolean=false; //event reentrancy check flag 
+const debug=false;  //set this to true to see console debugging messages
+
+// hard coded water / syrup / flavors => valve mapping for testing purposes
+let waterMap={"high-carb":1, "high-still":2, "low-carb":3, "low-still":4};
+let syrupMap={"pepsi":9,"pepsi-max":11,"mountain-dew":12,"mug":13};
+let flavorMap={"cherry":27,"vanilla":25,"strawberry":26,"lemon":28,"raspberry":30,"lime":29};
+
+let pouring: boolean = false;       // flag to signal when valve controller is pouring
+let setPouring: boolean = false;     // flag to signal the valve controller is being configured
+let wantPouring: boolean = false;   //flag to stop checking connection status when wanting to start a new pour
+let checking: boolean = false;      // flag to signal the valve controller is busy checking connectivity status
+let dispensing:boolean = false;     // dispensing status according to connection monitor
+//let status: String = "";
+let counter=0;
+let checkMonitorRate=500;           // set checkMonitor rate in ms
+let lastIsConnected=null;             // variable to check connection transitions
+let _lastGetStatus=null;
+
+@injectable()
+export class PourControllerService {
+    objectId: number;
+    fd: FunctionDriver;
+    isConnected = false ;
+
+    constructor(@inject(TYPES.AppInfo) private appInfo: AppInfoService,
+                @inject(TYPES.ValveControllerService) private valveController: ValveControllerService) {
+        this.objectId = JsUtil.getObjectId();
+        this.fd = new FunctionDriver(this.appInfo);
+        const self = this;
+        console.log("Ctor.PourControllerService", this.objectId);
+        
+        SubscribeEvent.Create(PubSubTopic.startPour, this.objectId)
+             .HandleEventWithThisMethod(e => this.handleStartPour(e, this))
+             .Done() ;
+
+        // let setIntervalHandle=
+        // execute connection monitor
+        setInterval(self.connectionMonitor, checkMonitorRate, self);
+    }
+
+
+    testSyncFeatures(self, interval) {
+
+        if (setPouring) {
+            console.log(interval,"======== Board is busy =========");
+            return ;
+        }
+        setPouring = true ;
+        self.fd.getVersion(function(res){
+            console.log(interval,"Version is:", res.version, "count:",counter++);
+            self.fd.closePort(function(){
+                setPouring = false; //release communications to the valve controller
+
+            });
+        });
+
+    }
+
+
+    connectionMonitor(self) {
+        if(debug) console.log("\nCONNECTION MONITOR", counter++);
+
+        if(lastIsConnected == null) {
+            console.log(new Date(), "*** Starting Connection Monitor ***");
+        } else
+            if(lastIsConnected) {
+                if (debug) console.log("*** CONNECTED ***");
+            } else {
+                if (debug) console.log("*** DISCONNECTED ***");
+            }
+
+
+        if(setPouring) {
+            if(debug) console.log("connectionMonitor:already setting pouring - exiting connectionMonitor");
+            return;
+        }
+        if(wantPouring) {
+            if(debug) console.log("connectionMonitor:wantingPouring - exiting conenctionMonitor");
+            return;
+        }
+        if(checking) {
+            if (lastIsConnected && self.fd.isConnected()) {
+                if (debug) console.log("connectionMonitor:already checking connectivity - exiting connectionMonitor");
+                return;
+            }
+        }
+
+        // detect connection event transitions
+        if(lastIsConnected != self.fd.isConnected()) {
+            if(lastIsConnected) {
+                //if (debug) console.log("***** Valve Controller DISCONNECTING... *****");
+                // **** call disconnected UI event from here
+                console.log(new Date(),"***** Valve Controller DISCONNECTING... *****");
+            } else {
+                //if (debug) console.log("***** Valve Controller CONNECTING.... *****");
+                // *** call connected UI event from here
+                console.log(new Date(),"***** Valve Controller CONNECTING...... *****");
+            }
+            lastIsConnected = self.fd.isConnected();
+            checking=false;
+            return;
+        }
+
+
+        if(debug) console.log("setting checking true");
+        checking=true;
+        lastIsConnected=self.fd.isConnected();
+
+        self.fd.ioStatus(function(res){
+           //if(debug) console.log("iostatus", res);
+           if(res.dispenseFlag) dispensing=true;
+           lastIsConnected=self.fd.isConnected();
+           let newGetStatus=JSON.stringify(res);
+           if(_lastGetStatus!=newGetStatus) {  //status changed, need to log result
+               if (_lastGetStatus)
+                   console.log(new Date(),"GetStatus:"+newGetStatus);
+               _lastGetStatus=newGetStatus;
+           }
+           if(dispensing && !res.dispenseFlag) { //dispense has just ended
+               self.sendPourComplete();
+               dispensing=false;
+               pouring = false;
+           }
+           checking = false ;
+        });
+
+    }
+
+    handleStartPour(e: PubSubEventArgs,self){ //dispense 1 second based on drive throu UI settings
+
+        if(!self.fd.isConnected()) { //if disconencted, abort pouring or pouring intention
+            pouring=false;
+            wantPouring=false;
+            self.sendPourComplete();
+            return;
+        }
+
+        if(pouring) {   // ignore all pouring requests until finishing current pouring
+            if(debug) console.log("handleStartPour:already pouring - exiting handleStartPour");
+            return;
+        }
+        wantPouring=true;
+        if(checking) {
+            //wantPouring = true; // wanted to do pouring but valve controller is being used to check connectivity
+            if(debug) console.log("handleStartPour:already checking - setting timer for re-trying");
+            setTimeout(self.handleStartPour,200,e,self); //schedule to re-run again after checking connectivity
+            return;
+        }
+
+        pouring=true;           //dont allow to reentry pouring
+        setPouring=true;        //set exclusive lock on the valve controller
+        wantPouring = false;
+        dispensing = false;   // initialize conneciton monitor dispense detection
+
+        // display even data (recipe, selections, etc)
+        if(debug) console.log("*** start pour ***");
+        if(debug) console.log("Arguments",e);
+        if(debug) console.log("behaviors",e.data.pourable.behaviors);
+        if(debug) console.log("flavors",e.data.pourable.flavors);
+        if(debug) e.data.pourable.flavors.forEach(function(f) {console.log("flavors array:",f.label,f.flavors)});
+        if(debug) console.log("Selected flavors",e.data.selectedFlavors);
+
+        // adequate recipe to set valves for pouring
+        let mix=[];
+        mix[waterMap["high-carb"]-1]=true; // set high carbonated water
+        for(let i=1;i<=31;i++) mix.push(false); //initialize rest of valves closed
+        let syrup=syrupMap[e.data.pourable.id]; // map syrup to valve
+        if (syrup) mix[syrup-1]=true; //if not undefined open corresponding valve
+        e.data.selectedFlavors.forEach(function(f) { //set valves for all flavors
+            let flavor=flavorMap[f.id];
+            if(flavor) mix[flavor-1]=true;
+        });
+        if(debug) console.log("mix:",mix);
+
+        if(debug) console.log("callback from ioClearErrors");
+        self.fd.loadDispenseSequence(mix, function (msg2) { //set valves
+            if (debug) console.log("handleStartPour loadDispenseSequence msg:", msg2);
+            self.fd.startDispense(5000, function (msg3) { //start dispensing
+                if (debug) console.log("handleStartPour startDispense msg:", msg3);
+                self.fd.closePort(function() {
+                    setPouring=false; //release exclusive lock to allow ioStatus to monitor status
+                    //self.sendPourComplete();  //signal pour completion to UI
+                }); // on pour finished, close and release serial port resources
+            });
+        });
+    };
+
+
+    //handleStopPour(e: PubSubEventArgs){
+       // this.valveController.stopPour(args);
+    //}
+
+    /*
+    handleStartPour(e: PubSubEventArgs){
+        console.log("*** start pour ***");
+
+        // unwrap args for pour
+
+        // let's fake a pour complete, so we can work on ui
+        setTimeout((self: PourControllerService) => {
+            self.sendPourComplete();
+        }, 2000, this );
+    }
+    */
+
+    sendPourComplete(){
+        if(debug) console.log("Sending PourComplete");
+        PublishEvent.Create(PubSubTopic.pourComplete, this.objectId)
+            .SetDataArgumentTo("pour completed")
+            .Send();
+    }
+
+}

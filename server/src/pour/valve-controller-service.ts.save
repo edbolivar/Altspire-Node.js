@@ -1,0 +1,41 @@
+import {inject, injectable} from 'inversify';
+import {JsUtil} from "../universal/JsUtil";
+import TYPES from "../server.types";
+import {AppInfoService} from "../services/app-info.service";
+import {PublishEvent, PubSubEventArgs, SubscribeEvent} from "../universal/pub-sub-types";
+
+// import SerialPort = require('serial-node');
+import {FunctionDriver} from "./function-driver";
+
+@injectable()
+export class ValveControllerService {
+    objectId: number ;
+    boardIsBusy: number;
+    functionDriver: FunctionDriver ;
+    constructor(@inject(TYPES.AppInfo) private appInfo: AppInfoService) {
+            //    , @inject(TYPES.FunctionDriver) private functionDriver: FunctionDriver) {
+        this.objectId = JsUtil.getObjectId();
+        console.log("ctor.ValveControllerService", this.objectId);
+        let self = this;
+        this.functionDriver = new FunctionDriver(this.appInfo);
+
+        this.connectionMonitor();
+        this.statusMonitor();
+
+    }
+
+    connectionMonitor() {
+        // this may not be necessary
+    }
+
+    statusMonitor() {
+        if (this.boardIsBusy) {
+            //setTimeout(statusmonitory)
+        }
+        //this.boardIsBusy= 1;
+
+
+
+        //setTimeout(statusMonitor)
+    }
+}

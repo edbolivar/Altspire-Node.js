@@ -1,0 +1,99 @@
+{
+  "id": "kickstart-orange-citrus",
+  "recipeId": "6b537627-d7c6-4925-bfc7-c02928eca05e",
+  "languageCountryCode": "en-us",
+  "name": "Kickstart Orange Citrus",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/kickstart-orange-citrus_logo.png",
+      "logoBrand": "./assets/beverages/kickstart-orange-citrus_logo_brand.png",
+      "gradient": "./assets/beverages/kickstart-orange-citrus_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/kickstart-orange-citrus_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/kickstart-orange-citrus_idle.webm",
+      "liquidBackground": "./assets/beverages/kickstart-orange-citrus_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffffbf26",
+      "animationLight": "#ffbf26",
+      "animationDark": "#fe8b29"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffbf26",
+        "#fe8b29"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fbdb8d",
+        "opacityMin": 0.5,
+        "opacityMax": 0.7,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#e0641a",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_speakers_orange_citrus_tower",
+      "offsetX": 0.0,
+      "offsetY": -70.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_speakers_orange_citrus_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_headphone_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_headphone_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.4,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#fff37f22",
+      "#ffda3800",
+      "#ffda3800"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/kickstart-orange-citrus_logo.png",
+  "spire6BackgroundColor": "#f37f22",
+  "CalorieCups": []
+}

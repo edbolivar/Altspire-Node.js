@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "44c77fd9-90c0-4ed8-9b01-f202f0dda336",
+  "Name": "Tropicana Lemonade",
+  "BeverageId": "tropicana-lemonade",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000016196",
+      "Name": "Tropicana Lemonade"
+    },
+    {
+      "Sku": "012000016189",
+      "Name": "Tropicana Lemonade"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

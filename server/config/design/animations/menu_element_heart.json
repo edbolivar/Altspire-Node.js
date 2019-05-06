@@ -1,0 +1,11 @@
+{
+  "id": "menu_element_heart",
+  "image": "assets/animations/menu/element_heart.png",
+  "frameWidth": 128,
+  "frameHeight": 128,
+  "frames": 82,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

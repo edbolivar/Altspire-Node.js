@@ -1,0 +1,71 @@
+{
+  "Revision": 1,
+  "Id": "sierra_mist",
+  "Weighting": 1260,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "SRRA MST 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Sierra Mist",
+      "SKU": "012000503894",
+      "CaloriesPerOz": "12.787520366375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "5",
+      "Description": "Sierra Mist 5G HYS",
+      "MixRatio": "6",
+      "Name": "Sierra Mist",
+      "SKU": "012000029295",
+      "CaloriesPerOz": "12.787520366375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": true,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "SRRA MST 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Sierra Mist",
+      "SKU": "012000503887",
+      "CaloriesPerOz": "12.787520366375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "Sierra Mist 3G HYS",
+      "MixRatio": "6",
+      "Name": "Sierra Mist",
+      "SKU": "012000029301",
+      "CaloriesPerOz": "12.787520366375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": true,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

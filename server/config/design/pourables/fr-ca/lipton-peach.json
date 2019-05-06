@@ -1,0 +1,95 @@
+{
+  "id": "lipton-peach",
+  "recipeId": "64e8228e-220d-4fa6-a127-002383e39867",
+  "languageCountryCode": "fr-ca",
+  "name": "Lipton Peach",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-lipton",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/lipton-peach_logo.png",
+      "logoBrand": "./assets/beverages/lipton-peach_logo.png",
+      "gradient": "./assets/beverages/lipton-peach_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_idle.webm",
+      "liquidBackground": "./assets/beverages/lipton-lemon_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#fff18c1f",
+      "animationLight": "#fae000",
+      "animationDark": "#f8a600"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffee67",
+        "#faea00"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffee67",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#faea00",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffaa4d13"
+    ]
+  },
+  "Weighting": 1890,
+  "spire6ImageLogo": "./assets/beverages/lipton-peach_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

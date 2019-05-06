@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_lizard_bridge",
+  "image": "assets/animations/brands/secondary_lizard_bridge.png",
+  "frameWidth": 241,
+  "frameHeight": 404,
+  "frames": 37,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "mountain_dew_kickstart_black_cherry",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "Mountain Dew Kickstart Black Cherry",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Kickstart Black Cherry",
+      "SKU": "012000150913",
+      "CaloriesPerOz": "5.25391806075",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

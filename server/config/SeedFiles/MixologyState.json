@@ -1,0 +1,33 @@
+{
+  "Version": "1.3",
+  "Mixes": [
+    {
+      "id": "curated_mixology_1",
+      "actionId" : "select.button.to.configure",
+      "weighting": 10,
+      "label": "",
+      "recipeId": "",
+      "pathToImage": "",
+      "pathToBackgroundImage": null,
+      "buttonType": "brand",
+      "backgroundColor": "",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors" :  "Tap"
+    },
+    {
+      "id": "curated_mixology_2",
+      "actionId" : "select.button.to.configure",
+      "weighting": 20,
+      "label": "",
+      "recipeId": "",
+      "pathToImage": "",
+      "pathToBackgroundImage": null,
+      "buttonType": "brand",
+      "backgroundColor": "",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors" :  "Tap"
+    }
+  ]
+}

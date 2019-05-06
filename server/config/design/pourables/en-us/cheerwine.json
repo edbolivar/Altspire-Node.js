@@ -1,0 +1,98 @@
+{
+  "id": "cheerwine",
+  "recipeId": "aa3abf90-a583-442b-94ed-bb4782c47f8b",
+  "languageCountryCode": "en-us",
+  "name": "Cheerwine",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime"
+  ],
+  "group": "group-cheerwine",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/cheerwine_logo.png",
+      "logoBrand": "./assets/beverages/cheerwine_logo.png",
+      "gradient": "./assets/beverages/cheerwine_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/cheerwine_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/cheerwine_idle.webm",
+      "liquidBackground": "./assets/beverages/cheerwine_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffe85474",
+      "animationLight": "#dc3559",
+      "animationDark": "#a31d3d"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f28a99",
+        "#ce2047"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fce2e5",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f39daa",
+        "opacityMin": 0.35,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#fff23939",
+      "#ffc22020",
+      "#ffc22020"
+    ]
+  },
+  "Weighting": 1700,
+  "spire6ImageLogo": "./assets/beverages/cheerwine_logo.png",
+  "spire6BackgroundColor": "#c82239",
+  "CalorieCups": []
+}

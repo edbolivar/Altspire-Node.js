@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "high_carb",
+  "Weighting": 40,
+  "bibItems": [
+    {
+      "Bibsize": "CW-H",
+      "Description": "Filtered water with carbonation",
+      "MixRatio": "5",
+      "Name": "High Carb",
+      "SKU": "0111",
+      "CaloriesPerOz": null,
+      "Type": "CarbWater",
+      "Country": [
+        "US",
+		"CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

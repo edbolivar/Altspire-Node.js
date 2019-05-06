@@ -1,0 +1,98 @@
+{
+  "id": "pepsi-diet-caffeine-free",
+  "recipeId": "67130f75-2518-42d3-a47b-18cb2009d7a6",
+  "languageCountryCode": "en-us",
+  "name": "Caffeine Free Diet Pepsi",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-pepsi",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/pepsi-diet-caffeine-free_logo.png",
+      "logoBrand": "./assets/beverages/pepsi-diet-caffeine-free_logo.png",
+      "gradient": "./assets/beverages/pepsi-diet-caffeine-free_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/pepsi_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/pepsi_idle.webm",
+      "liquidBackground": "./assets/beverages/pepsi-diet-caffeine-free_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffbc9b45",
+      "animationLight": "#ebddb0",
+      "animationDark": "#dac687"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f6edb8",
+        "#d6c181"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#e8e7e2",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#b2aea7",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_hearts_white_tower",
+      "offsetX": 0.0,
+      "offsetY": -70.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_hearts_white_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 0.85
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_hearts_white_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_hearts_white_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.85
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffbc9b45",
+      "#fff79460",
+      "#fff79460"
+    ]
+  },
+  "Weighting": 1060,
+  "spire6ImageLogo": "./assets/beverages/pepsi-diet-caffeine-free_logo.png",
+  "spire6BackgroundColor": "#ebddb8",
+  "CalorieCups": []
+}

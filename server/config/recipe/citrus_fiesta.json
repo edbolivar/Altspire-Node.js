@@ -1,0 +1,34 @@
+{
+  "Revision": 1,
+  "Id": "77d665d8-d618-4dbb-a0ed-e44b57f88a53",
+  "Name": "Citrus Fiesta",
+  "BeverageId": "mix-citrus-fiesta",
+  "Type": "Mix",
+  "BrandId": "tango-orange",
+  "FlavorIds":[
+    "lime"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000124",
+      "Name": "Tango Orange"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "888888000014",
+      "Name": "FW Lime (CA)"
+    },
+    {
+      "Sku": "012000043253",
+      "Name": "Flavor Works Lime"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 10
+}

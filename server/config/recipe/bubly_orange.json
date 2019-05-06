@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "1a671db5-3ccb-4ff9-9b74-2f6d98cdc407",
+  "Name": "Bubly Orange",
+  "BeverageId": "bubly-orange",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000180156",
+      "Name": "Bubly Orange"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

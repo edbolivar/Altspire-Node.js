@@ -1,0 +1,96 @@
+﻿{
+  "version": "1.0",
+  "overrides": [
+    {
+      "name": "None",
+      "path": "config\\overrides_none.xml",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "attractloops": [
+        {
+          "isSelected": true,
+          "name": "Default",
+          "path": "assets\\attractor\\video.mp4"
+        },
+        {
+          "name": "Canada",
+          "path": "assets\\attractor\\video_ca.mp4"
+        },
+        {
+          "name": "Brisk",
+          "path": "assets\\attractor\\video_half_n_half.mp4"
+        },
+        {
+          "name": "Sobe",
+          "path": "assets\\attractor\\video_sobe.mp4"
+        },
+        {
+          "name": "Tropicana",
+          "path": "assets\\attractor\\video_tropicana_lemonade.mp4"
+        },
+        {
+          "name": "7UP",
+          "path": "assets\\attractor\\video_7up_us.mp4"
+        },
+        {
+          "name": "Swirl",
+          "path": "assets\\attractor\\video_swirl.mp4"
+        },
+        {
+          "name": "SubCaFr",
+          "path": "assets\\attractor\\video_subway_canada_french.mp4"
+        },
+        {
+          "name": "SubCaEn",
+          "path": "assets\\attractor\\video_subway_canada.mp4"
+        },
+        {
+          "name": "SubUs",
+          "path": "assets\\attractor\\video_subway_us.mp4"
+        },
+        {
+          "name": "KFC",
+          "path": "assets\\attractor\\video_kfc.mp4"
+        },
+        {
+          "name": "KFC2",
+          "path": "assets\\attractor\\video_kfc_2.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Subway_US",
+      "path": "config\\overrides_subway_us.xml",
+      "countries": [
+        "US"
+      ],
+      "attractloops": [
+        {
+          "isSelected": true,
+          "name": "English",
+          "path": "assets\\attractor\\video_subway_us.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Subway_Canada",
+      "path": "config\\overrides_subway_canada.xml",
+      "countries": [
+        "CA"
+      ],
+      "attractloops": [
+        {
+          "isSelected": true,
+          "name": "English",
+          "path": "assets\\attractor\\video_subway_canada.mp4"
+        },
+        {
+          "name": "French",
+          "path": "assets\\attractor\\video_subway_canada_french.mp4"
+        }
+      ]
+    }
+  ]
+}

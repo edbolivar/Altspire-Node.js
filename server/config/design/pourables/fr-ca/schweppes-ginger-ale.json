@@ -1,0 +1,99 @@
+{
+  "id": "schweppes-ginger-ale",
+  "recipeId": "bda4ca4c-f0bf-4d0e-9c34-cc6bdbbf8d41",
+  "languageCountryCode": "fr-ca",
+  "name": "Schweppe's Ginger Ale",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-schweppes",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/schweppes-ginger-ale_logo.png",
+      "logoBrand": "./assets/beverages/schweppes-ginger-ale_logo.png",
+      "gradient": "./assets/beverages/schweppes-ginger-ale_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/schweppes-ginger-ale_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/schweppes-ginger-ale_idle.webm",
+      "liquidBackground": "./assets/beverages/schweppes-ginger-ale_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffae030",
+      "animationLight": "#96ee02",
+      "animationDark": "#1d8200"
+    },
+    "particlesHome": {
+      "colors": [
+        "#7de400",
+        "#1f8a00"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#8de100",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#388700",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff426c07",
+      "#ff4e5c06",
+      "#ff4e5c06"
+    ]
+  },
+  "Weighting": 1780,
+  "spire6ImageLogo": "./assets/beverages/schweppes-ginger-ale_logo.png",
+  "spire6BackgroundColor": "#22804e",
+  "CalorieCups": []
+}

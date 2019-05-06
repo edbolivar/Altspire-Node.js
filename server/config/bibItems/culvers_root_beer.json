@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "culvers_root_beer",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "Culvers Root Beer 5 Gallon BIB",
+      "MixRatio": "5",
+      "Name": "Culvers Root Beer",
+      "SKU": "088500903199",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

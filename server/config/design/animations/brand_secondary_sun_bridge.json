@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_sun_bridge",
+  "image": "assets/animations/brands/secondary_sun_bridge.png",
+  "frameWidth": 177,
+  "frameHeight": 208,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

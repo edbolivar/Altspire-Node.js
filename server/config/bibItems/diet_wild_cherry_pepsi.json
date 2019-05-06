@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "diet_wild_cherry_pepsi",
+  "Weighting": 1080,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "DT PEPSI WILD CHY 5G BIB",
+      "MixRatio": "5",
+      "Name": "Diet Wild Cherry Pepsi",
+      "SKU": "012000503832",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

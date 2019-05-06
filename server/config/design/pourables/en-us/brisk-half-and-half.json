@@ -1,0 +1,103 @@
+{
+  "id": "brisk-half-and-half",
+  "recipeId": "d690b699-a9c9-449e-ac6a-38f5a5b3930e",
+  "languageCountryCode": "en-us",
+  "name": "Brisk Half and Half",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry"
+  ],
+  "group": "group-brisk",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/brisk-half-and-half_logo.png",
+      "logoBrand": "./assets/beverages/brisk-half-and-half_logo.png",
+      "gradient": "./assets/beverages/brisk-half-and-half_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/brisk-half-and-half_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/brisk-half-and-half_idle.webm",
+      "liquidBackground": "./assets/beverages/brisk-half-and-half_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ff3eeabd",
+      "animationLight": "#5beebe",
+      "animationDark": "#1c9778"
+    },
+    "particlesHome": {
+      "colors": [
+        "#6fecc4",
+        "#119879"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#b5d1ff",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#dce9ff",
+        "opacityMin": 0.6,
+        "opacityMax": 0.8,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#1042b4",
+        "opacityMin": 0.15,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_yinyang",
+      "offsetX": 0.0,
+      "offsetY": 40.0,
+      "alpha": 0.4,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_yinyang",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 0.75
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_yinyang_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.96,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_yinyang_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.75
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff3938b0",
+      "#ff452a74",
+      "#ff452a74"
+    ]
+  },
+  "Weighting": 1500,
+  "spire6ImageLogo": "./assets/beverages/brisk-half-and-half_logo.png",
+  "spire6BackgroundColor": "#0d4d96",
+  "CalorieCups": []
+}

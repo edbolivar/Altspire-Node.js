@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "mountain_dew_kickstart_fruit_punch",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "Mountain Dew Kickstart Fruit Punch",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Kickstart Fruit Punch",
+      "SKU": "012000150920",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

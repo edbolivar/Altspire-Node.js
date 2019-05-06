@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_root-beer-tower",
+  "image": "assets/animations/brands/secondary_barrel_tower.png",
+  "frameWidth": 237,
+  "frameHeight": 310,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

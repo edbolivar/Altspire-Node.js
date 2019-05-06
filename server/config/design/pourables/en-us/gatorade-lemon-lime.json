@@ -1,0 +1,108 @@
+{
+  "id": "gatorade-lemon-lime",
+  "recipeId": "69101a3c-f79c-4aae-bb9d-81209d121c53",
+  "languageCountryCode": "en-us",
+  "name": "Gatorade Lemon Lime",
+   "maxFlavors": 2,
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-gatorade",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/gatorade-lemon-lime_logo.png",
+      "logoBrand": "./assets/beverages/gatorade-lemon-lime_logo.png",
+      "gradient": "./assets/beverages/gatorade-lemon-lime_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/gatorade-lemon-lime_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/gatorade-lemon-lime_idle.webm",
+      "liquidBackground": "./assets/beverages/gatorade-lemon-lime_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffebebeb",
+      "animationLight": "#ecf45f",
+      "animationDark": "#c1ca19"
+    },
+    "particlesHome": {
+      "colors": [
+        "#d8e123",
+        "#cdda10",
+        "#b2be00"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#d8e123",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#cdda10",
+        "opacityMin": 0.7,
+        "opacityMax": 0.9,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#b2be00",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_football",
+      "offsetX": 0.0,
+      "offsetY": 60.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_football",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 0.82
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_football_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_football",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.82
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffebebeb",
+      "#ff653c26",
+      "#ff653c26"
+    ]
+  },
+  "Weighting": 1650,
+  "spire6ImageLogo": "./assets/beverages/gatorade-lemon-lime_logo.png",
+  "spire6BackgroundColor": "#e5e959",
+  "CalorieCups": []
+}

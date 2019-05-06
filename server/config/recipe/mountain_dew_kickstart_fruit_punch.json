@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "9e270d6d-e9d7-44a5-9f5c-4f0366795c4c",
+  "Name": "Mountain Dew Kickstart Fruit Punch",
+  "BeverageId": "kickstart-fruit-punch",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000150920",
+      "Name": "Mountain Dew Kickstart Fruit Punch"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

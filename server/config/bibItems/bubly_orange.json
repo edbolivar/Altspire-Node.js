@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "bubly_orange",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "Bubly Orange",
+      "MixRatio": "3",
+      "Name": "Bubly Orange",
+      "SKU": "012000180156",
+      "CaloriesPerOz": "0.23746614975",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

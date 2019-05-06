@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "9c5622f9-cac7-49d4-923d-47fc4d753693",
+  "Name": "Crush Strawberry",
+  "BeverageId": "crush-strawberry",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "088500902079",
+      "Name": "Crush Strawberry"
+    },
+    {
+      "Sku": "056000004593",
+      "Name": "Crush Strawberry"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 10
+}

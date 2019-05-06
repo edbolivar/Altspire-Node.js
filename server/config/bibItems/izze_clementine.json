@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "izze_clementine",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "IZZE CLEMENTINE 5G BIB",
+      "MixRatio": "5",
+      "Name": "Izze Clementine",
+      "SKU": "999998000117",
+      "CaloriesPerOz": "9.323110827625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "caffeine_free_diet_pepsi",
+  "Weighting": 1060,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "DIET PEPSI CAFF FREE 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Caffeine Free Diet Pepsi",
+      "SKU": "012000400070",
+      "CaloriesPerOz": "0.049142372125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "DIET PEPSI CAFF FREE 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Caffeine Free Diet Pepsi",
+      "SKU": "012000402494",
+      "CaloriesPerOz": "0.049142372125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "sierra-mist",
+  "recipeId": "fcb44600-acd4-4686-8f28-6612b6def2f1",
+  "languageCountryCode": "en-us",
+  "name": "Sierra Mist",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-sierra-mist",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/sierra-mist_logo.png",
+      "logoBrand": "./assets/beverages/sierra-mist_logo.png",
+      "gradient": "./assets/beverages/sierra-mist-diet_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/sierra-mist_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/sierra-mist_idle.webm",
+      "liquidBackground": "./assets/beverages/sierra-mist_background.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ff009bb3",
+      "animationLight": "#00b1cc",
+      "animationDark": "#008ba1"
+    },
+    "particlesHome": {
+      "colors": [
+        "#009bb3",
+        "#008ba1",
+        "#00b1cc"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#00b1cc",
+        "opacityMin": 0.4,
+        "opacityMax": 0.6,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#009bb3",
+        "opacityMin": 0.25,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#008ba1",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_lights_green_tower",
+      "offsetX": 0.0,
+      "offsetY": 20.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_lights_green_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_lights_green_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_lights_green_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff00b550",
+      "#ff00b550",
+      "#ff00b550"
+    ]
+  },
+  "Weighting": 1260,
+  "spire6ImageLogo": "./assets/beverages/sierra-mist_logo.png",
+  "spire6BackgroundColor": "#6dd9cf",
+  "CalorieCups": []
+}

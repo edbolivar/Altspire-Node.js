@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "sobe_v_water_blueberry_pomegranate",
+  "Weighting": 1640,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "sobe v water blueberry pomegranate",
+      "MixRatio": "5",
+      "Name": "Sobe V Water Blueberry Pomegranate",
+      "SKU": "999998000126",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

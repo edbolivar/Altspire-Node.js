@@ -1,0 +1,26 @@
+{
+  "IsToggleButtonEnabled": true,
+  "CalorieCups": [
+    {
+      "CupName": "LARGE",
+      "QtyInOunces": 32.0,
+      "QtyInMilliliters": 946.3520,
+      "MetricLabel": "ML",
+      "NonMetricLabel": "OZ"
+    },
+    {
+      "CupName": "MEDIUM",
+      "QtyInOunces": 16.0,
+      "QtyInMilliliters": 473.1760,
+      "MetricLabel": "ML",
+      "NonMetricLabel": "OZ"
+    },
+    {
+      "CupName": "SMALL",
+      "QtyInOunces": 12.0,
+      "QtyInMilliliters": 354.8820,
+      "MetricLabel": "ML",
+      "NonMetricLabel": "OZ"
+    }
+  ]
+}

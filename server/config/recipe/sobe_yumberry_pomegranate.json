@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "b7eb0d79-1e2c-49fa-9a42-d9a998d36511",
+  "Name": "Sobe Yumberry Pomegranate",
+  "BeverageId": "sobe-yumberry-pomegranate",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000110658",
+      "Name": "Sobe Yumberry Pomegranate"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "crush_orange",
+  "Weighting": 1740,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "CRUSH ORANGE 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Crush Orange",
+      "SKU": "088500901263",
+      "CaloriesPerOz": "13.6226783973756",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "CRUSH ORANGE 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Crush Orange",
+      "SKU": "088500902406",
+      "CaloriesPerOz": "13.6226783973756",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "20",
+      "Description": "CDN CRUSH ORG 20L BIB",
+      "MixRatio": "5",
+      "Name": "Crush Orange",
+      "SKU": "056000000922",
+      "CaloriesPerOz": "13.6226783973756",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

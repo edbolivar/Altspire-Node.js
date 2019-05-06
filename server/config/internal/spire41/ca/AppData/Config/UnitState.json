@@ -1,0 +1,23 @@
+{
+  "CountryLanguageCode": "fr-ca",
+  "UnitLocation": "US",
+  "UICustomizationState": {
+    "OverrideName": "None",
+    "AttractLoopName": "Default"
+  },
+  "ConsumerLanguageState": {
+    "PrimaryConsumerLanguage": "en-us",
+    "SecondaryConsumerLanguage": "None"
+  },
+  "ValveFlowRatesState": {
+    "HighStillFlowRate": 0.0,
+    "LowStillFlowRate": 0.0,
+    "HighCarbFlowRate": 0.0,
+    "LowCarbFlowRate": 0.0,
+    "FlavorShotFlowRate": 0.0
+  },
+  "UnitType": "DriveThru",
+  "PourMode": "OptifillPour",
+  "ClearSelectionsDelay": 5000,
+  "DeviceId": ""
+}

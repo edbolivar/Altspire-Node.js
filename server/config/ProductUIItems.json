@@ -1,0 +1,4545 @@
+[
+  {
+    "Id": "template-mix",
+    "Name": "",
+    "ImageLogo": null,
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": null,
+    "RecipeId": null,
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": null,
+    "ItemOverride": 0,
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": null,
+    "Weighting": 100000
+  },
+  {
+    "Id": "template-mix-kfc",
+    "Name": "",
+    "ImageLogo": null,
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": null,
+    "RecipeId": null,
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": null,
+    "ItemOverride": 0,
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": null,
+    "Weighting": 100000
+  },
+  {
+    "Id": "template-mix-nra-2015",
+    "Name": "",
+    "ImageLogo": null,
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": null,
+    "RecipeId": null,
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": null,
+    "ItemOverride": 0,
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": null,
+    "Weighting": 100000
+  },
+  {
+    "Id": "template-mix-june-2015",
+    "Name": "",
+    "ImageLogo": null,
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": null,
+    "RecipeId": null,
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": null,
+    "ItemOverride": 0,
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": null,
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-subway-g2",
+    "Name": "Snazzberry",
+    "ImageLogo": null,
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": null,
+    "RecipeId": null,
+    "MixBeverage": "g2-fruit-punch",
+    "MixFlavors": [
+      "cherry",
+      "lemon"
+    ],
+    "Flavors": null,
+    "ItemOverride": 0,
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": null,
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-strawberry-fields",
+    "Name": "Strawberry Fields",
+    "ImageLogo": "assets/beverages/mix-strawberry-fields_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-strawberry-fields_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "45a12d52-541d-4b26-bc02-462031a1c2dc",
+    "MixBeverage": "7up-free",
+    "MixFlavors": [
+      "lime",
+      "strawberry"
+    ],
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-kentucky-cream",
+    "Name": "Kentucky Cream",
+    "ImageLogo": "assets/beverages/mix-kentucky-cream_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-kentucky-cream_logo.png",
+    "ColorBackground": "White",
+    "RecipeId": "49f8a125-c670-4028-9d67-ab677113ef7f",
+    "MixBeverage": "pepsi-max",
+    "MixFlavors": [
+      "vanilla"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-dark-and-wild",
+    "Name": "Dark And Wild",
+    "ImageLogo": "assets/beverages/mix-dark-and-wild_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-dark-and-wild_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "ce798b18-4d07-4f6e-8f22-5735138ba71a",
+    "MixBeverage": "pepsi-max",
+    "MixFlavors": [
+      "cherry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-citrus-fiesta",
+    "Name": "Citrus Fiesta",
+    "ImageLogo": "assets/beverages/mix-citrus-fiesta_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-citrus-fiesta_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "77d665d8-d618-4dbb-a0ed-e44b57f88a53",
+    "MixBeverage": "tango-orange",
+    "MixFlavors": [
+      "lime"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "robinson-summer-fruit",
+    "Name": "Robinson's summer fruit",
+    "ImageLogo": "assets/beverages/robinson-summer-fruit_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/robinson-summer-fruit_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "60be9d17-4ac1-46de-a1b9-a804bb40af3e",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-southern-style",
+    "Name": "Southern Style",
+    "ImageLogo": "assets/beverages/mix-southern-style_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-southern-style_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "e8e28d7e-ecce-4e04-90f7-0fe91c943fdc",
+    "MixBeverage": "mountain-dew",
+    "MixFlavors": [
+      "peach",
+      "lemon"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-american-summer",
+    "Name": "American Summer",
+    "ImageLogo": "assets/beverages/mix-american-summer_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-american-summer_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "4309756b-a3e9-4cd7-a9f3-461c920d93f1",
+    "MixBeverage": "mist-twst",
+    "MixFlavors": [
+      "strawberry",
+      "lemon"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-midnight-fog",
+    "Name": "Midnight Fog",
+    "ImageLogo": "assets/beverages/mix-midnight-fog_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-midnight-fog_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "bbf13efe-1d1e-47aa-9047-c240331a519c",
+    "MixBeverage": "pepsi",
+    "MixFlavors": [
+      "vanilla",
+      "raspberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-orchard-blush",
+    "Name": "Orchard Blush",
+    "ImageLogo": "assets/beverages/mix-orchard-blush_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-orchard-blush_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "89bed8e8-651f-418a-9105-2551290cc7e5",
+    "MixBeverage": "manzanita-sol",
+    "MixFlavors": [
+      "strawberry",
+      "vanilla"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-violet-twilight",
+    "Name": "Violet Twilight",
+    "ImageLogo": "assets/beverages/mix-violet-twilight_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-violet-twilight_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "9288343a-7a4a-480b-9b44-38739ab0c5dc",
+    "MixBeverage": "sobe-yumberry-pomegranate",
+    "MixFlavors": [
+      "cherry",
+      "raspberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-three-layer-berry",
+    "Name": "Three Layer Berry",
+    "ImageLogo": "assets/beverages/mix-three-layer-berry_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-three-layer-berry_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "f62250ea-183f-4275-af7a-c57e8bafa082",
+    "MixBeverage": "mountain-dew",
+    "MixFlavors": [
+      "cherry",
+      "strawberry",
+      "raspberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-zing-cherry",
+    "Name": "Zing Cherry",
+    "ImageLogo": "assets/beverages/mix-zing-cherry_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-zing-cherry_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "a3997d94-215d-41a8-a6fa-723eb91136f4",
+    "MixBeverage": "mountain-dew-diet",
+    "MixFlavors": [
+      "cherry",
+      "lime"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-gala-la-la",
+    "Name": "Gala-la-la",
+    "ImageLogo": "assets/beverages/mix-gala-la-la_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-gala-la-la_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "e380a5ab-9f99-4012-be69-08abc3c90971",
+    "MixBeverage": "manzanita-sol",
+    "MixFlavors": [
+      "cherry",
+      "lemon",
+      "peach"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-snazzberry",
+    "Name": "Snazzberry",
+    "ImageLogo": "assets/beverages/mix-snazzberry_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-snazzberry_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "8af6af90-426e-48e1-99eb-a4a6a930d96a",
+    "MixBeverage": "mountain-dew",
+    "MixFlavors": [
+      "lemon",
+      "raspberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-shimmy-berry",
+    "Name": "Shimmy Berry",
+    "ImageLogo": "assets/beverages/mix-shimmy-berry_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-shimmy-berry_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "6202696c-a649-46b4-8134-2028d9687c63",
+    "MixBeverage": "mist-twst",
+    "MixFlavors": [
+      "peach",
+      "raspberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-beach-ready",
+    "Name": "Beach Ready",
+    "ImageLogo": "assets/beverages/mix-beach-ready_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-beach-ready_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "80615346-83c4-4c35-a69f-f91736fac417",
+    "MixBeverage": "pepsi-diet-fr-ca",
+    "MixFlavors": [
+      "lemon",
+      "strawberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "MixBeverage",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-beach-ready",
+    "Name": "Beach Ready",
+    "ImageLogo": "assets/beverages/mix-beach-ready_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-beach-ready_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "80615346-83c4-4c35-a69f-f91736fac417",
+    "MixBeverage": "pepsi-diet-en-ca",
+    "MixFlavors": [
+      "lemon",
+      "strawberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "MixBeverage",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-beach-ready",
+    "Name": "Beach Ready",
+    "ImageLogo": "assets/beverages/mix-beach-ready_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-beach-ready_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "80615346-83c4-4c35-a69f-f91736fac417",
+    "MixBeverage": "pepsi-diet",
+    "MixFlavors": [
+      "lemon",
+      "strawberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "ImageLogo, ImageLogoBrand",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-darkelberry",
+    "Name": "Darkelberry",
+    "ImageLogo": "assets/beverages/mix-darkelberry_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-darkelberry_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "1ba10e45-05ef-474c-aada-5799fbf2b830",
+    "MixBeverage": "mug-fr-ca",
+    "MixFlavors": [
+      "cherry",
+      "vanilla"
+    ],
+    "Flavors": null,
+    "ItemOverride": "MixBeverage",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-darkelberry",
+    "Name": "Darkelberry",
+    "ImageLogo": "assets/beverages/mix-darkelberry_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-darkelberry_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "1ba10e45-05ef-474c-aada-5799fbf2b830",
+    "MixBeverage": "mug",
+    "MixFlavors": [
+      "cherry",
+      "vanilla"
+    ],
+    "Flavors": null,
+    "ItemOverride": "ImageLogo, ImageLogoBrand",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-ruby-juicy",
+    "Name": "Shimmy Berry",
+    "ImageLogo": "assets/beverages/mix-ruby-juicy_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-ruby-juicy_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "9a5289c0-a175-49ab-b1be-72928b18b650",
+    "MixBeverage": "tropicana-lemonade",
+    "MixFlavors": [
+      "cherry",
+      "strawberry",
+      "raspberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-peachy-green",
+    "Name": "Peachy Green",
+    "ImageLogo": "assets/beverages/mix-peachy-green_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-peachy-green_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "b3b1bda9-cbc7-4c88-8ae4-70271cad970e",
+    "MixBeverage": "brisk-no-calorie-peach-iced-green-tea",
+    "MixFlavors": [
+      "peach",
+      "strawberry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mix-sun-blossom",
+    "Name": "Sun Blossom",
+    "ImageLogo": "assets/beverages/mix-sun-blossom_logo_brand.png",
+    "ImageLogoConsumerUI": "assets/beverages/mix-sun-blossom_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "a115f62f-58e9-4372-908f-8db8089461f7",
+    "MixBeverage": "brisk-no-calorie-peach-iced-green-tea",
+    "MixFlavors": [
+      "lemon",
+      "peach",
+      "cherry"
+    ],
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Mix",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "pepsi",
+    "Name": "Pepsi",
+    "ImageLogo": "./assets/brands/pepsi_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi_logo.png",
+    "ColorBackground": "#2d71b0",
+    "RecipeId": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 10
+  },
+  {
+    "Id": "pepsi-real-sugar",
+    "Name": "Pepsi Real Sugar",
+    "ImageLogo": "assets/beverages/pepsi-real-sugar_logo_bi.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-real-sugar_logo_bi.png",
+    "ColorBackground": "#2d71b0",
+    "RecipeId": "431b9e25-fbd5-4232-ba13-b9b86e938409",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 20
+  },
+  {
+    "Id": "pepsi-real-sugar",
+    "Name": "Pepsi Real Sugar",
+    "ImageLogo": "assets/beverages/pepsi-real-sugar_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-real-sugar_logo.png",
+    "ColorBackground": "#2d71b0",
+    "RecipeId": "431b9e25-fbd5-4232-ba13-b9b86e938409",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 20
+  },
+  {
+    "Id": "pepsi-diet",
+    "Name": "Diet Pepsi",
+    "ImageLogo": "assets/beverages/pepsi-diet_logo_bi.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-diet_logo_bi.png",
+    "ColorBackground": "#b0b0b0",
+    "RecipeId": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 20
+  },
+  {
+    "Id": "pepsi-diet",
+    "Name": "Diet Pepsi",
+    "ImageLogo": "assets/beverages/pepsi-diet_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-diet_logo.png",
+    "ColorBackground": "#b0b0b0",
+    "RecipeId": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 20
+  },
+  {
+    "Id": "pepsi-diet",
+    "Name": "Diet Pepsi",
+    "ImageLogo": "./assets/brands/pepsi-diet_logo.png",
+    "ImageLogoConsumerUI": "assets/brands/pepsi-diet_logo.png",
+    "ColorBackground": "#b0b0b0",
+    "RecipeId": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 20
+  },
+  {
+    "Id": "pepsi-max",
+    "Name": "Pepsi Max",
+    "ImageLogo": "./assets/brands/pepsi-max_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-max_logo.png",
+    "ColorBackground": "#121e35",
+    "RecipeId": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 30
+  },
+  {
+    "Id": "pepsi-caffeine-free",
+    "Name": "Caffeine Free Pepsi",
+    "ImageLogo": "./assets/brands/pepsi-caffeine-free_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-caffeine-free_logo.png",
+    "ColorBackground": "#ba9a43",
+    "RecipeId": "d406b898-8e4d-4ee7-b04a-bc8a3c5f79ea",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 40
+  },
+  {
+    "Id": "pepsi-diet-caffeine-free",
+    "Name": "Caffeine Free Diet Pepsi",
+    "ImageLogo": "./assets/brands/pepsi-diet-caffeine-free_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-diet-caffeine-free_logo.png",
+    "ColorBackground": "#ebddb8",
+    "RecipeId": "67130f75-2518-42d3-a47b-18cb2009d7a6",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 50
+  },
+  {
+    "Id": "pepsi-next",
+    "Name": "Pepsi Next",
+    "ImageLogo": "assets/beverages/pepsi-next_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-next_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "cc615c84-5833-40af-9d94-3ef55de627c7",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 60
+  },
+  {
+    "Id": "pepsi-wild-cherry",
+    "Name": "Pepsi Wild Cherry",
+    "ImageLogo": "./assets/brands/pepsi-wild-cherry_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-wild-cherry_logo.png",
+    "ColorBackground": "#f13b56",
+    "RecipeId": "9a04d078-30b4-4be1-8801-294a85a90182",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "pepsi-wild-cherry-diet",
+    "Name": "Pepsi Wild Cherry Diet",
+    "ImageLogo": "./assets/brands/pepsi-wild-cherry-diet_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/pepsi-wild-cherry-diet_logo.png",
+    "ColorBackground": "#fc7f7f",
+    "RecipeId": "cd143085-7793-49d2-b275-fd1b241128ed",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mountain-dew",
+    "Name": "Mountain Dew",
+    "ImageLogo": "assets/beverages/mountain-dew_logo_ca.png",
+    "ImageLogoConsumerUI": "assets/beverages/mountain-dew_logo_ca.png",
+    "ColorBackground": "#0f964e",
+    "RecipeId": "bc331e6e-6315-48c7-a1f0-e140eadc7d10",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mountain-dew",
+    "Name": "Mountain Dew",
+    "ImageLogo": "./assets/brands/mountain-dew_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mountain-dew_logo.png",
+    "ColorBackground": "#0f964e",
+    "RecipeId": "bc331e6e-6315-48c7-a1f0-e140eadc7d10",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 70
+  },
+  {
+    "Id": "mountain-dew-diet",
+    "Name": "Diet Mountain Dew",
+    "ImageLogo": "./assets/brands/mountain-dew-diet_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mountain-dew-diet_logo.png",
+    "ColorBackground": "#b3dc82",
+    "RecipeId": "ad018d95-3cd2-4883-86bc-a70b7ba383aa",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 75
+  },
+  {
+    "Id": "mountain-dew-baja-blast",
+    "Name": "Mountain Dew Baja Blast",
+    "ImageLogo": "./assets/brands/mountain-dew-baja-blast_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mountain-dew-baja-blast_logo.png",
+    "ColorBackground": "#43bbbc",
+    "RecipeId": "79d8b159-bedd-4794-a2c7-373fafedf940",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 75
+  },
+  {
+    "Id": "mountain-dew-baja-blast-diet",
+    "Name": "Diet Mountain Dew Baja Blast ",
+    "ImageLogo": "./assets/brands/mountain-dew-baja-blast-diet_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mountain-dew-baja-blast-diet_logo.png",
+    "ColorBackground": "#c7c9cb",
+    "RecipeId": "1768ee2d-493f-453f-aa82-3492773e7ed5",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 78
+  },
+  {
+    "Id": "mountain-dew-sangrita-blast",
+    "Name": "Mountain Dew Sangrita Blast",
+    "ImageLogo": "./assets/brands/mountain-dew-sangrita-blast_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mountain-dew-sangrita-blast_logo.png",
+    "ColorBackground": "#da60a1",
+    "RecipeId": "b9dfe2c0-0b4b-43da-a1d4-64e13ed9b7d8",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 79
+  },
+  {
+    "Id": "mountain-dew-code-red",
+    "Name": "Mountain Dew Code Red",
+    "ImageLogo": "./assets/brands/mountain-dew-code-red_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mountain-dew-code-red_logo.png",
+    "ColorBackground": "#d53a30",
+    "RecipeId": "e6e133cb-6315-48c7-a1f0-01d7cdae041e",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 80
+  },
+  {
+    "Id": "mountain-dew-pitch-black",
+    "Name": "Mountain Dew Pitch Black",
+    "ImageLogo": "./assets/brands/mountain-dew-pitch-black_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mountain-dew-pitch-black_logo.png",
+    "ColorBackground": "#9748a6",
+    "RecipeId": "abc1c09f-5178-4371-b897-3d2636e53c84",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 81
+  },
+  {
+    "Id": "kickstart-black-cherry",
+    "Name": "Kickstart Black Cherry",
+    "ImageLogo": "./assets/brands/kickstart-black-cherry_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/kickstart-black-cherry_logo.png",
+    "ColorBackground": "#8c1345",
+    "RecipeId": "a8e785d7-e7e3-4666-a48e-a75b88dc0fce",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 82
+  },
+  {
+    "Id": "kickstart-fruit-punch",
+    "Name": "Kickstart Fruit Punch",
+    "ImageLogo": "./assets/brands/kickstart-fruit-punch_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/kickstart-fruit-punch_logo.png",
+    "ColorBackground": "#ee3d42",
+    "RecipeId": "9e270d6d-e9d7-44a5-9f5c-4f0366795c4c",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 83
+  },
+  {
+    "Id": "kickstart-orange-citrus",
+    "Name": "Kickstart Orange Citrus",
+    "ImageLogo": "./assets/brands/kickstart-orange-citrus_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/kickstart-orange-citrus_logo.png",
+    "ColorBackground": "#f37f22",
+    "RecipeId": "6b537627-d7c6-4925-bfc7-c02928eca05e",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 84
+  },
+  {
+    "Id": "crush-strawberry",
+    "Name": "Crush Strawberry",
+    "ImageLogo": "./assets/brands/crush-strawberry_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/crush-strawberry_logo.png",
+    "ColorBackground": "#e51478",
+    "RecipeId": "9c5622f9-cac7-49d4-923d-47fc4d753693",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mist-twst",
+    "Name": "Mist Twst",
+    "ImageLogo": "./assets/brands/mist-twst_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mist-twst_logo.png",
+    "ColorBackground": "#2d833f",
+    "RecipeId": "fcb44600-acd4-4686-8f28-6612b6def2f1",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 90
+  },
+  {
+    "Id": "mist-twst-diet",
+    "Name": "Diet Mist Twst",
+    "ImageLogo": "./assets/brands/mist-twst-diet_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mist-twst-diet_logo.png",
+    "ColorBackground": "#EBEBEB",
+    "RecipeId": "eb6bc44b-89f8-4fb8-8530-d2bb3486bcba",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 92
+  },
+  {
+    "Id": "mug",
+    "Name": "Mug Root Beer",
+    "ImageLogo": "assets/beverages/mug_logo_bi.png",
+    "ImageLogoConsumerUI": "assets/beverages/mug_logo_bi.png",
+    "ColorBackground": "#65391c",
+    "RecipeId": "6761903e-d5e0-4c12-a7fd-4a84252abab1",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "vanilla"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mug",
+    "Name": "Mug Root Beer",
+    "ImageLogo": "./assets/brands/mug_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mug_logo.png",
+    "ColorBackground": "#65391c",
+    "RecipeId": "6761903e-d5e0-4c12-a7fd-4a84252abab1",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "vanilla"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "culver-root-beer",
+    "Name": "Culver Root Beer",
+    "ImageLogo": "./assets/brands/culver-root-beer.png",
+    "ImageLogoConsumerUI": "assets/beverages/culver-root-beer.png",
+    "ColorBackground": "#9d654c",
+    "RecipeId": "dfa038bb-af62-4d2a-b171-000c7bb03068",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mug-diet",
+    "Name": "Diet Mug Root Beer",
+    "ImageLogo": "./assets/brands/mug-diet_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mug-diet_logo.png",
+    "ColorBackground": "#e4d4c4",
+    "RecipeId": "3edd71ae-47c4-4349-a5ff-953abd0b74c8",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "vanilla"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "culver-root-beer-diet",
+    "Name": "Culver Root Beer Diet",
+    "ImageLogo": "./assets/brands/culver-root-beer-diet.png",
+    "ImageLogoConsumerUI": "assets/beverages/culver-root-beer-diet.png",
+    "ColorBackground": "#d2ac95",
+    "RecipeId": "457fce55-d6af-45f1-87a2-3558db10d6d6",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "tropicana-lemonade",
+    "Name": "Tropicana Lemonade",
+    "ImageLogo": "./assets/brands/tropicana-lemonade_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/tropicana-lemonade_logo.png",
+    "ColorBackground": "#fff44a",
+    "RecipeId": "44c77fd9-90c0-4ed8-9b01-f202f0dda336",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "tropicana-fruit-punch",
+    "Name": "Tropicana Fruit Punch",
+    "ImageLogo": "./assets/brands/tropicana-fruit-punch_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/tropicana-fruit-punch_logo.png",
+    "ColorBackground": "#f4473a",
+    "RecipeId": "e46acfbc-77b1-4d46-9023-0eebd387de91",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 101
+  },
+  {
+    "Id": "tropicana-twister-orange",
+    "Name": "Tropicana Twister Orange",
+    "ImageLogo": "./assets/brands/tropicana-twister-orange_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/tropicana-twister-orange_logo.png",
+    "ColorBackground": "#ff7e23",
+    "RecipeId": "f329d9b2-94a2-4c9d-95a0-8e8b8ac00a5c",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 102
+  },
+  {
+    "Id": "tropicana-lemonade-light",
+    "Name": "Tropicana Lemonade Light ",
+    "ImageLogo": "./assets/brands/tropicana-lemonade-light_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/tropicana-lemonade-light_logo.png",
+    "ColorBackground": "#faf2c1",
+    "RecipeId": "a5b6df91-5837-4d74-ae52-7077e5dcb255",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 103
+  },
+  {
+    "Id": "tropicana-pink-lemonade",
+    "Name": "Tropicana Pink Lemonade ",
+    "ImageLogo": "./assets/brands/tropicana-pink-lemonade_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/tropicana-pink-lemonade_logo.png",
+    "ColorBackground": "#f7e8ea",
+    "RecipeId": "16e3e80b-11c7-4c12-aab1-10cd5292264e",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 104
+  },
+  {
+    "Id": "dr-pepper",
+    "Name": "Dr Pepper",
+    "ImageLogo": "assets/beverages/dr-pepper-logo-bi.png",
+    "ImageLogoConsumerUI": "assets/beverages/dr-pepper-logo-bi.png",
+    "ColorBackground": "#7c0e24",
+    "RecipeId": "ee1aded4-5f43-4571-80d0-d6acdc57e857",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "vanilla",
+      "strawberry",
+      "lemon",
+      "raspberry",
+      "lime",
+      "peach"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 110
+  },
+  {
+    "Id": "dr-pepper",
+    "Name": "Dr Pepper",
+    "ImageLogo": "./assets/brands/dr-pepper_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/dr-pepper_logo.png",
+    "ColorBackground": "#7c0e24",
+    "RecipeId": "ee1aded4-5f43-4571-80d0-d6acdc57e857",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "vanilla",
+      "strawberry",
+      "lemon",
+      "raspberry",
+      "lime",
+      "peach"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 111
+  },
+  {
+    "Id": "dr-pepper-diet",
+    "Name": "Diet Dr Pepper",
+    "ImageLogo": "assets/beverages/dr-pepper-diet_logo_ca.png",
+    "ImageLogoConsumerUI": "assets/beverages/dr-pepper-diet_logo_ca.png",
+    "ColorBackground": "#d4c9c9",
+    "RecipeId": "5dd7cc18-afe9-4daf-8f54-c907069a85ad",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "vanilla",
+      "strawberry",
+      "lemon",
+      "raspberry",
+      "lime",
+      " peach"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 112
+  },
+  {
+    "Id": "dr-pepper-diet",
+    "Name": "Diet Dr Pepper",
+    "ImageLogo": "./assets/brands/dr-pepper-diet_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/dr-pepper-diet_logo.png",
+    "ColorBackground": "#d4c9c9",
+    "RecipeId": "5dd7cc18-afe9-4daf-8f54-c907069a85ad",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "vanilla",
+      "strawberry",
+      "lemon",
+      "raspberry",
+      "lime",
+      " peach"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 113
+  },
+  {
+    "Id": "brisk-iced-tea-unsweetened",
+    "Name": "Brisk Iced Tea",
+    "ImageLogo": "./assets/brands/brisk-iced-tea-unsweetened_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-iced-tea-unsweetened_logo.png",
+    "ColorBackground": "#0d4d96",
+    "RecipeId": "ae7592bd-e4fd-4895-af8c-5ba17698bc7b",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 120
+  },
+  {
+    "Id": "brisk-sweet-tea-iced-tea",
+    "Name": "Brisk Sweet Tea Iced Tea",
+    "ImageLogo": "./assets/brands/brisk-sweet-tea_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-sweet-tea-iced-tea_logo.png",
+    "ColorBackground": "#0d4d96",
+    "RecipeId": "8f76e30b-c82f-441b-90d9-1a57b7c903d7",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 121
+  },
+  {
+    "Id": "brisk-lemonade",
+    "Name": "Brisk Lemonade",
+    "ImageLogo": "assets/beverages/brisk-lemonade_logo_bi.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-lemonade_logo_bi.png",
+    "ColorBackground": "#eeea68",
+    "RecipeId": "f7b41789-80b9-41d5-a3c8-64b3a6346a90",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 122
+  },
+  {
+    "Id": "brisk-lemonade",
+    "Name": "Brisk Lemonade",
+    "ImageLogo": "assets/beverages/brisk-lemonade_logo_ca.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-lemonade_logo_ca.png",
+    "ColorBackground": "#eeea68",
+    "RecipeId": "f7b41789-80b9-41d5-a3c8-64b3a6346a90",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 125
+  },
+  {
+    "Id": "brisk-lemonade",
+    "Name": "Brisk Lemonade",
+    "ImageLogo": "./assets/brands/brisk-lemonade_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-lemonade_logo.png",
+    "ColorBackground": "#eeea68",
+    "RecipeId": "f7b41789-80b9-41d5-a3c8-64b3a6346a90",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 126
+  },
+  {
+    "Id": "brisk-lemon-iced-tea",
+    "Name": "Brisk Iced Tea With Lemon",
+    "ImageLogo": "assets/beverages/brisk-lemon-iced-tea_logo_bi.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-lemon-iced-tea_logo_bi.png",
+    "ColorBackground": "#0d4d96",
+    "RecipeId": "534a5a0f-a35d-47a1-9270-9fd8c233542b",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 127
+  },
+  {
+    "Id": "brisk-lemon-iced-tea",
+    "Name": "Brisk Iced Tea With Lemon",
+    "ImageLogo": "./assets/brands/brisk-lemon-iced-tea_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-lemon-iced-tea_logo.png",
+    "ColorBackground": "#0d4d96",
+    "RecipeId": "534a5a0f-a35d-47a1-9270-9fd8c233542b",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 128
+  },
+  {
+    "Id": "brisk-half-and-half",
+    "Name": "Brisk Half and Half",
+    "ImageLogo": "./assets/brands/brisk-half-and-half_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-half-and-half_logo.png",
+    "ColorBackground": "#0d4d96",
+    "RecipeId": "d690b699-a9c9-449e-ac6a-38f5a5b3930e",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 132
+  },
+  {
+    "Id": "brisk-mango-iced-tea",
+    "Name": "Brisk Iced Tea Mango",
+    "ImageLogo": "./assets/brands/brisk-mango-iced-tea_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-mango-iced-tea_logo.png",
+    "ColorBackground": "#fdcd4d",
+    "RecipeId": "5f4d8cb2-f9a0-4c7f-a649-e3f5ba5cc8ff",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 134
+  },
+  {
+    "Id": "brisk-no-calorie-peach-iced-green-tea",
+    "Name": "Brisk No Calorie Peach Iced Green Tea",
+    "ImageLogo": "./assets/brands/brisk-no-calorie-peach-iced-green-tea_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-no-calorie-peach-iced-green-tea_logo.png",
+    "ColorBackground": "#fccaa5",
+    "RecipeId": "e431d94a-699e-44f2-be87-59e52b336b30",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 136
+  },
+  {
+    "Id": "brisk-raspberry-iced-tea",
+    "Name": "Brisk Iced Tea With Raspberry",
+    "ImageLogo": "assets/beverages/brisk-raspberry-iced-tea_logo_ca.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-raspberry-iced-tea_logo_ca.png",
+    "ColorBackground": "#fe647b",
+    "RecipeId": "4eae68f5-92d6-48ee-90ce-486dc1a84878",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 138
+  },
+  {
+    "Id": "brisk-raspberry-iced-tea",
+    "Name": "Brisk Iced Tea With Raspberry",
+    "ImageLogo": "./assets/brands/brisk-raspberry-iced-tea_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/brisk-raspberry-iced-tea_logo.png",
+    "ColorBackground": "#fe647b",
+    "RecipeId": "4eae68f5-92d6-48ee-90ce-486dc1a84878",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 140
+  },
+  {
+    "Id": "brisk-strawberry-melon",
+    "Name": "Brisk Strawberry Melon",
+    "ImageLogo": "./assets/brands/brisk-strawberry-melon_logo.png",
+    "ImageLogoConsumerUI": "/assets/beverages/brisk-strawberry-melon_logo.png",
+    "ColorBackground": "#f97eb5",
+    "RecipeId": "a6a36971-c269-4ae8-9f17-d8cb1d962854",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape",
+      "vanilla"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 141
+  },
+  {
+    "Id": "manzanita-sol",
+    "Name": "Manzanita Sol Apple/Manzana",
+    "ImageLogo": "./assets/brands/manzanita-sol_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/manzanita-sol_logo.png",
+    "ColorBackground": "#ed3322",
+    "RecipeId": "5be91d4c-3d5e-4f95-bdfb-09e83ab4a196",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 144
+  },
+  {
+    "Id": "sobe-yumberry-pomegranate",
+    "Name": "Sobe Lifewater Yumberry Pomegranate ",
+    "ImageLogo": "./assets/brands/sobe-yumberry-pomegranate_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/sobe-yumberry-pomegranate_logo.png",
+    "ColorBackground": "#faced2",
+    "RecipeId": "b7eb0d79-1e2c-49fa-9a42-d9a998d36511",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "sobe-elixir-diet-cranberry-grapefruit-lean",
+    "Name": "Sobe Lean Cranberry Grapefruit",
+    "ImageLogo": "./assets/brands/sobe-lean-cranberry-grapefruit_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/sobe-elixir-diet-cranberry-grapefruit-lean_logo.png",
+    "ColorBackground": "#cfebfb",
+    "RecipeId": "7b0bfe17-f003-4e60-8068-8ce4e332304c",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "sobe-elixir-citrus-energy",
+    "Name": "Sobe Elixir Citrus Energy",
+    "ImageLogo": "./assets/brands/sobe-elixir-citrus-energy_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/sobe-elixir-citrus-energy_logo.png",
+    "ColorBackground": "#f9efb0",
+    "RecipeId": "dd6a348b-6982-4a0b-80b5-e81b44495c18",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "sobe-v-water-blueberry-pomegranate",
+    "Name": "Sobe V-Water Blueberry Pomegranate",
+    "ImageLogo": "assets/beverages/sobe-v-water-blueberry-pomegranate_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/sobe-v-water-blueberry-pomegranate_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "15ac0322-043c-4fa3-b50d-4ad1e58f90bd",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "fruit-shoot",
+    "Name": "Fruit Shoot",
+    "ImageLogo": "assets/beverages/fruit-shoot_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/fruit-shoot_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "62f3891f-7fec-4b3e-9879-025ea139fd1f",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "gatorade-lemon-lime",
+    "Name": "Gatorade Lemon Lime",
+    "ImageLogo": "./assets/brands/gatorade-lemon-lime_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/gatorade-lemon-lime_logo.png",
+    "ColorBackground": "#e5e959",
+    "RecipeId": "69101a3c-f79c-4aae-bb9d-81209d121c53",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "g2-fruit-punch",
+    "Name": "G2 Fruit Punch",
+    "ImageLogo": "assets/beverages/g2-fruit-punch_logo_bi.png",
+    "ImageLogoConsumerUI": "assets/beverages/g2-fruit-punch_logo_bi.png",
+    "ColorBackground": null,
+    "RecipeId": "449524ab-0006-47e3-a4b0-c55cff597971",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 150
+  },
+  {
+    "Id": "g2-fruit-punch",
+    "Name": "G2 Fruit Punch",
+    "ImageLogo": "assets/beverages/g2-fruit-punch_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/g2-fruit-punch_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "449524ab-0006-47e3-a4b0-c55cff597971",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 152
+  },
+  {
+    "Id": "mirinda-orange",
+    "Name": "Mirinda Orange",
+    "ImageLogo": "assets/beverages/mirinda-orange_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/mirinda-orange_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "f82e6b60-5644-4114-81cb-2cf1acfcbf50",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": null,
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "mirinda",
+    "Name": "Mirinda strawberry",
+    "ImageLogo": "./assets/brands/mirinda-strawberry.png",
+    "ImageLogoConsumerUI": "assets/beverages/mirinda-strawberry_logo.png",
+    "ColorBackground": "#f9c1b4",
+    "RecipeId": "402e4695-b4c1-4e0b-8ed5-e18934cce870",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "crush-grape",
+    "Name": "Crush Grape",
+    "ImageLogo": "assets/beverages/crush-grape_logo_ca.png",
+    "ImageLogoConsumerUI": "assets/beverages/crush-grape_logo_ca.png",
+    "ColorBackground": "#7e4098",
+    "RecipeId": "69bd03e0-a656-4c02-b741-b94cb0bdd1b5",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "crush-grape",
+    "Name": "Crush Grape",
+    "ImageLogo": "./assets/brands/crush-grape_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/crush-grape_logo.png",
+    "ColorBackground": "#7e4098",
+    "RecipeId": "69bd03e0-a656-4c02-b741-b94cb0bdd1b5",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "crush-orange",
+    "Name": "Crush Orange",
+    "ImageLogo": "assets/beverages/crush-orange_logo_ca.png",
+    "ImageLogoConsumerUI": "assets/beverages/crush-orange_logo_ca.png",
+    "ColorBackground": "#f6741c",
+    "RecipeId": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "crush-orange",
+    "Name": "Crush Orange",
+    "ImageLogo": "./assets/brands/crush-orange_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/crush-orange_logo.png",
+    "ColorBackground": "#f6741c",
+    "RecipeId": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "crush-cream",
+    "Name": "Crush Cream",
+    "ImageLogo": "assets/beverages/crush-cream_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/crush-cream_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "a0d8fb49-8e43-49b5-9d55-647d20c9a4d6",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "vanilla"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "schweppe-ginger-ale",
+    "Name": "Schweppe’s Ginger Ale",
+    "ImageLogo": "assets/beverages/schweppes-ginger-ale_logo_bi.png",
+    "ImageLogoConsumerUI": "assets/beverages/schweppes-ginger-ale_logo_bi.png",
+    "ColorBackground": "#22804e",
+    "RecipeId": "bda4ca4c-f0bf-4d0e-9c34-cc6bdbbf8d41",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "schweppe-ginger-ale",
+    "Name": "Schweppe’s Ginger Ale",
+    "ImageLogo": "assets/beverages/schweppes-ginger-ale_logo_ca.png",
+    "ImageLogoConsumerUI": "assets/beverages/schweppes-ginger-ale_logo_ca.png",
+    "ColorBackground": "#22804e",
+    "RecipeId": "bda4ca4c-f0bf-4d0e-9c34-cc6bdbbf8d41",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "schweppe-ginger-ale",
+    "Name": "Schweppe’s Ginger Ale",
+    "ImageLogo": "./assets/brands/schweppe-ginger-ale_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/schweppes-ginger-ale_logo.png",
+    "ColorBackground": "#22804e",
+    "RecipeId": "bda4ca4c-f0bf-4d0e-9c34-cc6bdbbf8d41",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "aquafina-flavorsplash-berry-loco",
+    "Name": "Aquafina Flavorsplash (berry loco)",
+    "ImageLogo": "./assets/brands/aquafina-flavorsplash-berry-loco_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/aquafina-flavorsplash-berry-loco_logo.png",
+    "ColorBackground": "#fe8c8b",
+    "RecipeId": "5cf869af-d91c-4a56-930a-1de427d13055",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "aquafina-flavorsplash-peelin-good",
+    "Name": "Aquafina Flavorsplash (peelin’ good)",
+    "ImageLogo": "./assets/brands/aquafina-flavorsplash-peelin-good_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/aquafina-flavorsplash-peelin-good_logo.png",
+    "ColorBackground": "#ffa469",
+    "RecipeId": "96e1f1d2-ce1b-47bc-ad3b-9bfcee8de8f9",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "lipton-lemon",
+    "Name": "Lipton Lemon",
+    "ImageLogo": "assets/beverages/lipton-lemon_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/lipton-lemon_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "34e9bd3c-be98-44cd-a8df-d92d4bff25e2",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "lipton-peach",
+    "Name": "Lipton Peach",
+    "ImageLogo": "assets/beverages/lipton-peach_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/lipton-peach_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "64e8228e-220d-4fa6-a127-002383e39867",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "tango-apple",
+    "Name": "Tango Apple",
+    "ImageLogo": "assets/beverages/tango-apple_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/tango-apple_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "2cc62b41-650f-4439-ad79-e7d8444c21b3",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "tango-orange",
+    "Name": "Tango Orange",
+    "ImageLogo": "assets/beverages/tango-orange_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/tango-orange_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "ae6dedac-5466-4e3d-a0fd-6c4da08ea4a0",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "7up",
+    "Name": "7UP",
+    "ImageLogo": "assets/beverages/7up_logo_us.png",
+    "ImageLogoConsumerUI": "assets/beverages/7up_logo_us.png",
+    "ColorBackground": "#37992c",
+    "RecipeId": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "7up",
+    "Name": "7UP",
+    "ImageLogo": "assets/beverages/7up_logo_ca.png",
+    "ImageLogoConsumerUI": "assets/beverages/7up_logo_ca.png",
+    "ColorBackground": "#37992c",
+    "RecipeId": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "ImageLogo, ImageLogoBrand, InheritFlavors",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "7up",
+    "Name": "7UP",
+    "ImageLogo": "./assets/brands/7up_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/7up_logo.png",
+    "ColorBackground": "#37992c",
+    "RecipeId": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "7up-free",
+    "Name": "7-UP Free",
+    "ImageLogo": "assets/beverages/7up-free_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/7up-free_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "5a27a266-1c57-40d7-8a8a-ff0b0704157b",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "7up-mojito",
+    "Name": "7-UP Mojito",
+    "ImageLogo": "assets/beverages/7up-mojito_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/7up-mojito_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "942f5e31-cfbf-4442-9917-db546f494eee",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "dole-strawberry-kiwi",
+    "Name": "Dole Strawberry Kiwi",
+    "ImageLogo": "assets/beverages/dole-strawberry-kiwi_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/dole-strawberry-kiwi_logo.png",
+    "ColorBackground": null,
+    "RecipeId": "2fb003bb-3663-4ab6-969c-2fcde27fad52",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "vanilla"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "izze-sparkling-blackberry",
+    "Name": "Izze Sparkling Blackberry",
+    "ImageLogo": "./assets/brands/izze-sparkling-blackberry_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/izze-sparkling-blackberry_logo.png",
+    "ColorBackground": "#e2aac5",
+    "RecipeId": "7b2d030a-7b43-40a6-b552-fe9b6896faa0",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "izze-sparkling-clementine",
+    "Name": "Izze Sparkling Clementine",
+    "ImageLogo": "./assets/brands/izze-sparkling-clementine_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/izze-sparkling-clementine_logo.png",
+    "ColorBackground": "#ffe695",
+    "RecipeId": "646ca2ff-8f0b-4564-97e3-925ce66c0d52",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "izze-sparkling-grapefruit",
+    "Name": "Izze Sparkling Grapefruit",
+    "ImageLogo": "./assets/brands/izze-sparkling-grapefruit_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/izze-sparkling-grapefruit_logo.png",
+    "ColorBackground": "#fcd7d1",
+    "RecipeId": "432d388d-dbea-4311-bbaa-275dad1d8825",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "izze-sparkling-pomegranate",
+    "Name": "Izze Sparkling Pomegranate",
+    "ImageLogo": "./assets/brands/izze-sparkling-pomegranate_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/izze-sparkling-pomegranate_logo.png",
+    "ColorBackground": "#f4b4cb",
+    "RecipeId": "40e5f770-c44a-40f9-915d-5035b34a4bbb",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "cheerwine",
+    "Name": "Cheerwine",
+    "ImageLogo": "./assets/brands/cheerwine.png",
+    "ImageLogoConsumerUI": "assets/beverages/cheerwine_logo.png",
+    "ColorBackground": "#c82239",
+    "RecipeId": "aa3abf90-a583-442b-94ed-bb4782c47f8b",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "cheerwine-diet",
+    "Name": "Cheerwine Diet",
+    "ImageLogo": "./assets/brands/cheerwine-diet.png",
+    "ImageLogoConsumerUI": "assets/beverages/cheerwine-diet_logo.png",
+    "ColorBackground": "#f8e7e7",
+    "RecipeId": "3dd6e261-f6e3-43a9-a494-bb29c8e86841",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "big-red",
+    "Name": "Big Red",
+    "ImageLogo": "./assets/brands/big-red_logo.png",
+    "ImageLogoConsumerUI": "assets/beverages/big-red_logo.png",
+    "ColorBackground": "#e91a39",
+    "RecipeId": "5a0e67ed-825b-4c59-9869-7148db66dc81",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      "cherry",
+      "strawberry",
+      "lemon",
+      "vanilla",
+      "peach",
+      "raspberry",
+      "lime",
+      "grape"
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Brand",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "water-sparkling",
+    "Name": "Sparkling Water",
+    "ImageLogo": "./assets/brands/water-sparkling_logo.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#6db1f1",
+    "RecipeId": "73fd5c76-b87d-4628-addd-6e7b35fe79c8",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Water",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "water-tap",
+    "Name": "Tap Water",
+    "ImageLogo": "./assets/brands/water-tap_logo.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#d5e8fa",
+    "RecipeId": "f094e81a-b006-410d-9d38-58246e08e51f",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Water",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      },
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "FW Vanilla (CA)",
+    "Name": "vanilla",
+    "ImageLogo": "./assets/flavors/vanilla.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#e7e4b3",
+    "RecipeId": "flavor-vanilla",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "Flavor Works Vanilla",
+    "Name": "vanilla",
+    "ImageLogo": "./assets/flavors/vanilla.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#e7e4b3",
+    "RecipeId": "flavor-vanilla",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "FW Strawberry (CA)",
+    "Name": "strawberry",
+    "ImageLogo": "./assets/flavors/strawberry.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#f82929",
+    "RecipeId": "flavor-strawberry",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "Flavor Works Strawberry",
+    "Name": "strawberry",
+    "ImageLogo": "./assets/flavors/strawberry.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#f82929",
+    "RecipeId": "flavor-strawberry",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "Flavor Works Lime",
+    "Name": "lime",
+    "ImageLogo": "./assets/flavors/lime.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#d2e252",
+    "RecipeId": "flavor-lime",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "FW Lime (CA)",
+    "Name": "lime",
+    "ImageLogo": "./assets/flavors/lime.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#d2e252",
+    "RecipeId": "flavor-lime",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "Flavor Works Raspberry",
+    "Name": "raspberry",
+    "ImageLogo": "./assets/flavors/raspberry.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#cb296f",
+    "RecipeId": "flavor-raspberry",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "FW Raspberry (CA)",
+    "Name": "raspberry",
+    "ImageLogo": "./assets/flavors/raspberry.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#cb296f",
+    "RecipeId": "flavor-raspberry",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "Flavor Works Lemon",
+    "Name": "lemon",
+    "ImageLogo": "./assets/flavors/lemon.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#fef054",
+    "RecipeId": "flavor-lemon",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "FW Lemon (CA)",
+    "Name": "lemon",
+    "ImageLogo": "./assets/flavors/raspberry.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#fef054",
+    "RecipeId": "flavor-lemon",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "Flavor Works Peach",
+    "Name": "peach",
+    "ImageLogo": "./assets/flavors/peach.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#ffb668",
+    "RecipeId": "flavor-peach",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "FW Peach (CA)",
+    "Name": "peach",
+    "ImageLogo": "./assets/flavors/peach.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#ffb668",
+    "RecipeId": "flavor-peach",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "Flavor Works Grape",
+    "Name": "grape",
+    "ImageLogo": "./assets/flavors/grape.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#8560a8",
+    "RecipeId": "flavor-grape",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "FW Grape (CA)",
+    "Name": "grape",
+    "ImageLogo": "./assets/flavors/grape.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#8560a8",
+    "RecipeId": "flavor-grape",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "Flavor Works Cherry",
+    "Name": "cherry",
+    "ImageLogo": "./assets/flavors/cherry.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#ff0a4f",
+    "RecipeId": "flavor-cherry",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "US",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  },
+  {
+    "Id": "FW Cherry (CA)",
+    "Name": "cherry",
+    "ImageLogo": "./assets/flavors/cherry.png",
+    "ImageLogoConsumerUI": null,
+    "ColorBackground": "#ff0a4f",
+    "RecipeId": "flavor-cherry",
+    "MixBeverage": null,
+    "MixFlavors": null,
+    "Flavors": [
+      ""
+    ],
+    "ItemOverride": "None",
+    "ProductItemType": "Flavor",
+    "CountryLanguageCustomer": [
+      {
+        "Country": "Canada",
+        "Language": "French",
+        "Customer": ""
+      },
+      {
+        "Country": "Canada",
+        "Language": "English",
+        "Customer": ""
+      }
+    ],
+    "Weighting": 100000
+  }
+]

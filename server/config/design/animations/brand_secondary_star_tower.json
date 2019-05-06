@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_star_tower",
+  "image": "assets/animations/brands/secondary_star_tower.png",
+  "frameWidth": 266,
+  "frameHeight": 337,
+  "frames": 74,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

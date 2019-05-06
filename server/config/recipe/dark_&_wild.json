@@ -1,0 +1,42 @@
+{
+  "Revision": 1,
+  "Id": "ce798b18-4d07-4f6e-8f22-5735138ba71a",
+  "Name": "Dark & Wild",
+  "BeverageId": "mix-dark-and-wild",
+  "Type": "Mix",
+  "BrandId": "pepsi-zero",
+  "FlavorIds":[
+    "cherry"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000630453",
+      "Name": "Pepsi Zero 0 Sugar"
+    },
+    {
+      "Sku": "012000033520",
+      "Name": "Pepsi Zero 0 Sugar"
+    },
+    {
+      "Sku": "999998000128",
+      "Name": "Pepsi Zero 0 Sugar"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "888888000006",
+      "Name": "FW Cherry (CA)"
+    },
+    {
+      "Sku": "012000043222",
+      "Name": "Flavor Works Cherry"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

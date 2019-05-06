@@ -1,0 +1,104 @@
+{
+  "id": "tropicana-fruit-punch",
+  "recipeId": "e46acfbc-77b1-4d46-9023-0eebd387de91",
+  "languageCountryCode": "en-us",
+  "name": "Tropicana Fruit Punch",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-tropicana",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/tropicana-fruit-punch_logo.png",
+      "logoBrand": "./assets/beverages/tropicana-fruit-punch_logo_brand.png",
+      "gradient": "./assets/beverages/tropicana-fruit-punch_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/tropicana-fruit-punch_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/tropicana-fruit-punch_idle.webm",
+      "liquidBackground": "./assets/beverages/tropicana-fruit-punch_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffffb1b6",
+      "animationLight": "#ffd1d1",
+      "animationDark": "#ed5353"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffbaba",
+        "#e4312f"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffbaba",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ff6773",
+        "opacityMin": 0.7,
+        "opacityMax": 0.9,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#e4312f",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffd23019",
+      "#ff76170a",
+      "#ff76170a"
+    ]
+  },
+  "Weighting": 1330,
+  "spire6ImageLogo": "./assets/beverages/tropicana-fruit-punch_logo.png",
+  "spire6BackgroundColor": "#f4473a",
+  "CalorieCups": []
+}

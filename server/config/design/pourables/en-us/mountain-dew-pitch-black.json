@@ -1,0 +1,99 @@
+{
+  "id": "mountain-dew-pitch-black",
+  "recipeId": "abc1c09f-5178-4371-b897-3d2636e53c84",
+  "languageCountryCode": "en-us",
+  "name": "Mountain Dew Pitch Black",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mountain-dew",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mountain-dew-pitch-black_logo.png",
+      "logoBrand": "./assets/beverages/mountain-dew-pitch-black_logo.png",
+      "gradient": "./assets/beverages/mountain-dew-pitch-black_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/crush-grape_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/crush-grape_idle.webm",
+      "liquidBackground": "./assets/beverages/mountain-dew-pitch-black_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffffe104",
+      "animationLight": "#cc51ec",
+      "animationDark": "#830dcf"
+    },
+    "particlesHome": {
+      "colors": [
+        "#cd76e2",
+        "#661c82"
+      ],
+      "opacity": {
+        "from": 0.85,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fdf1ff",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#b115cd",
+        "opacityMin": 0.15,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_skateboard_purple",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_skateboard_purple",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.6,
+      "scale": 0.88
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_skateboard_purple",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_skateboard_purple",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.6,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff8b0daa",
+      "#ff6d0072",
+      "#ff6d0072"
+    ]
+  },
+  "Weighting": 1250,
+  "spire6ImageLogo": "./assets/beverages/mountain-dew-pitch-black_logo.png",
+  "spire6BackgroundColor": "#9748a6",
+  "CalorieCups": []
+}

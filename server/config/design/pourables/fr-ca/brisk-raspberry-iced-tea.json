@@ -1,0 +1,96 @@
+{
+  "id": "brisk-raspberry-iced-tea",
+  "recipeId": "4eae68f5-92d6-48ee-90ce-486dc1a84878",
+  "languageCountryCode": "fr-ca",
+  "name": "Brisk Iced Tea With Raspberry",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry"
+  ],
+  "group": "group-brisk",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/brisk-raspberry-iced-tea_logo.png",
+      "logoBrand": "./assets/beverages/brisk-raspberry-iced-tea_logo.png",
+      "gradient": "./assets/beverages/brisk-raspberry-iced-tea_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_idle.webm",
+      "liquidBackground": "./assets/beverages/brisk-raspberry-iced-tea_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffff87b7",
+      "animationLight": "#f62e82",
+      "animationDark": "#bb004b"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff0072",
+        "#bb003a"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fc2478",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#bb003a",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_star_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_star_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.8,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_star_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.8,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_star_tower",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 0.8,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff3e53",
+      "#ffcf2134",
+      "#ffcf2134"
+    ]
+  },
+  "Weighting": 1560,
+  "spire6ImageLogo": "./assets/beverages/brisk-raspberry-iced-tea_logo.png",
+  "spire6BackgroundColor": "#fe647b",
+  "CalorieCups": []
+}

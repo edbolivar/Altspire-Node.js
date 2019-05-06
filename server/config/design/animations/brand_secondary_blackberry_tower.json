@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_blackberry_tower",
+  "image": "assets/animations/brands/secondary_blackberry_tower.png",
+  "frameWidth": 242,
+  "frameHeight": 257,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

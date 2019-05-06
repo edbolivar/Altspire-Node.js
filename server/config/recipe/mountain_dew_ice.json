@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "04d98b68-b7c5-49ca-8a32-d750a855646a",
+  "Name": "Mtn Dew Ice",
+  "BeverageId": "mountain-dew-ice",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000180798",
+      "Name": "Mtn Dew Ice"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

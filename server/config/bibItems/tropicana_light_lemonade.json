@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "tropicana_light_lemonade",
+  "Weighting": 1350,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "5G BIB Tropicana Light Lemonade",
+      "MixRatio": "5",
+      "Name": "Tropicana Light Lemonade",
+      "SKU": "012000016103",
+      "CaloriesPerOz": "0.537148346",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "3G BIB Tropicana Light Lemonade",
+      "MixRatio": "5",
+      "Name": "Tropicana Light Lemonade",
+      "SKU": "012000016127",
+      "CaloriesPerOz": "0.537148346",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+	"override": [
+		{
+			"xml": "flavors",
+			"path": "flavor/design/animationIntro",
+			"value": ""
+		}, 
+		{
+			"xml": "flavors",
+			"path": "flavor/design/animationSelect",
+			"value": ""
+		},
+		{
+			"xml": "flavors",
+			"path": "flavor/design/animationDeselect",
+			"value": ""
+		},
+		{
+			"xml": "beverages",
+			"path": "beverage/design/imageLogoFlavorSponsor",
+			"value": "assets/sponsors/kfc-teisseire_logo.png"
+		}
+	]
+}

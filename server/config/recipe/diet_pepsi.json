@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+  "Name": "Diet Pepsi",
+  "BeverageId": "pepsi-diet",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400063",
+      "Name": "Diet Pepsi"
+    },
+    {
+      "Sku": "012000029349",
+      "Name": "Diet Pepsi"
+    },
+    {
+      "Sku": "012000402470",
+      "Name": "Diet Pepsi"
+    },
+    {
+      "Sku": "012000029332",
+      "Name": "Diet Pepsi"
+    },
+    {
+      "Sku": "069000011034",
+      "Name": "Diet Pepsi"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

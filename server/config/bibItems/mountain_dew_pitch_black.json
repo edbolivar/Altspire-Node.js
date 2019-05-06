@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "mountain_dew_pitch_black",
+  "Weighting": 1250,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "Mountain Dew Pitch Black",
+      "MixRatio": "3",
+      "Name": "Mountain Dew Pitch Black",
+      "SKU": "012000152559",
+      "CaloriesPerOz": "13.993088399625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

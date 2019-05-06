@@ -1,0 +1,99 @@
+{
+  "id": "brisk-strawberry-melon",
+  "recipeId": "a6a36971-c269-4ae8-9f17-d8cb1d962854",
+  "languageCountryCode": "en-us",
+  "name": "Brisk Strawberry Melon",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-brisk",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/brisk-strawberry-melon_logo.png",
+      "logoBrand": "./assets/beverages/brisk-strawberry-melon_logo_brand.png",
+      "gradient": "./assets/beverages/izze-sparkling-pomegranate_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/tropicana-pink-lemonade_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/tropicana-pink-lemonade_idle.webm",
+      "liquidBackground": "./assets/beverages/izze-sparkling-pomegranate_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffa83a1",
+      "animationLight": "#ff4b79",
+      "animationDark": "#b51c4b"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fa88a1",
+        "#d91d56"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fbdfe8",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#e62b67",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_yinyang",
+      "offsetX": 0.0,
+      "offsetY": 40.0,
+      "alpha": 0.4,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_yinyang",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 0.75
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_yinyang_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.96,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_yinyang_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.75
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff8383",
+      "#ffbe4040",
+      "#ffbe4040"
+    ]
+  },
+  "Weighting": 1590,
+  "spire6ImageLogo": "./assets/beverages/brisk-strawberry-melon_logo.png",
+  "spire6BackgroundColor": "#f97eb5",
+  "CalorieCups": []
+}

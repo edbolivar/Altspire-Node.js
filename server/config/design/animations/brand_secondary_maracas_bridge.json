@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_maracas_bridge",
+  "image": "assets/animations/brands/secondary_maracas_bridge.png",
+  "frameWidth": 254,
+  "frameHeight": 264,
+  "frames": 39,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "5f4d8cb2-f9a0-4c7f-a649-e3f5ba5cc8ff",
+  "Name": "Brisk Mango Fiesta",
+  "BeverageId": "brisk-mango-iced-tea",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000112003",
+      "Name": "Brisk Mango Fiesta"
+    },
+    {
+      "Sku": "012000111990",
+      "Name": "Brisk Mango Fiesta"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "96e1f1d2-ce1b-47bc-ad3b-9bfcee8de8f9",
+  "Name": "Aquafina Flavorsplash (peelin' good)",
+  "BeverageId": "aquafina-flavorsplash-peelin-good",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999999000004",
+      "Name": "Aquafina Flavorsplash (peelin' good)"
+    },
+    {
+      "Sku": "999999000010",
+      "Name": "Aquafina Flavorsplash (peelin' good)"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

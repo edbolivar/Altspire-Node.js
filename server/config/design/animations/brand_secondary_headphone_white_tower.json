@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_headphone_white_tower",
+  "image": "assets/animations/brands/secondary_headphone_white_tower.png",
+  "frameWidth": 281,
+  "frameHeight": 400,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

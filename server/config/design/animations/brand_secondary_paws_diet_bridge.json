@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_paws_diet_bridge",
+  "image": "assets/animations/brands/secondary_paws_diet_bridge.png",
+  "frameWidth": 276,
+  "frameHeight": 365,
+  "frames": 58,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

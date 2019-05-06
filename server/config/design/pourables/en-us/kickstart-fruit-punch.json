@@ -1,0 +1,99 @@
+{
+  "id": "kickstart-fruit-punch",
+  "recipeId": "9e270d6d-e9d7-44a5-9f5c-4f0366795c4c",
+  "languageCountryCode": "en-us",
+  "name": "Kickstart Fruit Punch",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/kickstart-fruit-punch_logo.png",
+      "logoBrand": "./assets/beverages/kickstart-fruit-punch_logo_brand.png",
+      "gradient": "./assets/beverages/kickstart-fruit-punch_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/kickstart-fruit-punch_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/kickstart-fruit-punch_idle.webm",
+      "liquidBackground": "./assets/beverages/kickstart-fruit-punch_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffff5f5f",
+      "animationLight": "#ff5f5f",
+      "animationDark": "#ee3d42"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff5f5f",
+        "#ee3d42"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ff9391",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ae2334",
+        "opacityMin": 0.2,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_speakers_fruit_punch_tower",
+      "offsetX": 0.0,
+      "offsetY": -70.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_speakers_fruit_punch_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_headphone_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_headphone_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.4,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffee3d42",
+      "#ffe40a05",
+      "#ffe40a05"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/kickstart-fruit-punch_logo.png",
+  "spire6BackgroundColor": "#ee3d42",
+  "CalorieCups": []
+}

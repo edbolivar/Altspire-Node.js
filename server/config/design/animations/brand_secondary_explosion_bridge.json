@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_explosion_bridge",
+  "image": "assets/animations/brands/secondary_explosion_bridge.png",
+  "frameWidth": 241,
+  "frameHeight": 317,
+  "frames": 61,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

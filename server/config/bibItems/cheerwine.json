@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "cheerwine",
+  "Weighting": 1700,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "Cheerwine US 3G",
+      "MixRatio": "5",
+      "Name": "Cheerwine",
+      "SKU": "070925000836",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "5",
+      "Description": "Cheerwine US 5G",
+      "MixRatio": "5",
+      "Name": "Cheerwine",
+      "SKU": "070925000812",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "pepsi-wild-cherry-diet",
+  "recipeId": "cd143085-7793-49d2-b275-fd1b241128ed",
+  "languageCountryCode": "en-us",
+  "name": "Diet Pepsi Wild Cherry",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-pepsi",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/pepsi-wild-cherry-diet_logo.png",
+      "logoBrand": "./assets/beverages/pepsi-wild-cherry-diet_logo.png",
+      "gradient": "./assets/beverages/pepsi-wild-cherry-diet_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/pepsi_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/pepsi_idle.webm",
+      "liquidBackground": "./assets/beverages/pepsi-wild-cherry-diet_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fff93e3e",
+      "animationLight": "#ff2b4e",
+      "animationDark": "#a70823"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fa88a1",
+        "#ff2449"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fddee3",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f67c90",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#fff95f5f",
+      "#ffc80909",
+      "#ffc80909"
+    ]
+  },
+  "Weighting": 1080,
+  "spire6ImageLogo": "./assets/beverages/pepsi-wild-cherry-diet_logo.png",
+  "spire6BackgroundColor": "#fc7f7f",
+  "CalorieCups": []
+}

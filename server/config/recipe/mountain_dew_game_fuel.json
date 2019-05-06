@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "4c32131d-d3c3-46c7-9b6c-138f9b42a8ec",
+  "Name": "Mountain Dew Game Fuel",
+  "BeverageId": "mountain-dew-game-fuel",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000163296",
+      "Name": "Mountain Dew Game Fuel"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

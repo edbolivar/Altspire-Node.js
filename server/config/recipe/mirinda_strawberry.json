@@ -1,0 +1,26 @@
+{
+  "Revision": 1,
+  "Id": "402e4695-b4c1-4e0b-8ed5-e18934cce870",
+  "Name": "Mirinda Strawberry",
+  "BeverageId": "mirinda-strawberry",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000404368",
+      "Name": "Mirinda Strawberry"
+    },
+    {
+      "Sku": "012000400230",
+      "Name": "Mirinda Strawberry"
+    }
+  ],
+  "FlavorSkus": [],
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

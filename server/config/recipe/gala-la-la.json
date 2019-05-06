@@ -1,0 +1,52 @@
+{
+  "Revision": 1,
+  "Id": "e380a5ab-9f99-4012-be69-08abc3c90971",
+  "Name": "Gala-la-la",
+  "BeverageId": "mix-gala-la-la",
+  "Type": "Mix",
+  "BrandId": "manzanita-sol" ,
+  "FlavorIds":[
+    "lemon",
+    "peach",
+    "cherry"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000030772",
+      "Name": "Manzanita Sol"
+    },
+    {
+      "Sku": "012000023194",
+      "Name": "Manzanita Sol"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043246",
+      "Name": "Flavor Works Lemon"
+    },
+    {
+      "Sku": "888888000008",
+      "Name": "FW Lemon (CA)"
+    },
+    {
+      "Sku": "012000043260",
+      "Name": "Flavor Works Peach"
+    },
+    {
+      "Sku": "012000043222",
+      "Name": "Flavor Works Cherry"
+    },
+    {
+      "Sku": "888888000006",
+      "Name": "FW Cherry (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

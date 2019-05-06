@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "bc331e6e-6315-48c7-a1f0-e140eadc7d10",
+  "Name": "Mountain Dew",
+  "BeverageId": "mountain-dew",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400094",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000029325",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000402500",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000029318",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "069000020265",
+      "Name": "Mountain Dew"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,29 @@
+{
+	"id": "cherry",
+	"resourceId": "cherry_id",
+	"name": "Flavor Works Cherry",
+	"design": {
+		"textColor": "0xe71553",
+		"textSelectedColor": "0xff7272",
+		"alphaDisabled": 0.3,
+        "backgroundColor": "0xff0a4f"
+	},
+	"select": {
+		"asset": "assets/animations/flavors/cherry_select.png",
+		"width": 226,
+		"height": 226,
+		"frames": 34,
+		"fps": 30,
+		"scale": 1
+	},
+	"spin": {
+		"asset": "assets/animations/flavors/cherry_spin.png",
+		"width": 226,
+		"height": 226,
+		"frames": 66,
+		"fps": 30,
+		"scale": 1
+	},
+	"Spire6ImageLogo": "./assets/beverages/cherry.png",
+	"Spire6BackgroundColor": "#ff0a4f"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_star_bridge",
+  "image": "assets/animations/brands/secondary_star_bridge.png",
+  "frameWidth": 265,
+  "frameHeight": 344,
+  "frames": 60,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

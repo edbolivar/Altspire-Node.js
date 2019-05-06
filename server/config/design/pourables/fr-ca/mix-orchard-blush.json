@@ -1,0 +1,86 @@
+{
+  "id": "mix-orchard-blush",
+  "recipeId": "89bed8e8-651f-418a-9105-2551290cc7e5",
+  "languageCountryCode": "fr-ca",
+  "name": "Orchard Blush",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-orchard-blush_logo.png",
+      "logoBrand": "./assets/beverages/mix-orchard-blush_logo_brand.png",
+      "gradient": "./assets/beverages/mix-orchard-blush_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-orchard-blush_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-orchard-blush_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-orchard-blush_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffcc202b",
+      "animationLight": "#f9bcc9",
+      "animationDark": "#f27686"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f9bcc9",
+        "#f27686"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fffeea",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f3f6c4",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": []
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-orchard-blush_logo_brand.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

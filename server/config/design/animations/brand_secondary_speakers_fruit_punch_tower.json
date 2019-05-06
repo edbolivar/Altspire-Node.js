@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_speakers_fruit_punch_tower",
+  "image": "assets/animations/brands/secondary_speakers_fruit_punch_tower.png",
+  "frameWidth": 228,
+  "frameHeight": 216,
+  "frames": 71,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

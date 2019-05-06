@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "5a27a266-1c57-40d7-8a8a-ff0b0704157b",
+  "Name": "7UP Free",
+  "BeverageId": "7up-free",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000127",
+      "Name": "7UP Free"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

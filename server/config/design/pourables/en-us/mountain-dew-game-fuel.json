@@ -1,0 +1,99 @@
+{
+  "id": "mountain-dew-game-fuel",
+  "recipeId": "4c32131d-d3c3-46c7-9b6c-138f9b42a8ec",
+  "languageCountryCode": "en-us",
+  "name": "Mountain Dew Game Fuel",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mountain-dew",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mountain-dew-game-fuel_logo.png",
+      "logoBrand": "./assets/beverages/mountain-dew-game-fuel_logo.png",
+      "gradient": "./assets/beverages/mix-zing-cherry_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mountain-dew-code-red_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mountain-dew-code-red_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-zing-cherry_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffe85474",
+      "animationLight": "#dc3559",
+      "animationDark": "#a31d3d"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f28a99",
+        "#ce2047"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fce2e5",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f39daa",
+        "opacityMin": 0.35,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#fff23939",
+      "#ffe40c0c",
+      "#ffe40c0c"
+    ]
+  },
+  "Weighting": 1180,
+  "spire6ImageLogo": "./assets/beverages/mountain-dew-game-fuel_logo.png",
+  "spire6BackgroundColor": "#d42640",
+  "CalorieCups": []
+}

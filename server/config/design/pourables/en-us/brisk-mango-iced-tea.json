@@ -1,0 +1,107 @@
+{
+  "id": "brisk-mango-iced-tea",
+  "recipeId": "5f4d8cb2-f9a0-4c7f-a649-e3f5ba5cc8ff",
+  "languageCountryCode": "en-us",
+  "name": "Brisk Iced Tea Mango",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-brisk",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/brisk-mango-iced-tea_logo.png",
+      "logoBrand": "./assets/beverages/brisk-mango-iced-tea_logo.png",
+      "gradient": "./assets/beverages/brisk-mango-iced-tea_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_idle.webm",
+      "liquidBackground": "./assets/beverages/brisk-mango-iced-tea_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffffde78",
+      "animationLight": "#eb527f",
+      "animationDark": "#ce0f15"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffeaa5",
+        "#fed55e",
+        "#fdb92a"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffcea2",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ffc990",
+        "opacityMin": 0.6,
+        "opacityMax": 0.8,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ff8e3f",
+        "opacityMin": 0.15,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_maracas",
+      "offsetX": 0.0,
+      "offsetY": 60.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_maracas",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_maracas_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_maracas",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.75
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff3938b0",
+      "#ff452a74",
+      "#ff452a74"
+    ]
+  },
+  "Weighting": 1510,
+  "spire6ImageLogo": "./assets/beverages/brisk-mango-iced-tea_logo.png",
+  "spire6BackgroundColor": "#fdcd4d",
+  "CalorieCups": []
+}

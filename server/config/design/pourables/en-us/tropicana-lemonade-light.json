@@ -1,0 +1,99 @@
+{
+  "id": "tropicana-lemonade-light",
+  "recipeId": "a5b6df91-5837-4d74-ae52-7077e5dcb255",
+  "languageCountryCode": "en-us",
+  "name": "Tropicana Lemonade Light ",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-tropicana",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/tropicana-lemonade-light_logo.png",
+      "logoBrand": "./assets/beverages/tropicana-lemonade-light_logo.png",
+      "gradient": "./assets/beverages/tropicana-lemonade-light_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/tropicana-lemonade_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/tropicana-lemonade_idle.webm",
+      "liquidBackground": "./assets/beverages/tropicana-lemonade-light_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffb2f4f8",
+      "animationLight": "#e1f9dc",
+      "animationDark": "#b0e7c6"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f6fde9",
+        "#def9f7",
+        "#bfeecf"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#76daf7",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#25b4e3",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_sun_cyan_tower",
+      "offsetX": 0.0,
+      "offsetY": 20.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_sun_cyan_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.4,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_bluesun_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_bluesun_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.4,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffdb3e",
+      "#ffff9e33",
+      "#ffff9e33"
+    ]
+  },
+  "Weighting": 1350,
+  "spire6ImageLogo": "./assets/beverages/tropicana-lemonade-light_logo.png",
+  "spire6BackgroundColor": "#faf2c1",
+  "CalorieCups": []
+}

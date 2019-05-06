@@ -1,0 +1,4595 @@
+{
+    "Version": 1,
+    "Brands": [
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Pepsi",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 10,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Pepsi",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+                "Name": "Pepsi",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "012000400032",
+                    "012000029363",
+                    "012000402463",
+                    "012000029356",
+                    "069000003039"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000400032",
+                        "Name": "Pepsi"
+                    },
+                    {
+                        "Sku": "012000029363",
+                        "Name": "Pepsi"
+                    },
+                    {
+                        "Sku": "012000402463",
+                        "Name": "Pepsi"
+                    },
+                    {
+                        "Sku": "012000029356",
+                        "Name": "Pepsi"
+                    },
+                    {
+                        "Sku": "069000003039",
+                        "Name": "Pepsi"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000400032",
+                        "ValveAssignmentState": {
+                            "ValveId": "S1 - V9",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000400032",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "5",
+                                    "Description": "PEPSI 5 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Pepsi",
+                                    "AltName": null,
+                                    "SKU": "012000400032",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Pepsi",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000400032",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "58470473"
+                                },
+                                "PathToImage": "./assets/brands/pepsi_logo.png",
+                                "BackgroundColor": "#2d71b0",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 9,
+                                "SortValveNumber": 9,
+                                "Label": "S1",
+                                "Bank": 0,
+                                "Weighting": 100,
+                                "Row": 1,
+                                "RowInBank": 0,
+                                "GetLabel": "S1 - V9"
+                            },
+                            "SKU": "012000400032",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "ValveId": "HC - V1",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "0111",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "Filtered water with carbonation",
+                                    "MixRatio": "5",
+                                    "Name": "High Carb",
+                                    "AltName": null,
+                                    "SKU": "0111",
+                                    "Type": {
+                                        "value__": 3
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        },
+                                        {
+                                            "Country": "CA",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "High Carb",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "0111",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "61051908"
+                                },
+                                "PathToImage": "./assets/brands/water-sparkling_logo.png",
+                                "BackgroundColor": "#6db1f1",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 1,
+                                "SortValveNumber": 3,
+                                "Label": "HC",
+                                "Bank": 1,
+                                "Weighting": 10,
+                                "Row": 5,
+                                "RowInBank": 0,
+                                "GetLabel": "HC - V1"
+                            },
+                            "SKU": "0111",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "ValveId": "LC - V3",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "0333",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "Filtered water with carbonation",
+                                    "MixRatio": "5",
+                                    "Name": "Low Carb",
+                                    "AltName": null,
+                                    "SKU": "0333",
+                                    "Type": {
+                                        "value__": 3
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        },
+                                        {
+                                            "Country": "CA",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Low Carb",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "0333",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "48186957"
+                                },
+                                "PathToImage": "./assets/brands/water-sparkling_logo.png",
+                                "BackgroundColor": "#6db1f1",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 3,
+                                "SortValveNumber": 1,
+                                "Label": "LC",
+                                "Bank": 1,
+                                "Weighting": 30,
+                                "Row": 4,
+                                "RowInBank": 0,
+                                "GetLabel": "LC - V3"
+                            },
+                            "SKU": "0333",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "012000400032",
+                    "012000029363",
+                    "012000402463",
+                    "012000029356",
+                    "069000003039"
+                ]
+            },
+            "PathToImage": "./assets/brands/pepsi_logo.png",
+            "BackgroundColor": "#2d71b0",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Diet Pepsi",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 20,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Diet Pepsi",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+                "Name": "Diet Pepsi",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "012000400063",
+                    "012000029349",
+                    "012000402470",
+                    "012000029332",
+                    "069000011034"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000400063",
+                        "Name": "Diet Pepsi"
+                    },
+                    {
+                        "Sku": "012000029349",
+                        "Name": "Diet Pepsi"
+                    },
+                    {
+                        "Sku": "012000402470",
+                        "Name": "Diet Pepsi"
+                    },
+                    {
+                        "Sku": "012000029332",
+                        "Name": "Diet Pepsi"
+                    },
+                    {
+                        "Sku": "069000011034",
+                        "Name": "Diet Pepsi"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000400063",
+                        "ValveAssignmentState": {
+                            "ValveId": "S2 - V10",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000400063",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "5",
+                                    "Description": "DT PEPSI 5 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Diet Pepsi",
+                                    "AltName": null,
+                                    "SKU": "012000400063",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Diet Pepsi",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000400063",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "50680836"
+                                },
+                                "PathToImage": "./assets/brands/pepsi-diet_logo.png",
+                                "BackgroundColor": "#b0b0b0",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 10,
+                                "SortValveNumber": 10,
+                                "Label": "S2",
+                                "Bank": 0,
+                                "Weighting": 200,
+                                "Row": 1,
+                                "RowInBank": 0,
+                                "GetLabel": "S2 - V10"
+                            },
+                            "SKU": "012000400063",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "012000400063",
+                    "012000029349",
+                    "012000402470",
+                    "012000029332",
+                    "069000011034"
+                ]
+            },
+            "PathToImage": "./assets/brands/pepsi-diet_logo.png",
+            "BackgroundColor": "#b0b0b0",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Pepsi Zero 0 Sugar",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 30,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Pepsi Zero 0 Sugar",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+                "Name": "Pepsi Zero 0 Sugar",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "012000630453",
+                    "012000033520",
+                    "999998000128"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000630453",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    },
+                    {
+                        "Sku": "012000033520",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    },
+                    {
+                        "Sku": "999998000128",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000630453",
+                        "ValveAssignmentState": {
+                            "ValveId": "S3 - V11",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000630453",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "5",
+                                    "Description": "PEPSI MAX 5GAL BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Pepsi Zero 0 Sugar",
+                                    "AltName": null,
+                                    "SKU": "012000630453",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Pepsi Zero 0 Sugar",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000630453",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "26871338"
+                                },
+                                "PathToImage": "./assets/brands/pepsi-max_logo.png",
+                                "BackgroundColor": "#121e35",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 11,
+                                "SortValveNumber": 11,
+                                "Label": "S3",
+                                "Bank": 0,
+                                "Weighting": 300,
+                                "Row": 2,
+                                "RowInBank": 0,
+                                "GetLabel": "S3 - V11"
+                            },
+                            "SKU": "012000630453",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "012000630453",
+                    "012000033520",
+                    "999998000128"
+                ]
+            },
+            "PathToImage": "./assets/brands/pepsi-max_logo.png",
+            "BackgroundColor": "#121e35",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Mountain Dew",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 70,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "bc331e6e-6315-48c7-a1f0-e140eadc7d10",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Mountain Dew",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "bc331e6e-6315-48c7-a1f0-e140eadc7d10",
+                "Name": "Mountain Dew",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0444"
+                ],
+                "SyrupSkus": [
+                    "012000400094",
+                    "012000029325",
+                    "012000402500",
+                    "012000029318",
+                    "069000020265"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000400094",
+                        "Name": "Mountain Dew"
+                    },
+                    {
+                        "Sku": "012000029325",
+                        "Name": "Mountain Dew"
+                    },
+                    {
+                        "Sku": "012000402500",
+                        "Name": "Mountain Dew"
+                    },
+                    {
+                        "Sku": "012000029318",
+                        "Name": "Mountain Dew"
+                    },
+                    {
+                        "Sku": "069000020265",
+                        "Name": "Mountain Dew"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000400094",
+                        "ValveAssignmentState": {
+                            "ValveId": "S4 - V12",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000400094",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "5",
+                                    "Description": "MT DEW 5 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Mountain Dew",
+                                    "AltName": null,
+                                    "SKU": "012000400094",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Mountain Dew",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000400094",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "3474137"
+                                },
+                                "PathToImage": "./assets/brands/mountain-dew_logo.png",
+                                "BackgroundColor": "#0f964e",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 12,
+                                "SortValveNumber": 12,
+                                "Label": "S4",
+                                "Bank": 0,
+                                "Weighting": 400,
+                                "Row": 2,
+                                "RowInBank": 0,
+                                "GetLabel": "S4 - V12"
+                            },
+                            "SKU": "012000400094",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0444",
+                        "ValveAssignmentState": {
+                            "ValveId": "LS - V4",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "0444",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "Main water supply",
+                                    "MixRatio": "5",
+                                    "Name": "Low Still",
+                                    "AltName": null,
+                                    "SKU": "0444",
+                                    "Type": {
+                                        "value__": 2
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        },
+                                        {
+                                            "Country": "CA",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Low Still",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "0444",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "31614054"
+                                },
+                                "PathToImage": "./assets/brands/water-tap_logo.png",
+                                "BackgroundColor": "#d5e8fa",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 4,
+                                "SortValveNumber": 2,
+                                "Label": "LS",
+                                "Bank": 1,
+                                "Weighting": 40,
+                                "Row": 4,
+                                "RowInBank": 0,
+                                "GetLabel": "LS - V4"
+                            },
+                            "SKU": "0444",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0444",
+                    "012000400094",
+                    "012000029325",
+                    "012000402500",
+                    "012000029318",
+                    "069000020265"
+                ]
+            },
+            "PathToImage": "./assets/brands/mountain-dew_logo.png",
+            "BackgroundColor": "#0f964e",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Mountain Dew Baja Blast",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 75,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "79d8b159-bedd-4794-a2c7-373fafedf940",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Mountain Dew Baja Blast",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "79d8b159-bedd-4794-a2c7-373fafedf940",
+                "Name": "Mountain Dew Baja Blast",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0444"
+                ],
+                "SyrupSkus": [
+                    "012000011306",
+                    "012000843143"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000011306",
+                        "Name": "Mountain Dew Baja Blast"
+                    },
+                    {
+                        "Sku": "012000843143",
+                        "Name": "Mountain Dew Baja Blast"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000843143",
+                        "ValveAssignmentState": {
+                            "ValveId": "S8 - V16",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000843143",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "3",
+                                    "Description": "MT DEW BAJA BLAST 3 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Mountain Dew Baja Blast",
+                                    "AltName": null,
+                                    "SKU": "012000843143",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Mountain Dew Baja Blast",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000843143",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "59442675"
+                                },
+                                "PathToImage": "./assets/brands/mountain-dew-baja-blast_logo.png",
+                                "BackgroundColor": "#43bbbc",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 16,
+                                "SortValveNumber": 16,
+                                "Label": "S8",
+                                "Bank": 0,
+                                "Weighting": 800,
+                                "Row": 4,
+                                "RowInBank": 0,
+                                "GetLabel": "S8 - V16"
+                            },
+                            "SKU": "012000843143",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0444",
+                        "ValveAssignmentState": {
+                            "$circref": "21870091"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0444",
+                    "012000011306",
+                    "012000843143"
+                ]
+            },
+            "PathToImage": "./assets/brands/mountain-dew-baja-blast_logo.png",
+            "BackgroundColor": "#43bbbc",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Mist Twst",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 90,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "fcb44600-acd4-4686-8f28-6612b6def2f1",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Mist Twst",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "fcb44600-acd4-4686-8f28-6612b6def2f1",
+                "Name": "Mist Twst",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "012000503894",
+                    "012000029295",
+                    "012000503887",
+                    "012000029301"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000503894",
+                        "Name": "Sierra Mist"
+                    },
+                    {
+                        "Sku": "012000029295",
+                        "Name": "Sierra Mist"
+                    },
+                    {
+                        "Sku": "012000503887",
+                        "Name": "Sierra Mist"
+                    },
+                    {
+                        "Sku": "012000029301",
+                        "Name": "Sierra Mist"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000503894",
+                        "ValveAssignmentState": {
+                            "ValveId": "S7 - V15",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000503894",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "5",
+                                    "Description": "SRRA MST 5 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Sierra Mist",
+                                    "AltName": null,
+                                    "SKU": "012000503894",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Sierra Mist",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000503894",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "48359350"
+                                },
+                                "PathToImage": "./assets/brands/mist-twst_logo.png",
+                                "BackgroundColor": "#2d833f",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 15,
+                                "SortValveNumber": 15,
+                                "Label": "S7",
+                                "Bank": 0,
+                                "Weighting": 700,
+                                "Row": 4,
+                                "RowInBank": 0,
+                                "GetLabel": "S7 - V15"
+                            },
+                            "SKU": "012000503894",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "012000503894",
+                    "012000029295",
+                    "012000503887",
+                    "012000029301"
+                ]
+            },
+            "PathToImage": "./assets/brands/mist-twst_logo.png",
+            "BackgroundColor": "#2d833f",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Dr Pepper",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 111,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "ee1aded4-5f43-4571-80d0-d6acdc57e857",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Dr Pepper",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "ee1aded4-5f43-4571-80d0-d6acdc57e857",
+                "Name": "Dr Pepper",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "054900710545",
+                    "054900800017",
+                    "054900002039"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "054900710545",
+                        "Name": "Dr Pepper"
+                    },
+                    {
+                        "Sku": "054900800017",
+                        "Name": "Dr Pepper"
+                    },
+                    {
+                        "Sku": "054900002039",
+                        "Name": "Dr Pepper"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "054900710545",
+                        "ValveAssignmentState": {
+                            "ValveId": "S10 - V18",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "054900710545",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "5",
+                                    "Description": "DR PEPPER 5 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Dr Pepper",
+                                    "AltName": null,
+                                    "SKU": "054900710545",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Dr Pepper",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "054900710545",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "5121070"
+                                },
+                                "PathToImage": "./assets/brands/dr-pepper_logo.png",
+                                "BackgroundColor": "#7c0e24",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 18,
+                                "SortValveNumber": 18,
+                                "Label": "S10",
+                                "Bank": 0,
+                                "Weighting": 1000,
+                                "Row": 5,
+                                "RowInBank": 0,
+                                "GetLabel": "S10 - V18"
+                            },
+                            "SKU": "054900710545",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "054900710545",
+                    "054900800017",
+                    "054900002039"
+                ]
+            },
+            "PathToImage": "./assets/brands/dr-pepper_logo.png",
+            "BackgroundColor": "#7c0e24",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Cheerwine",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "aa3abf90-a583-442b-94ed-bb4782c47f8b",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Cheerwine",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "aa3abf90-a583-442b-94ed-bb4782c47f8b",
+                "Name": "Cheerwine",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "070925000836",
+                    "070925000812"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "070925000836",
+                        "Name": "Cheerwine"
+                    },
+                    {
+                        "Sku": "070925000812",
+                        "Name": "Cheerwine"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "070925000836",
+                        "ValveAssignmentState": {
+                            "ValveId": "S6 - V14",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "070925000836",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "3",
+                                    "Description": "Cheerwine US 3G",
+                                    "MixRatio": "5",
+                                    "Name": "Cheerwine",
+                                    "AltName": null,
+                                    "SKU": "070925000836",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Cheerwine",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "070925000836",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "36153985"
+                                },
+                                "PathToImage": "./assets/brands/cheerwine.png",
+                                "BackgroundColor": "#c82239",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 14,
+                                "SortValveNumber": 14,
+                                "Label": "S6",
+                                "Bank": 0,
+                                "Weighting": 600,
+                                "Row": 3,
+                                "RowInBank": 0,
+                                "GetLabel": "S6 - V14"
+                            },
+                            "SKU": "070925000836",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "070925000836",
+                    "070925000812"
+                ]
+            },
+            "PathToImage": "./assets/brands/cheerwine.png",
+            "BackgroundColor": "#c82239",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Diet Mug",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "3edd71ae-47c4-4349-a5ff-953abd0b74c8",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Diet Mug",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "3edd71ae-47c4-4349-a5ff-953abd0b74c8",
+                "Name": "Diet Mug",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "012000400674",
+                    "999999000005"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000400674",
+                        "Name": "Diet Mug"
+                    },
+                    {
+                        "Sku": "999999000005",
+                        "Name": "Diet Mug"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "999999000005",
+                        "ValveAssignmentState": {
+                            "ValveId": "S9 - V17",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "999999000005",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "3",
+                                    "Description": "DT MUG ROOT BEER 3 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Diet Mug",
+                                    "AltName": null,
+                                    "SKU": "999999000005",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Diet Mug",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "999999000005",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "22954328"
+                                },
+                                "PathToImage": "./assets/brands/mug-diet_logo.png",
+                                "BackgroundColor": "#e4d4c4",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 17,
+                                "SortValveNumber": 17,
+                                "Label": "S9",
+                                "Bank": 0,
+                                "Weighting": 900,
+                                "Row": 5,
+                                "RowInBank": 0,
+                                "GetLabel": "S9 - V17"
+                            },
+                            "SKU": "999999000005",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "012000400674",
+                    "999999000005"
+                ]
+            },
+            "PathToImage": "./assets/brands/mug-diet_logo.png",
+            "BackgroundColor": "#e4d4c4",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Crush Orange",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Crush Orange",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+                "Name": "Crush Orange",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "088500901263",
+                    "088500902406",
+                    "056000000922"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "088500901263",
+                        "Name": "Crush Orange"
+                    },
+                    {
+                        "Sku": "088500902406",
+                        "Name": "Crush Orange"
+                    },
+                    {
+                        "Sku": "056000000922",
+                        "Name": "Crush Orange"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "088500901263",
+                        "ValveAssignmentState": {
+                            "ValveId": "S12 - V20",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "088500901263",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "5",
+                                    "Description": "CRUSH ORANGE 5 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Crush Orange",
+                                    "AltName": null,
+                                    "SKU": "088500901263",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Crush Orange",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "088500901263",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "50718813"
+                                },
+                                "PathToImage": "./assets/brands/crush-orange_logo.png",
+                                "BackgroundColor": "#f6741c",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 20,
+                                "SortValveNumber": 20,
+                                "Label": "S12",
+                                "Bank": 0,
+                                "Weighting": 1200,
+                                "Row": 6,
+                                "RowInBank": 0,
+                                "GetLabel": "S12 - V20"
+                            },
+                            "SKU": "088500901263",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "088500901263",
+                    "088500902406",
+                    "056000000922"
+                ]
+            },
+            "PathToImage": "./assets/brands/crush-orange_logo.png",
+            "BackgroundColor": "#f6741c",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "7UP",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "7UP",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+                "Name": "7UP",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "065400002030",
+                    "078000200157",
+                    "078000200010"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "065400002030",
+                        "Name": "7UP"
+                    },
+                    {
+                        "Sku": "078000200157",
+                        "Name": "7UP"
+                    },
+                    {
+                        "Sku": "078000200010",
+                        "Name": "7UP"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "078000200157",
+                        "ValveAssignmentState": {
+                            "ValveId": "S11 - V19",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "078000200157",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "3",
+                                    "Description": "7UP 3 GALLON BIB Brand Formula 2642",
+                                    "MixRatio": "3",
+                                    "Name": "7UP",
+                                    "AltName": null,
+                                    "SKU": "078000200157",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "7UP",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "078000200157",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "31618481"
+                                },
+                                "PathToImage": "assets/beverages/7up_logo_us.png",
+                                "BackgroundColor": "#37992c",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 19,
+                                "SortValveNumber": 19,
+                                "Label": "S11",
+                                "Bank": 0,
+                                "Weighting": 1100,
+                                "Row": 6,
+                                "RowInBank": 0,
+                                "GetLabel": "S11 - V19"
+                            },
+                            "SKU": "078000200157",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "065400002030",
+                    "078000200157",
+                    "078000200010"
+                ]
+            },
+            "PathToImage": "assets/beverages/7up_logo_us.png",
+            "BackgroundColor": "#37992c",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Mug Root Beer",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "6761903e-d5e0-4c12-a7fd-4a84252abab1",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Mug Root Beer",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "6761903e-d5e0-4c12-a7fd-4a84252abab1",
+                "Name": "Mug Root Beer",
+                "Type": {
+                    "value__": 1
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "012000400117",
+                    "012000404085",
+                    "069000041055"
+                ],
+                "FlavorSkus": [],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000400117",
+                        "Name": "Mug"
+                    },
+                    {
+                        "Sku": "012000404085",
+                        "Name": "Mug"
+                    },
+                    {
+                        "Sku": "069000041055",
+                        "Name": "Mug"
+                    }
+                ],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000400117",
+                        "ValveAssignmentState": {
+                            "ValveId": "S5 - V13",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000400117",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "5",
+                                    "Description": "MUG ROOT BEER 5 GALLON BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Mug",
+                                    "AltName": null,
+                                    "SKU": "012000400117",
+                                    "Type": {
+                                        "value__": 1
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Mug",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000400117",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "59996048"
+                                },
+                                "PathToImage": "./assets/brands/mug_logo.png",
+                                "BackgroundColor": "#65391c",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 13,
+                                "SortValveNumber": 13,
+                                "Label": "S5",
+                                "Bank": 0,
+                                "Weighting": 500,
+                                "Row": 3,
+                                "RowInBank": 0,
+                                "GetLabel": "S5 - V13"
+                            },
+                            "SKU": "012000400117",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "012000400117",
+                    "012000404085",
+                    "069000041055"
+                ]
+            },
+            "PathToImage": "./assets/brands/mug_logo.png",
+            "BackgroundColor": "#65391c",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        }
+    ],
+    "UnusedFlavors": null,
+    "Flavors": [
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "012000043239",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 1
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Flavor Works Strawberry",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "Flavor Works Strawberry",
+                "Name": "Flavor Works Strawberry",
+                "Type": {
+                    "value__": 3
+                },
+                "WaterSkus": [],
+                "SyrupSkus": [],
+                "FlavorSkus": [],
+                "SyrupSkus2": [],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 0,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000043239",
+                        "ValveAssignmentState": {
+                            "ValveId": "F2 - V26",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000043239",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "1 Gal BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Flavor Works Strawberry",
+                                    "AltName": "strawberry",
+                                    "SKU": "012000043239",
+                                    "Type": {
+                                        "value__": 0
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Flavor Works Strawberry",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000043239",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "50422117"
+                                },
+                                "PathToImage": "./assets/flavors/strawberry.png",
+                                "BackgroundColor": "#f82929",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 26,
+                                "SortValveNumber": 26,
+                                "Label": "F2",
+                                "Bank": 1,
+                                "Weighting": 10000,
+                                "Row": 1,
+                                "RowInBank": 0,
+                                "GetLabel": "F2 - V26"
+                            },
+                            "SKU": "012000043239",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    }
+                ],
+                "AllSkus": []
+            },
+            "PathToImage": "./assets/flavors/strawberry.png",
+            "BackgroundColor": "#f82929",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "012000043215",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 1
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Flavor Works Vanilla",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "Flavor Works Vanilla",
+                "Name": "Flavor Works Vanilla",
+                "Type": {
+                    "value__": 3
+                },
+                "WaterSkus": [],
+                "SyrupSkus": [],
+                "FlavorSkus": [],
+                "SyrupSkus2": [],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 0,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000043215",
+                        "ValveAssignmentState": {
+                            "ValveId": "F1 - V25",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000043215",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "1 Gal BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Flavor Works Vanilla",
+                                    "AltName": "vanilla",
+                                    "SKU": "012000043215",
+                                    "Type": {
+                                        "value__": 0
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Flavor Works Vanilla",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000043215",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "61640335"
+                                },
+                                "PathToImage": "./assets/flavors/vanilla.png",
+                                "BackgroundColor": "#e7e4b3",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 25,
+                                "SortValveNumber": 25,
+                                "Label": "F1",
+                                "Bank": 1,
+                                "Weighting": 5000,
+                                "Row": 1,
+                                "RowInBank": 0,
+                                "GetLabel": "F1 - V25"
+                            },
+                            "SKU": "012000043215",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    }
+                ],
+                "AllSkus": []
+            },
+            "PathToImage": "./assets/flavors/vanilla.png",
+            "BackgroundColor": "#e7e4b3",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "012000043246",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 1
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Flavor Works Lemon",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "Flavor Works Lemon",
+                "Name": "Flavor Works Lemon",
+                "Type": {
+                    "value__": 3
+                },
+                "WaterSkus": [],
+                "SyrupSkus": [],
+                "FlavorSkus": [],
+                "SyrupSkus2": [],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 0,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000043246",
+                        "ValveAssignmentState": {
+                            "ValveId": "F4 - V28",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000043246",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "1 Gal BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Flavor Works Lemon",
+                                    "AltName": "lemon",
+                                    "SKU": "012000043246",
+                                    "Type": {
+                                        "value__": 0
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Flavor Works Lemon",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000043246",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "54631443"
+                                },
+                                "PathToImage": "./assets/flavors/lemon.png",
+                                "BackgroundColor": "#fef054",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 28,
+                                "SortValveNumber": 28,
+                                "Label": "F4",
+                                "Bank": 1,
+                                "Weighting": 20000,
+                                "Row": 2,
+                                "RowInBank": 0,
+                                "GetLabel": "F4 - V28"
+                            },
+                            "SKU": "012000043246",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    }
+                ],
+                "AllSkus": []
+            },
+            "PathToImage": "./assets/flavors/lemon.png",
+            "BackgroundColor": "#fef054",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "012000043222",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 1
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Flavor Works Cherry",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "Flavor Works Cherry",
+                "Name": "Flavor Works Cherry",
+                "Type": {
+                    "value__": 3
+                },
+                "WaterSkus": [],
+                "SyrupSkus": [],
+                "FlavorSkus": [],
+                "SyrupSkus2": [],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 0,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000043222",
+                        "ValveAssignmentState": {
+                            "ValveId": "F3 - V27",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000043222",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "1 Gal BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Flavor Works Cherry",
+                                    "AltName": "cherry",
+                                    "SKU": "012000043222",
+                                    "Type": {
+                                        "value__": 0
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Flavor Works Cherry",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000043222",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "50935169"
+                                },
+                                "PathToImage": "./assets/flavors/cherry.png",
+                                "BackgroundColor": "#ff0a4f",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 27,
+                                "SortValveNumber": 27,
+                                "Label": "F3",
+                                "Bank": 1,
+                                "Weighting": 15000,
+                                "Row": 2,
+                                "RowInBank": 0,
+                                "GetLabel": "F3 - V27"
+                            },
+                            "SKU": "012000043222",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    }
+                ],
+                "AllSkus": []
+            },
+            "PathToImage": "./assets/flavors/cherry.png",
+            "BackgroundColor": "#ff0a4f",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "012000043260",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 1
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Flavor Works Peach",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "Flavor Works Peach",
+                "Name": "Flavor Works Peach",
+                "Type": {
+                    "value__": 3
+                },
+                "WaterSkus": [],
+                "SyrupSkus": [],
+                "FlavorSkus": [],
+                "SyrupSkus2": [],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 0,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000043260",
+                        "ValveAssignmentState": {
+                            "ValveId": "F6 - V30",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000043260",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "1 Gal BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Flavor Works Peach",
+                                    "AltName": "peach",
+                                    "SKU": "012000043260",
+                                    "Type": {
+                                        "value__": 0
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Flavor Works Peach",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000043260",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "58662985"
+                                },
+                                "PathToImage": "./assets/flavors/peach.png",
+                                "BackgroundColor": "#ffb668",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 30,
+                                "SortValveNumber": 30,
+                                "Label": "F6",
+                                "Bank": 1,
+                                "Weighting": 30000,
+                                "Row": 3,
+                                "RowInBank": 0,
+                                "GetLabel": "F6 - V30"
+                            },
+                            "SKU": "012000043260",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    }
+                ],
+                "AllSkus": []
+            },
+            "PathToImage": "./assets/flavors/peach.png",
+            "BackgroundColor": "#ffb668",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "012000043253",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 1
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Flavor Works Lime",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "Flavor Works Lime",
+                "Name": "Flavor Works Lime",
+                "Type": {
+                    "value__": 3
+                },
+                "WaterSkus": [],
+                "SyrupSkus": [],
+                "FlavorSkus": [],
+                "SyrupSkus2": [],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 0,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000043253",
+                        "ValveAssignmentState": {
+                            "ValveId": "F5 - V29",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "012000043253",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "1 Gal BIB",
+                                    "MixRatio": "5",
+                                    "Name": "Flavor Works Lime",
+                                    "AltName": "lime",
+                                    "SKU": "012000043253",
+                                    "Type": {
+                                        "value__": 0
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "Flavor Works Lime",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "012000043253",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "18006972"
+                                },
+                                "PathToImage": "./assets/flavors/lime.png",
+                                "BackgroundColor": "#d2e252",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 29,
+                                "SortValveNumber": 29,
+                                "Label": "F5",
+                                "Bank": 1,
+                                "Weighting": 25000,
+                                "Row": 3,
+                                "RowInBank": 0,
+                                "GetLabel": "F5 - V29"
+                            },
+                            "SKU": "012000043253",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    }
+                ],
+                "AllSkus": []
+            },
+            "PathToImage": "./assets/flavors/lime.png",
+            "BackgroundColor": "#d2e252",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        }
+    ],
+    "Waters": [
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Aquafina Sparkling",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 3
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "73fd5c76-b87d-4628-addd-6e7b35fe79c8",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Aquafina Sparkling",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "73fd5c76-b87d-4628-addd-6e7b35fe79c8",
+                "Name": "Aquafina Sparkling",
+                "Type": {
+                    "value__": 0
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [],
+                "FlavorSkus": [],
+                "SyrupSkus2": [],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 0,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333"
+                ]
+            },
+            "PathToImage": "./assets/brands/water-sparkling_logo.png",
+            "BackgroundColor": "#6db1f1",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "Water",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 3
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "f094e81a-b006-410d-9d38-58246e08e51f",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Water",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "f094e81a-b006-410d-9d38-58246e08e51f",
+                "Name": "Water",
+                "Type": {
+                    "value__": 0
+                },
+                "WaterSkus": [
+                    "0222",
+                    "0444"
+                ],
+                "SyrupSkus": [],
+                "FlavorSkus": [],
+                "SyrupSkus2": [],
+                "FlavorSkus2": [],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 0,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "0222",
+                        "ValveAssignmentState": {
+                            "ValveId": "HS - V2",
+                            "IsAssigned": true,
+                            "BibItemAsButtonModel": {
+                                "HostViewModel": null,
+                                "IsInPopupContext": false,
+                                "UnitTypes": {
+                                    "value__": 415
+                                },
+                                "UnitLocations": {
+                                    "value__": 3
+                                },
+                                "Id": "0222",
+                                "ObjectId": 0,
+                                "ValveId": null,
+                                "Weighting": 0,
+                                "BibItem": {
+                                    "Bibsize": "1",
+                                    "Description": "Main water supply",
+                                    "MixRatio": "5",
+                                    "Name": "High Still",
+                                    "AltName": null,
+                                    "SKU": "0222",
+                                    "Type": {
+                                        "value__": 2
+                                    },
+                                    "CountryLanguageCustomers": [
+                                        {
+                                            "Country": "US",
+                                            "Language": "",
+                                            "Customer": ""
+                                        },
+                                        {
+                                            "Country": "CA",
+                                            "Language": "",
+                                            "Customer": ""
+                                        }
+                                    ],
+                                    "IsLocked": false,
+                                    "IsHighYield": false,
+                                    "IsAssigned": true
+                                },
+                                "PathToBackgroundImage": null,
+                                "TextColor": null,
+                                "TextSelectedColor": null,
+                                "ButtonType": {
+                                    "value__": 10
+                                },
+                                "ButtonModelList": [],
+                                "ButtonBehavior": {
+                                    "value__": 30
+                                },
+                                "RecipeId": null,
+                                "ResourceId": null,
+                                "IsPlaceHolder": false,
+                                "HasImage": true,
+                                "IsSelected": false,
+                                "Label": "High Still",
+                                "IsDisabled": false,
+                                "AllowSelectionOnDisabled": false,
+                                "FooterIcon": {
+                                    "value__": 0
+                                },
+                                "FooterColor": "Gray",
+                                "ItemStatus": {
+                                    "value__": 0
+                                },
+                                "FooterText": "0222",
+                                "FooterFontColor": "White",
+                                "Payload": {
+                                    "$circref": "36279044"
+                                },
+                                "PathToImage": "./assets/brands/water-tap_logo.png",
+                                "BackgroundColor": "#d5e8fa",
+                                "RowNumber": 0,
+                                "Tag": null,
+                                "ActionId": "bibitem"
+                            },
+                            "ValveLabelPair": {
+                                "ValveNumber": 2,
+                                "SortValveNumber": 4,
+                                "Label": "HS",
+                                "Bank": 1,
+                                "Weighting": 20,
+                                "Row": 5,
+                                "RowInBank": 0,
+                                "GetLabel": "HS - V2"
+                            },
+                            "SKU": "0222",
+                            "IsLocked": false,
+                            "IsHighYield": false
+                        }
+                    },
+                    {
+                        "Sku": "0444",
+                        "ValveAssignmentState": {
+                            "$circref": "21870091"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0222",
+                    "0444"
+                ]
+            },
+            "PathToImage": "./assets/brands/water-tap_logo.png",
+            "BackgroundColor": "#d5e8fa",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        }
+    ],
+    "TopCombinations": [
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 10,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 4
+            },
+            "ButtonModelList": [
+                {
+                    "HostViewModel": null,
+                    "IsInPopupContext": false,
+                    "UnitTypes": {
+                        "value__": 415
+                    },
+                    "UnitLocations": {
+                        "value__": 3
+                    },
+                    "Id": "012000043239",
+                    "ObjectId": 0,
+                    "ValveId": null,
+                    "Weighting": 0,
+                    "BibItem": null,
+                    "PathToBackgroundImage": null,
+                    "TextColor": null,
+                    "TextSelectedColor": null,
+                    "ButtonType": {
+                        "value__": 1
+                    },
+                    "ButtonModelList": [],
+                    "ButtonBehavior": {
+                        "value__": 6
+                    },
+                    "RecipeId": null,
+                    "ResourceId": null,
+                    "IsPlaceHolder": false,
+                    "HasImage": true,
+                    "IsSelected": true,
+                    "Label": "Flavor Works Strawberry",
+                    "IsDisabled": false,
+                    "AllowSelectionOnDisabled": true,
+                    "FooterIcon": {
+                        "value__": 0
+                    },
+                    "FooterColor": "Gray",
+                    "ItemStatus": {
+                        "value__": 0
+                    },
+                    "FooterText": null,
+                    "FooterFontColor": "White",
+                    "Payload": {
+                        "$circref": "38586694"
+                    },
+                    "PathToImage": "./assets/flavors/strawberry.png",
+                    "BackgroundColor": "#f82929",
+                    "RowNumber": 0,
+                    "Tag": null,
+                    "ActionId": ""
+                }
+            ],
+            "ButtonBehavior": {
+                "value__": 2
+            },
+            "RecipeId": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Pepsi",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": true,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "$circref": "58607411"
+            },
+            "PathToImage": "./assets/brands/pepsi_logo.png",
+            "BackgroundColor": "#2d71b0",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 20,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 4
+            },
+            "ButtonModelList": [
+                {
+                    "HostViewModel": null,
+                    "IsInPopupContext": false,
+                    "UnitTypes": {
+                        "value__": 415
+                    },
+                    "UnitLocations": {
+                        "value__": 3
+                    },
+                    "Id": "012000043246",
+                    "ObjectId": 0,
+                    "ValveId": null,
+                    "Weighting": 0,
+                    "BibItem": null,
+                    "PathToBackgroundImage": null,
+                    "TextColor": null,
+                    "TextSelectedColor": null,
+                    "ButtonType": {
+                        "value__": 1
+                    },
+                    "ButtonModelList": [],
+                    "ButtonBehavior": {
+                        "value__": 6
+                    },
+                    "RecipeId": null,
+                    "ResourceId": null,
+                    "IsPlaceHolder": false,
+                    "HasImage": true,
+                    "IsSelected": true,
+                    "Label": "Flavor Works Lemon",
+                    "IsDisabled": false,
+                    "AllowSelectionOnDisabled": true,
+                    "FooterIcon": {
+                        "value__": 0
+                    },
+                    "FooterColor": "Gray",
+                    "ItemStatus": {
+                        "value__": 0
+                    },
+                    "FooterText": null,
+                    "FooterFontColor": "White",
+                    "Payload": {
+                        "$circref": "11060308"
+                    },
+                    "PathToImage": "./assets/flavors/lemon.png",
+                    "BackgroundColor": "#fef054",
+                    "RowNumber": 0,
+                    "Tag": null,
+                    "ActionId": ""
+                }
+            ],
+            "ButtonBehavior": {
+                "value__": 2
+            },
+            "RecipeId": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Diet Pepsi",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": true,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "$circref": "40361268"
+            },
+            "PathToImage": "./assets/brands/pepsi-diet_logo.png",
+            "BackgroundColor": "#b0b0b0",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 30,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 4
+            },
+            "ButtonModelList": [
+                {
+                    "HostViewModel": null,
+                    "IsInPopupContext": false,
+                    "UnitTypes": {
+                        "value__": 415
+                    },
+                    "UnitLocations": {
+                        "value__": 3
+                    },
+                    "Id": "012000043260",
+                    "ObjectId": 0,
+                    "ValveId": null,
+                    "Weighting": 0,
+                    "BibItem": null,
+                    "PathToBackgroundImage": null,
+                    "TextColor": null,
+                    "TextSelectedColor": null,
+                    "ButtonType": {
+                        "value__": 1
+                    },
+                    "ButtonModelList": [],
+                    "ButtonBehavior": {
+                        "value__": 6
+                    },
+                    "RecipeId": null,
+                    "ResourceId": null,
+                    "IsPlaceHolder": false,
+                    "HasImage": true,
+                    "IsSelected": true,
+                    "Label": "Flavor Works Peach",
+                    "IsDisabled": false,
+                    "AllowSelectionOnDisabled": true,
+                    "FooterIcon": {
+                        "value__": 0
+                    },
+                    "FooterColor": "Gray",
+                    "ItemStatus": {
+                        "value__": 0
+                    },
+                    "FooterText": null,
+                    "FooterFontColor": "White",
+                    "Payload": {
+                        "$circref": "11993805"
+                    },
+                    "PathToImage": "./assets/flavors/peach.png",
+                    "BackgroundColor": "#ffb668",
+                    "RowNumber": 0,
+                    "Tag": null,
+                    "ActionId": ""
+                }
+            ],
+            "ButtonBehavior": {
+                "value__": 2
+            },
+            "RecipeId": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Pepsi Zero 0 Sugar",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": true,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "$circref": "22830677"
+            },
+            "PathToImage": "./assets/brands/pepsi-max_logo.png",
+            "BackgroundColor": "#121e35",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 4
+            },
+            "ButtonModelList": [
+                {
+                    "HostViewModel": null,
+                    "IsInPopupContext": false,
+                    "UnitTypes": {
+                        "value__": 415
+                    },
+                    "UnitLocations": {
+                        "value__": 3
+                    },
+                    "Id": "012000043253",
+                    "ObjectId": 0,
+                    "ValveId": null,
+                    "Weighting": 0,
+                    "BibItem": null,
+                    "PathToBackgroundImage": null,
+                    "TextColor": null,
+                    "TextSelectedColor": null,
+                    "ButtonType": {
+                        "value__": 1
+                    },
+                    "ButtonModelList": [],
+                    "ButtonBehavior": {
+                        "value__": 6
+                    },
+                    "RecipeId": null,
+                    "ResourceId": null,
+                    "IsPlaceHolder": false,
+                    "HasImage": true,
+                    "IsSelected": true,
+                    "Label": "Flavor Works Lime",
+                    "IsDisabled": false,
+                    "AllowSelectionOnDisabled": true,
+                    "FooterIcon": {
+                        "value__": 0
+                    },
+                    "FooterColor": "Gray",
+                    "ItemStatus": {
+                        "value__": 0
+                    },
+                    "FooterText": null,
+                    "FooterFontColor": "White",
+                    "Payload": {
+                        "$circref": "35262407"
+                    },
+                    "PathToImage": "./assets/flavors/lime.png",
+                    "BackgroundColor": "#d2e252",
+                    "RowNumber": 0,
+                    "Tag": null,
+                    "ActionId": ""
+                }
+            ],
+            "ButtonBehavior": {
+                "value__": 2
+            },
+            "RecipeId": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Crush Orange",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": true,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "$circref": "45724756"
+            },
+            "PathToImage": "./assets/brands/crush-orange_logo.png",
+            "BackgroundColor": "#f6741c",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": ""
+        }
+    ],
+    "CuratedMixes": [
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "49f8a125-c670-4028-9d67-ab677113ef7f",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "49f8a125-c670-4028-9d67-ab677113ef7f",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": false,
+            "Label": "Kentucky Cream",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": true,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "49f8a125-c670-4028-9d67-ab677113ef7f",
+                "Name": "Kentucky Cream",
+                "Type": {
+                    "value__": 2
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "012000630453",
+                    "012000033520",
+                    "999998000128"
+                ],
+                "FlavorSkus": [
+                    "888888000010",
+                    "012000043215"
+                ],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000630453",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    },
+                    {
+                        "Sku": "012000033520",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    },
+                    {
+                        "Sku": "999998000128",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    }
+                ],
+                "FlavorSkus2": [
+                    {
+                        "Sku": "888888000010",
+                        "Name": "FW Vanilla (CA)"
+                    },
+                    {
+                        "Sku": "012000043215",
+                        "Name": "Flavor Works Vanilla"
+                    }
+                ],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000630453",
+                        "ValveAssignmentState": {
+                            "$circref": "48206470"
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    },
+                    {
+                        "Sku": "012000043215",
+                        "ValveAssignmentState": {
+                            "$circref": "23024438"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "012000630453",
+                    "012000033520",
+                    "999998000128",
+                    "888888000010",
+                    "012000043215"
+                ]
+            },
+            "PathToImage": "assets/beverages/mix-kentucky-cream_logo_brand.png",
+            "BackgroundColor": "White",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": "select.button.to.configure"
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": "ce798b18-4d07-4f6e-8f22-5735138ba71a",
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 100000,
+            "BibItem": null,
+            "PathToBackgroundImage": null,
+            "TextColor": null,
+            "TextSelectedColor": null,
+            "ButtonType": {
+                "value__": 0
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 6
+            },
+            "RecipeId": "ce798b18-4d07-4f6e-8f22-5735138ba71a",
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": true,
+            "IsSelected": true,
+            "Label": "Dark & Wild",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": true,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": {
+                "Id": "ce798b18-4d07-4f6e-8f22-5735138ba71a",
+                "Name": "Dark & Wild",
+                "Type": {
+                    "value__": 2
+                },
+                "WaterSkus": [
+                    "0111",
+                    "0333"
+                ],
+                "SyrupSkus": [
+                    "012000630453",
+                    "012000033520",
+                    "999998000128"
+                ],
+                "FlavorSkus": [
+                    "888888000006",
+                    "012000043222"
+                ],
+                "SyrupSkus2": [
+                    {
+                        "Sku": "012000630453",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    },
+                    {
+                        "Sku": "012000033520",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    },
+                    {
+                        "Sku": "999998000128",
+                        "Name": "Pepsi Zero 0 Sugar"
+                    }
+                ],
+                "FlavorSkus2": [
+                    {
+                        "Sku": "888888000006",
+                        "Name": "FW Cherry (CA)"
+                    },
+                    {
+                        "Sku": "012000043222",
+                        "Name": "Flavor Works Cherry"
+                    }
+                ],
+                "UnAllowedFlavors": [],
+                "TopOffDelay": 5,
+                "SkuToValveMappings": [
+                    {
+                        "Sku": "012000630453",
+                        "ValveAssignmentState": {
+                            "$circref": "48206470"
+                        }
+                    },
+                    {
+                        "Sku": "0111",
+                        "ValveAssignmentState": {
+                            "$circref": "14766918"
+                        }
+                    },
+                    {
+                        "Sku": "0333",
+                        "ValveAssignmentState": {
+                            "$circref": "8546266"
+                        }
+                    },
+                    {
+                        "Sku": "012000043222",
+                        "ValveAssignmentState": {
+                            "$circref": "14540735"
+                        }
+                    }
+                ],
+                "AllSkus": [
+                    "0111",
+                    "0333",
+                    "012000630453",
+                    "012000033520",
+                    "999998000128",
+                    "888888000006",
+                    "012000043222"
+                ]
+            },
+            "PathToImage": "assets/beverages/mix-dark-and-wild_logo_brand.png",
+            "BackgroundColor": "#FFC8C8C8",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": "select.button.to.configure"
+        }
+    ],
+    "Ice": null,
+    "Actions": [
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": null,
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": "",
+            "TextColor": "White",
+            "TextSelectedColor": "#ff7272",
+            "ButtonType": {
+                "value__": 5
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 2
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": false,
+            "IsSelected": false,
+            "Label": "Auto Pour",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": null,
+            "PathToImage": "",
+            "BackgroundColor": "#3681C4",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": "auto.pour"
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": null,
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": "",
+            "TextColor": "White",
+            "TextSelectedColor": "#ff7272",
+            "ButtonType": {
+                "value__": 5
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 32
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": false,
+            "IsSelected": false,
+            "Label": "Manual Pour",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": null,
+            "PathToImage": "",
+            "BackgroundColor": "#6D8290",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": "manual.pour"
+        },
+        {
+            "HostViewModel": null,
+            "IsInPopupContext": false,
+            "UnitTypes": {
+                "value__": 415
+            },
+            "UnitLocations": {
+                "value__": 3
+            },
+            "Id": null,
+            "ObjectId": 0,
+            "ValveId": null,
+            "Weighting": 0,
+            "BibItem": null,
+            "PathToBackgroundImage": "",
+            "TextColor": "White",
+            "TextSelectedColor": "#ff7272",
+            "ButtonType": {
+                "value__": 5
+            },
+            "ButtonModelList": [],
+            "ButtonBehavior": {
+                "value__": 2
+            },
+            "RecipeId": null,
+            "ResourceId": null,
+            "IsPlaceHolder": false,
+            "HasImage": false,
+            "IsSelected": false,
+            "Label": "Clear",
+            "IsDisabled": false,
+            "AllowSelectionOnDisabled": false,
+            "FooterIcon": {
+                "value__": 0
+            },
+            "FooterColor": "Gray",
+            "ItemStatus": {
+                "value__": 0
+            },
+            "FooterText": null,
+            "FooterFontColor": "White",
+            "Payload": null,
+            "PathToImage": "",
+            "BackgroundColor": "#E9212F",
+            "RowNumber": 0,
+            "Tag": null,
+            "ActionId": "clear.selections"
+        }
+    ],
+    "Valve": null,
+    "Selectable": null
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "a0d8fb49-8e43-49b5-9d55-647d20c9a4d6",
+  "Name": "Crush Cream Soda",
+  "BeverageId": "crush-cream",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "056000000939",
+      "Name": "Crush Cream"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

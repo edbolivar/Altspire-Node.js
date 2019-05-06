@@ -1,0 +1,94 @@
+{
+  "id": "dole-strawberry-kiwi",
+  "recipeId": "2fb003bb-3663-4ab6-969c-2fcde27fad52",
+  "languageCountryCode": "fr-ca",
+  "name": "Dole Strawberry Kiwi\nFraise et Kiwi",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "vanilla"
+  ],
+  "group": "group-dole",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/dole-strawberry-kiwi_logo.png",
+      "logoBrand": "./assets/beverages/dole-strawberry-kiwi_logo_brand.png",
+      "gradient": "./assets/beverages/dole-strawberry-kiwi_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/dole-strawberry-kiwi_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/dole-strawberry-kiwi_idle.webm",
+      "liquidBackground": "./assets/beverages/dole-strawberry-kiwi_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#fffff200",
+      "animationLight": "#fca89d",
+      "animationDark": "#f04d3f"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f18f86",
+        "#f9ada6"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f5ada7",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ff978b",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff2311",
+      "#ff760b06",
+      "#ff760b06"
+    ]
+  },
+  "Weighting": 1910,
+  "spire6ImageLogo": "./assets/beverages/dole-strawberry-kiwi_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

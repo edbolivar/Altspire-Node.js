@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "fw_strawberry_(ca)",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "4",
+      "Description": "4L BIB",
+      "MixRatio": "5",
+      "Name": "FW Strawberry (CA)",
+      "SKU": "888888000012",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+       "AltName" : "strawberry",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "mix-lemon-berry-twst",
+  "recipeId": "8b29a7ed-6328-4eda-b3a6-3c56af581a18",
+  "languageCountryCode": "fr-ca",
+  "name": "Lemon Berry Twst",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-lemon-berry-twist_logo.png",
+      "logoBrand": "./assets/beverages/mix-lemon-berry-twist_logo_brand.png",
+      "gradient": "./assets/beverages/mix-lemon-berry-twist_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-hail-mary_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-hail-mary_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-lemon-berry-twist_liquid_tower.png\n            "
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffdf3c60",
+      "animationLight": "#f05693",
+      "animationDark": "#971133"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f79898",
+        "#d80e44"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f5afd0",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#df6296",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffdf3c60",
+      "#ffdf3c60"
+    ]
+  },
+  "Weighting": -10,
+  "spire6ImageLogo": "./assets/beverages/mix-lemon-berry-twist_logo_brand.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

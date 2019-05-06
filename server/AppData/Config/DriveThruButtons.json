@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "brands": [],
+  "flavors": [],
+  "waters": [],
+  "topCombinations": [],
+  "actions": [
+    {
+      "actionId": "auto.pour",
+      "label": "Auto Pour",
+      "pathToImage": "",
+      "pathToBackgroundImage": "",
+      "textColor": "White",
+      "textSelectedColor": "#ff7272",
+      "backgroundColor": "#3681C4",
+      "buttonType": "action",
+      "isSelected": false,
+      "behaviors": "Tap"
+    },
+    {
+      "actionId": "manual.pour",
+      "label": "Manual Pour",
+      "pathToImage": "",
+      "pathToBackgroundImage": "",
+      "textColor": "White",
+      "textSelectedColor": "#ff7272",
+      "backgroundColor": "#6D8290",
+      "buttonType": "action",
+      "isSelected": false,
+      "behaviors": "MouseDownUp"
+    },
+    {
+      "actionId": "clear.selections",
+      "label": "Clear",
+      "pathToImage": "",
+      "pathToBackgroundImage": "",
+      "textColor": "White",
+      "textSelectedColor": "#ff7272",
+      "backgroundColor": "#E9212F",
+      "buttonType": "action",
+      "isSelected": false,
+      "behaviors": "Tap"
+    }
+  ]
+}

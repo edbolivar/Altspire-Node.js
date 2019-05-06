@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_bluesun_bridge",
+  "image": "assets/animations/brands/secondary_bluesun_bridge.png",
+  "frameWidth": 165,
+  "frameHeight": 219,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

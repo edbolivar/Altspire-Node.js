@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "8f76e30b-c82f-441b-90d9-1a57b7c903d7",
+  "Name": "Brisk Sweet Tea",
+  "BeverageId": "brisk-sweet-tea-iced-tea",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "041000007262",
+      "Name": "Brisk Sweet Tea"
+    },
+    {
+      "Sku": "041000010026",
+      "Name": "Brisk Sweet Tea"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

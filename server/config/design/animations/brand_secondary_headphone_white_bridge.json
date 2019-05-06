@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_headphone_white_bridge",
+  "image": "assets/animations/brands/secondary_headphone_white_bridge.png",
+  "frameWidth": 187,
+  "frameHeight": 267,
+  "frames": 58,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

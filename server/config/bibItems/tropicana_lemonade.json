@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "tropicana_lemonade",
+  "Weighting": 1320,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "TROP LEMONADE 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Tropicana Lemonade",
+      "SKU": "012000016196",
+      "CaloriesPerOz": "12.905748882625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "TROP LEMONADE 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Tropicana Lemonade",
+      "SKU": "012000016189",
+      "CaloriesPerOz": "12.905748882625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

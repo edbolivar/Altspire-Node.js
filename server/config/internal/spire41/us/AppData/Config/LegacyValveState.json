@@ -1,0 +1,24 @@
+{
+  "LegacyValves": [
+      {
+        "actionId": "legacy_valve_1",
+        "buttonType": "Brand",
+        "backgroundColor": ""
+      },
+    {
+      "actionId": "legacy_valve_2",
+      "buttonType": "Brand",
+      "backgroundColor": ""
+    },
+      {
+        "actionId": "legacy_valve_3",
+        "buttonType" : "Brand",
+        "backgroundColor": ""
+      },
+      {
+        "actionId": "legacy_valve_4",
+        "buttonType" : "Brand",
+        "backgroundColor": ""
+      }
+    ]
+  }

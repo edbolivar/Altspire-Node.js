@@ -1,0 +1,2315 @@
+{
+  "Version": "1.0",
+  "recipes": [
+    {
+      "beverage": {
+        "guid": "45a12d52-541d-4b26-bc02-462031a1c2dc",
+        "name": "Strawberry Fields",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-strawberry-fields"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"7UP Free", 
+          "sku": [
+          "999998000127"
+        ]},
+        {"id":"Strawberry", 
+          "sku": [
+          "012000043239",
+          "888888000012"
+        ]},
+        {"id":"Lime", 
+          "sku": [
+          "012000043253",
+          "888888000014"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "49f8a125-c670-4028-9d67-ab677113ef7f",
+        "name": "Kentucky Cream",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-kentucky-cream"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Pepsi Max", 
+          "sku": [
+          "012000630453",
+          "012000033520",
+          "999998000128"
+        ]},
+        {"id":"Vanilla", 
+          "sku": [
+          "888888000010",
+          "012000043215"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "ce798b18-4d07-4f6e-8f22-5735138ba71a",
+        "name": "Dark & Wild",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-dark-and-wild"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Pepsi Max", 
+          "sku": [
+          "012000630453",
+          "012000033520",
+          "999998000128"
+        ]},
+        {"id":"Cherry", 
+          "sku": [
+          "888888000006",
+          "012000043222"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "77d665d8-d618-4dbb-a0ed-e44b57f88a53",
+        "name": "Citrus Fiesta",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-citrus-fiesta"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Tango Orange", 
+          "sku": [
+          "999998000124"
+        ]},
+        {"id":"Lime", 
+          "sku": [
+          "888888000014",
+          "012000043253"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "e8e28d7e-ecce-4e04-90f7-0fe91c943fdc",
+        "name": "Southern Style",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-southern-style"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Mountain Dew", 
+          "sku": [
+          "012000400094",
+          "012000029325",
+          "012000402500",
+          "012000029318",
+          "069000020265"
+        ]},
+        {"id":"Peach", 
+          "sku": [
+          "012000043260"
+        ]},
+        {"id":"Lemon", 
+          "sku": [
+          "012000043246",
+          "888888000008"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "4309756b-a3e9-4cd7-a9f3-461c920d93f1",
+        "name": "American Summer",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-american-summer"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mist Twst", 
+          "sku": [
+          "012000503894",
+          "012000029295",
+          "012000503887",
+          "012000029301"
+        ]},
+        {"id":"Lemon", 
+          "sku": [
+          "012000043246",
+          "888888000008"
+        ]},
+        {"id":"Strawberry", 
+          "sku": [
+          "012000043239",
+          "888888000012"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "89bed8e8-651f-418a-9105-2551290cc7e5",
+        "name": "Orchard Blush",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-orchard-blush"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Manzanita Sol", 
+          "sku": [
+          "012000030772",
+          "012000023194"
+        ]},
+        {"id":"Vanilla", 
+          "sku": [
+          "888888000010",
+          "012000043215"
+        ]},
+        {"id":"Strawberry", 
+          "sku": [
+          "012000043239",
+          "888888000012"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "bbf13efe-1d1e-47aa-9047-c240331a519c",
+        "name": "Midnight Fog",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-midnight-fog"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Pepsi", 
+          "sku": [
+          "012000400032",
+          "012000029363",
+          "012000402463",
+          "012000029356",
+          "069000003039"
+        ]},
+        {"id":"Raspberry", 
+          "sku": [
+          "012000043277"
+        ]},
+        {"id":"Vanilla", 
+          "sku": [
+          "888888000010",
+          "012000043215"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "80615346-83c4-4c35-a69f-f91736fac417",
+        "name": "Beach Ready",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-beach-ready"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Diet Pepsi", 
+          "sku": [
+          "012000400063",
+          "012000029349",
+          "069000011034",
+          "012000402470",
+          "012000029332"
+        ]},
+        {"id":"Strawberry", 
+          "sku": [
+          "012000043239",
+          "888888000012"
+        ]},
+        {"id":"Lemon", 
+          "sku": [
+          "012000043246",
+          "888888000008"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "8af6af90-426e-48e1-99eb-a4a6a930d96a",
+        "name": "Snazzberry",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-snazzberry"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Mountain Dew", 
+          "sku": [
+          "012000400094",
+          "012000029325",
+          "069000020265",
+          "012000402500",
+          "012000029318"
+        ]},
+        {"id":"Lemon", 
+          "sku": [
+          "012000043246",
+          "888888000008"
+        ]},
+        {"id":"Raspberry", 
+          "sku": [
+          "012000043277"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "a3997d94-215d-41a8-a6fa-723eb91136f4",
+        "name": "Zing Cherry",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-zing-cherry"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Diet Mountain Dew", 
+          "sku": [
+          "012000400629",
+          "012000402517"
+        ]},
+        {"id":"Cherry", 
+          "sku": [
+          "012000043222",
+          "888888000006"
+        ]},
+        {"id":"Lime", 
+          "sku": [
+          "012000043253",
+          "888888000014"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "6202696c-a649-46b4-8134-2028d9687c63",
+        "name": "Shimmy Berry",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-shimmy-berry"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mist Twst", 
+          "sku": [
+          "012000503894",
+          "012000029295",
+          "012000503887",
+          "012000029301"
+        ]},
+        {"id":"Raspberry", 
+          "sku": [
+          "012000043277"
+        ]},
+        {"id":"Peach", 
+          "sku": [
+          "012000043260"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "1ba10e45-05ef-474c-aada-5799fbf2b830",
+        "name": "Darkelberry",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-darkelberry"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mug", 
+          "sku": [
+          "012000400117",
+          "012000404085",
+          "069000041055"
+        ]},
+        {"id":"Cherry", 
+          "sku": [
+          "012000043222",
+          "888888000006"
+        ]},
+        {"id":"Vanilla", 
+          "sku": [
+          "012000043215",
+          "888888000010"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "9288343a-7a4a-480b-9b44-38739ab0c5dc",
+        "name": "Violet Twilight",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-violet-twilight"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Sobe Yumberry Pomegranate", 
+          "sku": [
+          "012000110658"
+        ]},
+        {"id":"Raspberry", 
+          "sku": [
+          "012000043277"
+        ]},
+        {"id":"Cherry", 
+          "sku": [
+          "012000043222",
+          "888888000006"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "b3b1bda9-cbc7-4c88-8ae4-70271cad970e",
+        "name": "Peachy Green",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-peachy-green"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Brisk Green Peach Iced Tea, 0 Calories", 
+          "sku": [
+          "012000027512",
+          "012000027529"
+        ]},
+        {"id":"Peach", 
+          "sku": [
+          "012000043260"
+        ]},
+        {"id":"Strawberry", 
+          "sku": [
+          "888888000012",
+          "012000043239"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "f62250ea-183f-4275-af7a-c57e8bafa082",
+        "name": "Three Layer Berry",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-three-layer-berry"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Mountain Dew", 
+          "sku": [
+          "012000400094",
+          "012000029325",
+          "069000020265",
+          "012000402500",
+          "012000029318"
+        ]},
+        {"id":"Raspberry", 
+          "sku": [
+          "012000043277"
+        ]},
+        {"id":"Strawberry", 
+          "sku": [
+          "012000043239",
+          "888888000012"
+        ]},
+        {"id":"Cherry", 
+          "sku": [
+          "012000043222",
+          "888888000006"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "e380a5ab-9f99-4012-be69-08abc3c90971",
+        "name": "Gala-la-la",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-gala-la-la"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Manzanita Sol", 
+          "sku": [
+          "012000030772",
+          "012000023194"
+        ]},
+        {"id":"Lemon", 
+          "sku": [
+          "012000043246",
+          "888888000008"
+        ]},
+        {"id":"Peach", 
+          "sku": [
+          "012000043260"
+        ]},
+        {"id":"Cherry", 
+          "sku": [
+          "012000043222",
+          "888888000006"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "a115f62f-58e9-4372-908f-8db8089461f7",
+        "name": "Sun Blossom",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-sun-blossom"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Brisk Green Peach Iced Tea, 0 Calories", 
+          "sku": [
+          "012000027512",
+          "012000027529"
+        ]},
+        {"id":"Lemon", 
+          "sku": [
+          "012000043246",
+          "888888000008"
+        ]},
+        {"id":"Peach", 
+          "sku": [
+          "012000043260"
+        ]},
+        {"id":"Cherry", 
+          "sku": [
+          "012000043222",
+          "888888000006"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "9a5289c0-a175-49ab-b1be-72928b18b650",
+        "name": "Ruby Juicy",
+        "status": {
+          "assignedstate": false,
+          "referencename": "mix-ruby-juicy"
+        },
+        "type": "CuratedMix"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Tropicana Lemonade", 
+          "sku": [
+          "012000016196",
+          "012000016189"
+        ]},
+        {"id":"Raspberry", 
+          "sku": [
+          "012000043277"
+        ]},
+        {"id":"Strawberry", 
+          "sku": [
+          "012000043239",
+          "888888000012"
+        ]},
+        {"id":"Cherry", 
+          "sku": [
+          "012000043222",
+          "888888000006"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": {}
+    },
+    {
+      "beverage": {
+        "guid": "5a0e67ed-825b-4c59-9869-7148db66dc81",
+        "name": "Big Red",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Big Red", 
+          "sku": [
+          "850233004258"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "3dd6e261-f6e3-43a9-a494-bb29c8e86841",
+        "name": "Diet Cheerwine",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Diet Cheerwine", 
+          "sku": [
+          "070925000881"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "aa3abf90-a583-442b-94ed-bb4782c47f8b",
+        "name": "Cheerwine",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Cheerwine", 
+          "sku": [
+          "070925000836",
+          "070925000812"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "5cf869af-d91c-4a56-930a-1de427d13055",
+        "name": "Aquafina Flavorsplash (berry loco)",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Aquafina Flavorsplash (berry loco)", 
+          "sku": [
+          "999999000003",
+          "999999000009"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "96e1f1d2-ce1b-47bc-ad3b-9bfcee8de8f9",
+        "name": "Aquafina Flavorsplash (peelin' good)",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Aquafina Flavorsplash (peelin' good)", 
+          "sku": [
+          "999999000004",
+          "999999000010"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "73fd5c76-b87d-4628-addd-6e7b35fe79c8",
+        "name": "Aquafina Sparkling",
+        "status": null,
+        "type": "Water"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "f094e81a-b006-410d-9d38-58246e08e51f",
+        "name": "Water",
+        "status": null,
+        "type": "Water"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "d690b699-a9c9-449e-ac6a-38f5a5b3930e",
+        "name": "Brisk 1/2 & 1/2",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Brisk 1/2 & 1/2", 
+          "sku": [
+          "012000112027",
+          "012000112010"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "e431d94a-699e-44f2-be87-59e52b336b30",
+        "name": "Brisk Green Peach Iced Tea, 0 Calories",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Brisk Green Peach Iced Tea, 0 Calories", 
+          "sku": [
+          "012000027512",
+          "012000027529"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "5f4d8cb2-f9a0-4c7f-a649-e3f5ba5cc8ff",
+        "name": "Brisk Mango",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Brisk Mango", 
+          "sku": [
+          "012000112003",
+          "012000111990"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "ae7592bd-e4fd-4895-af8c-5ba17698bc7b",
+        "name": "Brisk Tea Unsweetened",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Brisk Tea Unsweetened", 
+          "sku": [
+          "041000007231",
+          "041000010002"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "8f76e30b-c82f-441b-90d9-1a57b7c903d7",
+        "name": "Sweet Tea",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Sweet Tea", 
+          "sku": [
+          "041000007262",
+          "041000010026"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "69101a3c-f79c-4aae-bb9d-81209d121c53",
+        "name": "Gatorade Lemon-Lime",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Gatorade Lemon-Lime", 
+          "sku": [
+          "052000330052"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "5be91d4c-3d5e-4f95-bdfb-09e83ab4a196",
+        "name": "Manzanita Sol",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Manzanita Sol", 
+          "sku": [
+          "012000030772",
+          "012000023194"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "ad018d95-3cd2-4883-86bc-a70b7ba383aa",
+        "name": "Diet Mountain Dew",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Diet Mountain Dew", 
+          "sku": [
+          "012000400629",
+          "012000402517"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "1768ee2d-493f-453f-aa82-3492773e7ed5",
+        "name": "Diet Mountain Dew Baja Blast",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Diet Mountain Dew Baja Blast", 
+          "sku": [
+          "012000130007",
+          "012000130014"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "79d8b159-bedd-4794-a2c7-373fafedf940",
+        "name": "Mountain Dew Baja Blast",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Mountain Dew Baja Blast", 
+          "sku": [
+          "012000011306",
+          "012000843143"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "e6e133cb-6315-48c7-a1f0-01d7cdae041e",
+        "name": "Mountain Dew Code Red",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Mountain Dew Code Red", 
+          "sku": [
+          "012000402425",
+          "012000101366"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "b9dfe2c0-0b4b-43da-a1d4-64e13ed9b7d8",
+        "name": "Mountain Dew Sangrita Blast",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Mountain Dew Sangrita Blast", 
+          "sku": [
+          "012000130021",
+          "012000130038"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "67130f75-2518-42d3-a47b-18cb2009d7a6",
+        "name": "Caffeine Free Diet Pepsi",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Caffeine Free Diet Pepsi", 
+          "sku": [
+          "012000400070",
+          "012000402494"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "d406b898-8e4d-4ee7-b04a-bc8a3c5f79ea",
+        "name": "Caffeine Free Pepsi",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Caffeine Free Pepsi", 
+          "sku": [
+          "012000400544",
+          "012000402487"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "eb6bc44b-89f8-4fb8-8530-d2bb3486bcba",
+        "name": "Diet Mist Twst",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Diet Mist Twst", 
+          "sku": [
+          "012000201615",
+          "012000201608"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "fcb44600-acd4-4686-8f28-6612b6def2f1",
+        "name": "Mist Twst",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mist Twst", 
+          "sku": [
+          "012000503894",
+          "012000029295",
+          "012000503887",
+          "012000029301"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "7b0bfe17-f003-4e60-8068-8ce4e332304c",
+        "name": "Sobe Elixir Diet Cranberry Grapefruit Lean",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Sobe Elixir Diet Cranberry Grapefruit Lean", 
+          "sku": [
+          "999999000001",
+          "739510701151"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "b7eb0d79-1e2c-49fa-9a42-d9a998d36511",
+        "name": "Sobe Yumberry Pomegranate",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Sobe Yumberry Pomegranate", 
+          "sku": [
+          "012000110658"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "e46acfbc-77b1-4d46-9023-0eebd387de91",
+        "name": "Tropicana Fruit Punch",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Tropicana Fruit Punch", 
+          "sku": [
+          "012000016226",
+          "012000016219"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "44c77fd9-90c0-4ed8-9b01-f202f0dda336",
+        "name": "Tropicana Lemonade",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Tropicana Lemonade", 
+          "sku": [
+          "012000016196",
+          "012000016189"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "a5b6df91-5837-4d74-ae52-7077e5dcb255",
+        "name": "Tropicana Light Lemonade",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Tropicana Light Lemonade", 
+          "sku": [
+          "012000016103",
+          "012000016127"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "16e3e80b-11c7-4c12-aab1-10cd5292264e",
+        "name": "Tropicana Pink Lemonade",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Tropicana Pink Lemonade", 
+          "sku": [
+          "012000016165",
+          "012000016158"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "f329d9b2-94a2-4c9d-95a0-8e8b8ac00a5c",
+        "name": "Tropicana Twister Orange",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Tropicana Twister Orange", 
+          "sku": [
+          "012000016110",
+          "012000016097"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "3edd71ae-47c4-4349-a5ff-953abd0b74c8",
+        "name": "Diet Mug",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Diet Mug", 
+          "sku": [
+          "012000400674",
+          "999999000005"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "534a5a0f-a35d-47a1-9270-9fd8c233542b",
+        "name": "Brisk Lemon Iced Tea",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Brisk Lemon Iced Tea", 
+          "sku": [
+          "090000000023",
+          "041000007866",
+          "041000010033",
+          "069000015476"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "4eae68f5-92d6-48ee-90ce-486dc1a84878",
+        "name": "Brisk Raspberry Iced Tea",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Brisk Raspberry Iced Tea", 
+          "sku": [
+          "041000010187",
+          "041000010309",
+          "069000147191"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "f7b41789-80b9-41d5-a3c8-64b3a6346a90",
+        "name": "Lemonade",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Lemonade", 
+          "sku": [
+          "041000075018",
+          "999999000007",
+          "069000071021"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+        "name": "Crush Orange",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Crush Orange", 
+          "sku": [
+          "088500901263",
+          "088500902406",
+          "056000000922"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "a0d8fb49-8e43-49b5-9d55-647d20c9a4d6",
+        "name": "Crush Cream Soda",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Crush Cream Soda", 
+          "sku": [
+          "056000000939"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "ee1aded4-5f43-4571-80d0-d6acdc57e857",
+        "name": "Dr Pepper",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Dr Pepper", 
+          "sku": [
+          "054900710545",
+          "054900800017",
+          "054900002039"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "5dd7cc18-afe9-4daf-8f54-c907069a85ad",
+        "name": "Diet Dr Pepper",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Diet Dr Pepper", 
+          "sku": [
+          "054900720476",
+          "054900720513",
+          "054900800291"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "449524ab-0006-47e3-a4b0-c55cff597971",
+        "name": "G2 Fruit Punch",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"G2 Fruit Punch", 
+          "sku": [
+          "055577041024"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "cc615c84-5833-40af-9d94-3ef55de627c7",
+        "name": "Pepsi Next",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Pepsi Next", 
+          "sku": [
+          "999998000119"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "bda4ca4c-f0bf-4d0e-9c34-cc6bdbbf8d41",
+        "name": "Schweppes Ginger Ale",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Schweppes Ginger Ale", 
+          "sku": [
+          "088500901423",
+          "088500901652",
+          "016600010127"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "09611b53-6aab-4f5a-bde4-3c33ce05f122",
+        "name": "7UP",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"7UP", 
+          "sku": [
+          "065400002030",
+          "078000200157",
+          "078000200010"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "6761903e-d5e0-4c12-a7fd-4a84252abab1",
+        "name": "Mug Root Beer",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mug Root Beer", 
+          "sku": [
+          "012000400117",
+          "012000404085",
+          "069000041055"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "bc331e6e-6315-48c7-a1f0-e140eadc7d10",
+        "name": "Mountain Dew",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0444"
+        ]},
+        {"id":"Mountain Dew", 
+          "sku": [
+          "012000400094",
+          "012000029325",
+          "012000402500",
+          "012000029318",
+          "069000020265"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "7bf7f2ce-bb76-4c7a-a2ea-abae59354b1c",
+        "name": "Pepsi",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Pepsi", 
+          "sku": [
+          "012000400032",
+          "012000029363",
+          "012000402463",
+          "012000029356",
+          "069000003039"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "24d3fc13-5739-4388-a7cb-d6842c3e5efc",
+        "name": "Diet Pepsi",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Diet Pepsi", 
+          "sku": [
+          "012000400063",
+          "012000029349",
+          "012000402470",
+          "012000029332",
+          "069000011034"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "2fb003bb-3663-4ab6-969c-2fcde27fad52",
+        "name": "Dole Strawberry Kiwi",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Dole Strawberry Kiwi", 
+          "sku": [
+          "065912006502"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "69bd03e0-a656-4c02-b741-b94cb0bdd1b5",
+        "name": "Crush Grape",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Crush Grape", 
+          "sku": [
+          "999999000002",
+          "999999000008",
+          "056000000946"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "431b9e25-fbd5-4232-ba13-b9b86e938409",
+        "name": "Pepsi Real Sugar",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Pepsi Real Sugar", 
+          "sku": [
+          "069000148730"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "9a04d078-30b4-4be1-8801-294a85a90182",
+        "name": "Pepsi Wild Cherry",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Pepsi Wild Cherry", 
+          "sku": [
+          "012000400186",
+		  "012000608902"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "cd143085-7793-49d2-b275-fd1b241128ed",
+        "name": "Diet Wild Cherry Pepsi",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Diet Wild Cherry Pepsi", 
+          "sku": [
+          "012000503832"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "7b2d030a-7b43-40a6-b552-fe9b6896faa0",
+        "name": "Izze Blackberry",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Izze Blackberry", 
+          "sku": [
+          "999998000116"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "40e5f770-c44a-40f9-915d-5035b34a4bbb",
+        "name": "Izze Pomegranate",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Izze Pomegranate", 
+          "sku": [
+          "999998000115"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "646ca2ff-8f0b-4564-97e3-925ce66c0d52",
+        "name": "Izze Clementine",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Izze Clementine", 
+          "sku": [
+          "999998000117"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "432d388d-dbea-4311-bbaa-275dad1d8825",
+        "name": "Izze Grapefruit",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Izze Grapefruit", 
+          "sku": [
+          "999998000118"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "5a27a266-1c57-40d7-8a8a-ff0b0704157b",
+        "name": "7UP Free",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"7UP Free", 
+          "sku": [
+          "999998000127"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "942f5e31-cfbf-4442-9917-db546f494eee",
+        "name": "7UP Mojito",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"7UP Mojito", 
+          "sku": [
+          "999998000120"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "64e8228e-220d-4fa6-a127-002383e39867",
+        "name": "Lipton Peach",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Lipton Peach", 
+          "sku": [
+          "999998000121"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "34e9bd3c-be98-44cd-a8df-d92d4bff25e2",
+        "name": "Lipton Lemon",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Lipton Lemon", 
+          "sku": [
+          "999998000122"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "62f3891f-7fec-4b3e-9879-025ea139fd1f",
+        "name": "Fruit Shoot",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Fruit Shoot", 
+          "sku": [
+          "999998000125"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "2cc62b41-650f-4439-ad79-e7d8444c21b3",
+        "name": "Tango Apple",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Tango Apple", 
+          "sku": [
+          "999998000123"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "ae6dedac-5466-4e3d-a0fd-6c4da08ea4a0",
+        "name": "Tango Orange",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Tango Orange", 
+          "sku": [
+          "999998000124"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+        "name": "Pepsi Max",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Pepsi Max", 
+          "sku": [
+          "012000630453",
+          "012000033520",
+          "999998000128"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+	{
+      "beverage": {
+        "guid": "15ac0322-043c-4fa3-b50d-4ad1e58f90bd",
+        "name": "Sobe V Water Blueberry Pomegranate",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Sobe V Water Blueberry Pomegranate", 
+          "sku": [
+          "999998000126"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "60be9d17-4ac1-46de-a1b9-a804bb40af3e",
+        "name": "Robinson's Summer Fruit",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Robinson's Summer Fruit", 
+          "sku": [
+          "999998000133"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "6b537627-d7c6-4925-bfc7-c02928eca05e",
+        "name": "Mountain Dew Kickstart Orange",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mountain Dew Kickstart Orange", 
+          "sku": [
+          "012000111983"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "a8e785d7-e7e3-4666-a48e-a75b88dc0fce",
+        "name": "Mountain Dew Kickstart Black Cherry",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mountain Dew Kickstart Black Cherry", 
+          "sku": [
+          "012000150913"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "9e270d6d-e9d7-44a5-9f5c-4f0366795c4c",
+        "name": "Mountain Dew Kickstart Fruit Punch",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mountain Dew Kickstart Fruit Punch", 
+          "sku": [
+          "012000150920"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "402e4695-b4c1-4e0b-8ed5-e18934cce870",
+        "name": "Mirinda Strawberry",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mirinda Strawberry", 
+          "sku": [
+          "012000404368",
+          "012000400230"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "f82e6b60-5644-4114-81cb-2cf1acfcbf50",
+        "name": "Mirinda Orange",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mirinda Orange", 
+          "sku": [
+          "999998000146"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "dfa038bb-af62-4d2a-b171-000c7bb03068",
+        "name": "Culvers Root Beer",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Culvers Root Beer", 
+          "sku": [
+          "088500903199"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+     {
+      "beverage": {
+        "guid": "457fce55-d6af-45f1-87a2-3558db10d6d6",
+        "name": "Diet Culvers Root Beer",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Diet Culvers Root Beer", 
+          "sku": [
+          "088500001109"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "9c5622f9-cac7-49d4-923d-47fc4d753693",
+        "name": "Crush Strawberry",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Crush Strawberry", 
+          "sku": [
+          "088500902079",
+          "056000004593"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "abc1c09f-5178-4371-b897-3d2636e53c84",
+        "name": "Mountain Dew Pitch Black",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0111",
+          "0333"
+        ]},
+        {"id":"Mountain Dew Pitch Black", 
+          "sku": [
+          "012000152559"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    },
+    {
+      "beverage": {
+        "guid": "dd6a348b-6982-4a0b-80b5-e81b44495c18",
+        "name": "Sobe Elixir Citrus Energy",
+        "status": null,
+        "type": "Regular"
+      },
+      "required_ingredients": [
+          {"id":        "Water", 
+          "sku": [
+          "0222",
+          "0444"
+        ]},
+        {"id":"Sobe Elixir Citrus Energy", 
+          "sku": [
+          "739510701069"
+        ]
+      }
+      ],
+      "unallowed_flavor_ingredients": null
+    }
+  ]
+}

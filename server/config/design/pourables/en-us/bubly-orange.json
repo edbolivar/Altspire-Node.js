@@ -1,0 +1,90 @@
+{
+  "id": "bubly-orange",
+  "recipeId": "1a671db5-3ccb-4ff9-9b74-2f6d98cdc407",
+  "languageCountryCode": "en-us",
+  "name": "Bubly Orange",
+  "flavors": [],
+  "group": "group-bubbly",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/bubly-orange_logo.png",
+      "logoBrand": "./assets/beverages/bubly-orange_logo_brand.png",
+      "gradient": "./assets/beverages/bubly-orange_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/bubly-orange_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/bubly-orange_loop.webm",
+      "liquidBackground": "./assets/beverages/bubly-orange_background.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffbc4f00",
+      "animationLight": "#ff6b00",
+      "animationDark": "#b94e00"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff6b00",
+        "#b94e00"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ff6b00",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#b94e00",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffbc4f00",
+      "#ffbc4f00",
+      "#ffbc4f00"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/bubly-orange_logo.png",
+  "spire6BackgroundColor": "#ff6b00",
+  "CalorieCups": []
+}

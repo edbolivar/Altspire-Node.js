@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_sweet_bridge",
+  "image": "assets/animations/brands/secondary_sweet_bridge.png",
+  "frameWidth": 205,
+  "frameHeight": 206,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

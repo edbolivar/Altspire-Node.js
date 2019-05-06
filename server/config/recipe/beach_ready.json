@@ -1,0 +1,59 @@
+{
+  "Revision": 1,
+  "Id": "80615346-83c4-4c35-a69f-f91736fac417",
+  "Name": "Beach Ready",
+  "BeverageId": "mix-beach-ready",
+  "Type": "Mix",
+  "BrandId": "pepsi-diet" ,
+  "FlavorIds":[
+    "strawberry",
+    "lemon"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400063",
+      "Name": "Diet Pepsi"
+    },
+    {
+      "Sku": "012000029349",
+      "Name": "Diet Pepsi"
+    },
+    {
+      "Sku": "069000011034",
+      "Name": "Diet Pepsi"
+    },
+    {
+      "Sku": "012000402470",
+      "Name": "Diet Pepsi"
+    },
+    {
+      "Sku": "012000029332",
+      "Name": "Diet Pepsi"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043239",
+      "Name": "Flavor Works Strawberry"
+    },
+    {
+      "Sku": "888888000012",
+      "Name": "FW Strawberry (CA)"
+    },
+    {
+      "Sku": "012000043246",
+      "Name": "Flavor Works Lemon"
+    },
+    {
+      "Sku": "888888000008",
+      "Name": "FW Lemon (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

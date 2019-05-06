@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "e6e133cb-6315-48c7-a1f0-01d7cdae041e",
+  "Name": "Mountain Dew Code Red",
+  "BeverageId": "mountain-dew-code-red",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000402425",
+      "Name": "Mountain Dew Code Red"
+    },
+    {
+      "Sku": "012000101366",
+      "Name": "Mountain Dew Code Red"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "64e8228e-220d-4fa6-a127-002383e39867",
+  "Name": "Lipton Peach",
+  "BeverageId": "lipton-peach",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000121",
+      "Name": "Lipton Peach"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

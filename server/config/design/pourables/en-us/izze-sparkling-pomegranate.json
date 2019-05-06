@@ -1,0 +1,99 @@
+{
+  "id": "izze-sparkling-pomegranate",
+  "recipeId": "40e5f770-c44a-40f9-915d-5035b34a4bbb",
+  "languageCountryCode": "en-us",
+  "name": "Izze Sparkling Pomegranate",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-izze",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/izze-sparkling-pomegranate_logo.png",
+      "logoBrand": "./assets/beverages/izze-sparkling-pomegranate_logo.png",
+      "gradient": "./assets/beverages/izze-sparkling-pomegranate_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/izze-sparkling-pomegranate_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/izze-sparkling-pomegranate_idle.webm",
+      "liquidBackground": "./assets/beverages/izze-sparkling-pomegranate_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffa83a1",
+      "animationLight": "#ff4b79",
+      "animationDark": "#b51c4b"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fa88a1",
+        "#d91d56"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fbdfe8",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#e62b67",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_pomegranate_tower",
+      "offsetX": 0.0,
+      "offsetY": -30.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_pomegranate_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_pomegranate_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_pomegranate_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffff8383",
+      "#ffbe4040",
+      "#ffbe4040"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/izze-sparkling-pomegranate_logo.png",
+  "spire6BackgroundColor": "#f4b4cb",
+  "CalorieCups": []
+}

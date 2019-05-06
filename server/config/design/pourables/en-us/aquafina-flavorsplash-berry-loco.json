@@ -1,0 +1,99 @@
+{
+  "id": "aquafina-flavorsplash-berry-loco",
+  "recipeId": "5cf869af-d91c-4a56-930a-1de427d13055",
+  "languageCountryCode": "en-us",
+  "name": "Aquafina Flavorsplash (berry loco)",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-aquafina",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/aquafina-flavorsplash-berry-loco_logo.png",
+      "logoBrand": "./assets/beverages/aquafina-flavorsplash-berry-loco_logo_brand.png",
+      "gradient": "./assets/beverages/aquafina-flavorsplash-berry-loco_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/aquafina-flavorsplash-berry-loco_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/aquafina-flavorsplash-berry-loco_idle.webm",
+      "liquidBackground": "./assets/beverages/aquafina-flavorsplash-berry-loco_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffd8c99",
+      "animationLight": "#faa5a1",
+      "animationDark": "#d1001e"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff938d",
+        "#eb0000"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f89b96",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#df0030",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_berry_tower",
+      "offsetX": 0.0,
+      "offsetY": 50.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_berry_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_berry_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.45,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_berry_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.45,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#fffd8c78",
+      "#fffd5f54",
+      "#fffd5f54"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/aquafina-flavorsplash-berry-loco_logo.png",
+  "spire6BackgroundColor": "#fe8c8b",
+  "CalorieCups": []
+}

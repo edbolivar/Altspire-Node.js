@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_bike",
+  "image": "assets/animations/brands/secondary_bike.png",
+  "frameWidth": 180,
+  "frameHeight": 217,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

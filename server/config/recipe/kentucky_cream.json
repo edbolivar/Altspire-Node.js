@@ -1,0 +1,42 @@
+{
+  "Revision": 1,
+  "Id": "49f8a125-c670-4028-9d67-ab677113ef7f",
+  "Name": "Kentucky Cream",
+  "BeverageId": "mix-kentucky-cream",
+  "Type": "Mix",
+  "BrandId": "pepsi-zero" ,
+  "FlavorIds":[
+    "vanilla"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000630453",
+      "Name": "Pepsi Zero 0 Sugar"
+    },
+    {
+      "Sku": "012000033520",
+      "Name": "Pepsi Zero 0 Sugar"
+    },
+    {
+      "Sku": "999998000128",
+      "Name": "Pepsi Zero 0 Sugar"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "888888000010",
+      "Name": "FW Vanilla (CA)"
+    },
+    {
+      "Sku": "012000043215",
+      "Name": "Flavor Works Vanilla"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

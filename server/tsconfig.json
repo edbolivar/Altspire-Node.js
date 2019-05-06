@@ -1,0 +1,53 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "types": [
+            "inversify",
+            "inversify-express-utils",
+            "mocha",
+            "reflect-metadata"
+        ],
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "moduleResolution": "node"
+    },
+    "compileOnSave": false,
+    "filesGlob": [
+        "Basic/**/*.ts",
+        "BindingDecorators/**/*.ts",
+        "MongoDB/**/*.ts"
+    ],
+    "files": [
+      "src/index.ts",
+      "src/constant/tags.ts",
+      "src/constant/types.ts",
+      "src/controller/home-controller.ts",
+      "src/controller/auth-controller.ts",
+      "src/services/auth-zero-service.ts",
+      "src/test/controller/home.spec.ts",
+      "src/test/controller/user.spec.ts",
+      "src/test/service/user.spec.ts",
+      "BindingDecorators/bootstrap.ts",
+      "BindingDecorators/constant/tags.ts",
+      "BindingDecorators/constant/types.ts",
+      "BindingDecorators/controller/home.ts",
+      "BindingDecorators/controller/user.ts",
+      "BindingDecorators/ioc/ioc.ts",
+      "BindingDecorators/ioc/loader.ts",
+      "BindingDecorators/models/user.ts",
+      "BindingDecorators/service/user.ts",
+      "BindingDecorators/test/controller/home.spec.ts",
+      "BindingDecorators/test/controller/user.spec.ts",
+      "node_modules/@types/express-serve-static-core/node_modules/@types/node/index.d.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}

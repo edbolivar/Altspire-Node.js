@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "Settings": [
+    {
+      "Key": "ValveController_Virtualized",
+      "ValueAsString": "true",
+      "Description": "Valve Controller is Virtualized",
+      "SettingSource": "User"
+    },
+    {
+      "Key": "InvisibleMouseCursor",
+      "Description": "Mouse cursor is not shown in app",
+      "ValueAsString": "false",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+
+    {
+      "Key": "EnableZeroOffSetForItemsControlPlacement",
+      "Description": "If set to true it sets the items placement using zero offset instead of actual width.",
+      "valueAsString": "true",
+      "SettingSource": "Application"
+    },
+
+
+    {
+      "Key": "logviewer.DTMode",
+      "Description": "If true, log viewer sessions are organized by VNext logs instead of KF logs.",
+      "ValueAsString": "True",
+      "DefaultValueAsString": "False",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "RCMExecuteOnStartup",
+      "Description": "does app start RCM on startup",
+      "ValueAsString": "false",
+      "SettingSource": "Application"
+    },
+     {
+      "Key": "TouchController_Virtualized",
+      "Description": null,
+      "ValueAsString": "True",
+      "DefaultValueAsString": null,
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "UseApacheForConsumerUIImages",
+      "Description": "will change image urls to be a http reference",
+      "ValueAsString": "true",
+      "SettingSource": "Application"
+
+    },
+
+     {
+      "Key": "XXXXXXXUrlForConsumerUIProduction",
+      "Description": "URL for Consumerui Prod",
+      "ValueAsString": "http://localhost:4200",
+      "SettingSource": "Application"
+    }, 
+    {
+      "Key": "IsWebAppDevMode",
+      "Description": "keeps spire visible for switching to visual studio, developer uses chrome",
+      "ValueAsString": "false",
+      "SettingSource": "Application"
+    },
+  ]
+}
+

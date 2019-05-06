@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "d690b699-a9c9-449e-ac6a-38f5a5b3930e",
+  "Name": "Brisk 1/2 & 1/2",
+  "BeverageId": "brisk-half-and-half",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000112027",
+      "Name": "Brisk 1/2 & 1/2"
+    },
+    {
+      "Sku": "012000112010",
+      "Name": "Brisk 1/2 & 1/2"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "brisk_lemon_iced_tea",
+  "Weighting": 1490,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "BSK LMN ICED TEA 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Lemon Iced Tea",
+      "SKU": "041000007866",
+      "CaloriesPerOz": "6.846451639125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "BSK LMN ICED TEA 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Lemon Iced Tea",
+      "SKU": "041000010033",
+      "CaloriesPerOz": "6.846451639125",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "12",
+      "Description": "CDN BRSK TEA SWL 12L BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Lemon Iced Tea",
+      "SKU": "069000015476",
+      "CaloriesPerOz": "6.846451639125",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

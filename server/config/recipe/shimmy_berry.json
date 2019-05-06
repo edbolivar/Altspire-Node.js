@@ -1,0 +1,47 @@
+{
+  "Revision": 1,
+  "Id": "6202696c-a649-46b4-8134-2028d9687c63",
+  "Name": "Shimmy Berry",
+  "BeverageId": "mix-shimmy-berry",
+  "Type": "Mix",
+  "BrandId": "sierra-mist" ,
+  "FlavorIds":[
+    "raspberry",
+    "peach"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000503894",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000029295",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000503887",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000029301",
+      "Name": "Sierra Mist"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043277",
+      "Name": "Flavor Works Raspberry"
+    },
+    {
+      "Sku": "012000043260",
+      "Name": "Flavor Works Peach"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

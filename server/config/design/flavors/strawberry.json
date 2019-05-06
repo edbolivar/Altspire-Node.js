@@ -1,0 +1,29 @@
+{
+	"id": "strawberry",
+	"resourceId": "strawberry_id",
+	"name": "Flavor Works Strawberry",
+	"design": {
+		"textColor": "0xea1619",
+		"textSelectedColor": "0xfa7272",
+		"alphaDisabled": 0.3,
+		"backgroundColor": "0xf82929"
+	},
+	"select": {
+		"asset": "assets/animations/flavors/strawberry_select.png",
+		"width": 226,
+		"height": 226,
+		"frames": 28,
+		"fps": 30,
+		"scale": 1
+	},
+	"spin": {
+		"asset": "assets/animations/flavors/strawberry_spin.png",
+		"width": 226,
+		"height": 226,
+		"frames": 64,
+		"fps": 30,
+		"scale": 1
+	},
+	"Spire6ImageLogo": "./assets/beverages/strawberry.png",
+	"Spire6BackgroundColor":"#f82929"
+}

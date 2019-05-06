@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "9288343a-7a4a-480b-9b44-38739ab0c5dc",
+  "Name": "Violet Twilight",
+  "BeverageId": "mix-violet-twilight",
+  "Type": "Mix",
+  "BrandId": "sobe-yumberry-pomegranate" ,
+  "FlavorIds":[
+    "raspberry",
+    "cherry"
+  ],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000110658",
+      "Name": "Sobe Yumberry Pomegranate"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043277",
+      "Name": "Flavor Works Raspberry"
+    },
+    {
+      "Sku": "012000043222",
+      "Name": "Flavor Works Cherry"
+    },
+    {
+      "Sku": "888888000006",
+      "Name": "FW Cherry (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,99 @@
+{
+  "id": "kickstart-black-cherry",
+  "recipeId": "a8e785d7-e7e3-4666-a48e-a75b88dc0fce",
+  "languageCountryCode": "en-us",
+  "name": "Kickstart Black Cherry",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/kickstart-black-cherry_logo.png",
+      "logoBrand": "./assets/beverages/kickstart-black-cherry_logo_brand.png",
+      "gradient": "./assets/beverages/kickstart-black-cherry_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/kickstart-black-cherry_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/kickstart-black-cherry_idle.webm",
+      "liquidBackground": "./assets/beverages/kickstart-black-cherry_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fff13880",
+      "animationLight": "#f13880",
+      "animationDark": "#8d1345"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffbf26",
+        "#fe8b29"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ec6766",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#7f031e",
+        "opacityMin": 0.2,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_speakers_black_cherry_tower",
+      "offsetX": 0.0,
+      "offsetY": -70.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_speakers_black_cherry_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_headphone_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_headphone_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.4,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff8e1345",
+      "#ffc80909",
+      "#ffc80909"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/kickstart-black-cherry_logo.png",
+  "spire6BackgroundColor": "#8c1345",
+  "CalorieCups": []
+}

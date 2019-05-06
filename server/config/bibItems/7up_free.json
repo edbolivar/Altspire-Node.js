@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "7up_free",
+  "Weighting": 1840,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "7up free 12L BIB",
+      "MixRatio": "5",
+      "Name": "7UP Free",
+      "SKU": "999998000127",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

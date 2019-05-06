@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "robinson's_summer_fruit",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "20",
+      "Description": "ROBINSONS SUMMER FRUIT 20LITER BIB",
+      "MixRatio": "5",
+      "Name": "Robinson's Summer Fruit",
+      "SKU": "999998000133",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

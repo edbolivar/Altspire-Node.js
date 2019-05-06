@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_tunnel_tower",
+  "image": "assets/animations/brands/secondary_tunnel_tower.png",
+  "frameWidth": 243,
+  "frameHeight": 278,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

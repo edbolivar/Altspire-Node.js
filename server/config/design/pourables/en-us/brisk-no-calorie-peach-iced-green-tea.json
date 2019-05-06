@@ -1,0 +1,103 @@
+{
+  "id": "brisk-no-calorie-peach-iced-green-tea",
+  "recipeId": "e431d94a-699e-44f2-be87-59e52b336b30",
+  "languageCountryCode": "en-us",
+  "name": "Brisk No Calorie Peach Iced Green Tea",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry"
+  ],
+  "group": "group-brisk",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/brisk-no-calorie-peach-iced-green-tea_logo.png",
+      "logoBrand": "./assets/beverages/brisk-no-calorie-peach-iced-green-tea_logo.png",
+      "gradient": "./assets/beverages/brisk-no-calorie-peach-iced-green-tea_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/brisk-no-calorie-peach-iced-green-tea_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/brisk-no-calorie-peach-iced-green-tea_idle.webm",
+      "liquidBackground": "./assets/beverages/brisk-no-calorie-peach-iced-green-tea_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffffc8a0",
+      "animationLight": "#ffd7bd",
+      "animationDark": "#f9a86f"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffd6c0",
+        "#f2ad82"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#7768ee",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#cac8e1",
+        "opacityMin": 0.6,
+        "opacityMax": 0.8,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#34b234",
+        "opacityMin": 0.15,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_circles",
+      "offsetX": 0.0,
+      "offsetY": 20.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_circles",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.5,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_circles_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_circles_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.5,
+      "scale": 0.75
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff3938b0",
+      "#ff452a74",
+      "#ff452a74"
+    ]
+  },
+  "Weighting": 1550,
+  "spire6ImageLogo": "./assets/beverages/brisk-no-calorie-peach-iced-green-tea_logo.png",
+  "spire6BackgroundColor": "#fccaa5",
+  "CalorieCups": []
+}

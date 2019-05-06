@@ -1,0 +1,86 @@
+{
+  "id": "mix-dark-and-wild",
+  "recipeId": "ce798b18-4d07-4f6e-8f22-5735138ba71a",
+  "languageCountryCode": "fr-ca",
+  "name": "Dark And Wild",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-dark-and-wild_logo.png",
+      "logoBrand": "./assets/beverages/mix-dark-and-wild_logo_brand.png",
+      "gradient": "./assets/beverages/mix-dark-and-wild_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/pepsi_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/pepsi_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-dark-and-wild_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffff8c91",
+      "animationLight": "#ea0742",
+      "animationDark": "#8a1635"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ea0742",
+        "#8a1635"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffe1e5",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#eeb9c2",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": []
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-dark-and-wild_logo_brand.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

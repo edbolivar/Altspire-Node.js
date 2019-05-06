@@ -1,0 +1,35 @@
+{
+  "Revision": 1,
+  "Id": "fcb44600-acd4-4686-8f28-6612b6def2f1",
+  "Name": "Sierra Mist",
+  "BeverageId": "sierra-mist",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000503894",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000029295",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000503887",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000029301",
+      "Name": "Sierra Mist"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

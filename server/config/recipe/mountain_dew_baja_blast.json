@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "79d8b159-bedd-4794-a2c7-373fafedf940",
+  "Name": "Mountain Dew Baja Blast",
+  "BeverageId": "mountain-dew-baja-blast",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000011306",
+      "Name": "Mountain Dew Baja Blast"
+    },
+    {
+      "Sku": "012000843143",
+      "Name": "Mountain Dew Baja Blast"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

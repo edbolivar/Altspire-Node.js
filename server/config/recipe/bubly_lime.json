@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "c10ab86c-21ea-4d06-b28e-ad8b19778c41",
+  "Name": "Bubly Lime",
+  "BeverageId": "bubly-lime",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000180163",
+      "Name": "Bubly Lime"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_flag_bridge",
+  "image": "assets/animations/brands/secondary_flag_bridge.png",
+  "frameWidth": 309,
+  "frameHeight": 250,
+  "frames": 60,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

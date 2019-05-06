@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "flavor_works_vanilla",
+  "Weighting": 700,
+  "bibItems": [
+    {
+      "Bibsize": "1",
+      "Description": "1 Gal BIB",
+      "MixRatio": "5",
+      "Name": "Flavor Works Vanilla",
+      "SKU": "012000043215",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+      "AltName" : "vanilla",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

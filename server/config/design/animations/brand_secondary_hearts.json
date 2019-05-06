@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_hearts",
+  "image": "assets/animations/brands/secondary_hearts.png",
+  "frameWidth": 237,
+  "frameHeight": 221,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.5,
+  "format": "bgra"
+}

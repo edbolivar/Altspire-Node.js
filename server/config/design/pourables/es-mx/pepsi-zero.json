@@ -1,0 +1,99 @@
+{
+  "id": "pepsi-zero",
+  "recipeId": "24db46b5-d0f6-4782-9734-03d031fd90c5",
+  "languageCountryCode": "es-mx",
+  "name": "Pepsi Zero 0 Sugar",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-pepsi",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/pepsi-zero_logo.png",
+      "logoBrand": "./assets/beverages/pepsi-zero_logo_brand.png",
+      "gradient": "./assets/beverages/pepsi-max_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/pepsi_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/pepsi_idle.webm",
+      "liquidBackground": "./assets/beverages/pepsi-max_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffbbb6b6",
+      "animationLight": "#c2c2c2",
+      "animationDark": "#525254"
+    },
+    "particlesHome": {
+      "colors": [
+        "#c2c2c2",
+        "#4d4d4d"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#c2c2c2",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#4d4d4d",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_flag_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_flag_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_flag_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_flag_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffbbb6b6",
+      "#ff1e1611",
+      "#ff1e1611"
+    ]
+  },
+  "Weighting": 1060,
+  "spire6ImageLogo": "./assets/beverages/pepsi-zero_logo.png",
+  "spire6BackgroundColor": "#121e35",
+  "CalorieCups": []
+}

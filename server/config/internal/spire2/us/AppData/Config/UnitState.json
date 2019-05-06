@@ -1,0 +1,14 @@
+{
+  "CountryLanguageCode": "en-us",
+  "UnitLocation": "US",
+  "UICustomizationState": {
+    "OverrideName": "Default",
+    "AttractLoopName": "SubUs"
+  },
+  "UnitType": "Spire2",
+  "PourMode": "OptifillPour",
+  "ClearSelectionsDelay": 5000,
+  "DeviceId": "",
+  "PrimaryConsumerLanguage": "en-us",
+  "SecondaryConsumerLanguage": "fr-ca"
+}

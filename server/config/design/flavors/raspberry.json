@@ -1,0 +1,29 @@
+{
+	"id": "raspberry",
+	"resourceId": "raspberry_id",
+	"name": "Flavor Works Raspberry",
+	"design": {
+		"textColor": "0xe43f72",
+		"textSelectedColor": "0xf64379",
+		"alphaDisabled": 0.3,
+		"backgroundColor": "0xcb296f"
+	},
+	"select": {
+		"asset": "assets/animations/flavors/raspberry_select.png",
+		"width": 226,
+		"height": 226,
+		"frames": 32,
+		"fps": 30,
+		"scale": 1
+	},
+	"spin": {
+		"asset": "assets/animations/flavors/raspberry_spin.png",
+		"width": 226,
+		"height": 226,
+		"frames": 60,
+		"fps": 30,
+		"scale": 1
+	},
+	"Spire6ImageLogo": "./assets/beverages/raspberry.png",
+	"Spire6BackgroundColor":"#cb296f"
+}

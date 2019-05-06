@@ -1,0 +1,52 @@
+{
+  "Revision": 1,
+  "Id": "a115f62f-58e9-4372-908f-8db8089461f7",
+  "Name": "Sun Blossom",
+  "BeverageId": "mix-sun-blossom",
+  "Type": "Mix",
+  "BrandId": "brisk-no-calorie-peach-iced-green-tea" ,
+  "FlavorIds":[
+    "lemon",
+    "peach",
+    "cherry"
+  ],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000027512",
+      "Name": "Brisk Green Peached Tea 0 cal"
+    },
+    {
+      "Sku": "012000027529",
+      "Name": "Brisk Green Peached Tea 0 cal"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043246",
+      "Name": "Flavor Works Lemon"
+    },
+    {
+      "Sku": "888888000008",
+      "Name": "FW Lemon (CA)"
+    },
+    {
+      "Sku": "012000043260",
+      "Name": "Flavor Works Peach"
+    },
+    {
+      "Sku": "012000043222",
+      "Name": "Flavor Works Cherry"
+    },
+    {
+      "Sku": "888888000006",
+      "Name": "FW Cherry (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,11 @@
+
+{
+	"id": "bubbles",
+	"image": "assets/animations/menu/bubbles.png",
+	"frameWidth": 186,
+	"frameHeight": 186,
+	"frames": 110,
+	"fps": 20,
+	"scale": 1,
+	"autoPlay": true
+}

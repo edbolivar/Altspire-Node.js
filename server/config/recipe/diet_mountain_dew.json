@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "ad018d95-3cd2-4883-86bc-a70b7ba383aa",
+  "Name": "Diet Mountain Dew",
+  "BeverageId": "mountain-dew-diet",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400629",
+      "Name": "Diet Mountain Dew"
+    },
+    {
+      "Sku": "012000402517",
+      "Name": "Diet Mountain Dew"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

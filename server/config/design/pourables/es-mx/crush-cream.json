@@ -1,0 +1,94 @@
+{
+  "id": "crush-cream",
+  "recipeId": "a0d8fb49-8e43-49b5-9d55-647d20c9a4d6",
+  "languageCountryCode": "es-mx",
+  "name": "Crush Cream",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "vanilla"
+  ],
+  "group": "group-crush",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/crush-cream_logo.png",
+      "logoBrand": "./assets/beverages/crush-cream_logo.png",
+      "gradient": "./assets/beverages/crush-cream_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/crush-cream_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/crush-cream_idle.webm",
+      "liquidBackground": "./assets/beverages/crush-cream_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fff69017",
+      "animationLight": "#ef549f",
+      "animationDark": "#cf1948"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fce3ef",
+        "#e9f9fc"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffd3e9",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f5a7cd",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffd9495b",
+      "#ffab2233",
+      "#ffab2233"
+    ]
+  },
+  "Weighting": 1760,
+  "spire6ImageLogo": "./assets/beverages/crush-cream_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

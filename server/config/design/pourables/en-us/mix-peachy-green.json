@@ -1,0 +1,88 @@
+{
+  "id": "mix-peachy-green",
+  "recipeId": "b3b1bda9-cbc7-4c88-8ae4-70271cad970e",
+  "languageCountryCode": "en-us",
+  "name": "Peachy Green",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-peachy-green_logo.png",
+      "logoBrand": "./assets/beverages/mix-peachy-green_logo_brand.png",
+      "gradient": "./assets/beverages/mix-peachy-green_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-peachy-green_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-peachy-green_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-peachy-green_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#fffd551b",
+      "animationLight": "#ffc376",
+      "animationDark": "#f57230"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fdbd75",
+        "#e75411"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffedf2",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f7a7a7",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffffff"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-peachy-green_logo_brand.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

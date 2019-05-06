@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_lights_green_tower",
+  "image": "assets/animations/brands/secondary_lights_green_tower.png",
+  "frameWidth": 238,
+  "frameHeight": 309,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.33,
+  "format": "bgra"
+}

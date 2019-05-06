@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "449524ab-0006-47e3-a4b0-c55cff597971",
+  "Name": "G2 Fruit Punch",
+  "BeverageId": "g2-fruit-punch",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "055577041024",
+      "Name": "G2 Fruit Punch"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

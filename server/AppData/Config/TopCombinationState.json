@@ -1,0 +1,52 @@
+{
+  "topCombinations": [
+      {
+        "id": "top_combination_1",
+        "weighting": 10,
+        "label": "",
+        "recipeId": "",
+        "pathToImage": "",
+        "pathToBackgroundImage": null,
+        "buttonType": "topCombination",
+        "backgroundColor": "",
+        "TextColor": null,
+        "TextColorSelected": null
+      },
+      {
+        "id": "top_combination_2",
+        "weighting": 10,
+        "label": "",
+        "recipeId": "",
+        "pathToImage": "",
+        "pathToBackgroundImage": null,
+        "buttonType": "topCombination",
+        "backgroundColor": "",
+        "TextColor": null,
+        "TextColorSelected": null
+      },
+      {
+        "id": "top_combination_3",
+        "weighting": 10,
+        "label": "",
+        "recipeId": "",
+        "pathToImage": "",
+        "pathToBackgroundImage": null,
+        "buttonType": "topCombination",
+        "backgroundColor": "",
+        "TextColor": null,
+        "TextColorSelected": null
+      },
+      {
+        "id": "top_combination_4",
+        "weighting": 10,
+        "label": "",
+        "recipeId": "",
+        "pathToImage": "",
+        "pathToBackgroundImage": null,
+        "buttonType": "topCombination",
+        "backgroundColor": "",
+        "TextColor": null,
+        "TextColorSelected": null
+      }
+    ]
+  }

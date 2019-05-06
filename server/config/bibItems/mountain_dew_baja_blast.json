@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "mountain_dew_baja_blast",
+  "Weighting": 1210,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "MT DEW BAJA BLAST 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Baja Blast",
+      "SKU": "012000011306",
+      "CaloriesPerOz": "13.851034113625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "MT DEW BAJA BLAST 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Baja Blast",
+      "SKU": "012000843143",
+      "CaloriesPerOz": "13.851034113625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

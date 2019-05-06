@@ -1,0 +1,282 @@
+[
+  {
+    "Label": "Config Backup Config",
+    "Command": "SpireCLI",
+    "CommandArgs": "config backup",
+    "Items": []
+  },
+  {
+    "Label": "Config Restore",
+    "Command": "SpireCLI",
+    "CommandArgs": "config restore",
+    "Items": []
+  },
+  {
+    "Label": "Update All",
+    "Command": "SpireCLI",
+    "CommandArgs": "update all",
+    "Items": []
+  },
+  {
+    "Label": "Update ACM",
+    "Command": "SpireCLI",
+    "CommandArgs": "update acm",
+    "Items": []
+  },
+  {
+    "Label": "Update Platform All",
+    "Command": "SpireCLI",
+    "CommandArgs": "update platform",
+    "Items": []
+  },
+  {
+    "Label": "Update Chrome",
+    "Command": "SpireCLI",
+    "CommandArgs": "update chrome",
+    "Items": []
+  },
+  {
+    "Label": "Update Spire",
+    "Command": "SpireCLI",
+    "CommandArgs": "update spire",
+    "Items": []
+  },
+  {
+    "Label": "Run Diagnostics",
+    "Command": "SpireCLI",
+    "CommandArgs": "rundiagnostics",
+    "Items": []
+  },
+  {
+    "Label": "Collect Logs",
+    "Command": "SpireCLI",
+    "CommandArgs": "collectlogs c:\\spire\\config",
+    "Items": []
+  },
+  {
+    "Label": "Image Capture",
+    "Command": "SpireCLI",
+    "CommandArgs": "image capture",
+    "Items": []
+  },
+  {
+    "Label": "Image Restore",
+    "Command": "SpireCLI",
+    "CommandArgs": "image restore",
+    "Items": []
+  },
+  {
+    "Label": "Update Platform",
+    "Command": "",
+    "CommandArgs": "",
+    "Items": [
+      {
+        "Label": "Update Platform All",
+        "Command": "SpireCLI",
+        "CommandArgs": "update platform",
+        "Items": []
+      },
+      {
+        "Label": "Update Chrome",
+        "Command": "SpireCLI",
+        "CommandArgs": "update chrome",
+        "Items": []
+      }
+    ]
+  },
+  {
+    "Label": "Configuration",
+    "Command": "",
+    "CommandArgs": "",
+    "Items": [
+      {
+        "Label": "Config Backup Config",
+        "Command": "SpireCLI",
+        "CommandArgs": "config backup",
+        "Items": []
+      },
+      {
+        "Label": "Config Restore",
+        "Command": "SpireCLI",
+        "CommandArgs": "config restore",
+        "Items": []
+      }
+    ]
+  },
+  {
+    "Label": "Diagnostics",
+    "Command": "",
+    "CommandArgs": "",
+    "Items": [
+      {
+        "Label": "Run Diagnostics",
+        "Command": "SpireCLI",
+        "CommandArgs": "rundiagnostics",
+        "Items": []
+      },
+      {
+        "Label": "Collect Logs",
+        "Command": "SpireCLI",
+        "CommandArgs": "collectlogs c:\\spire\\config",
+        "Items": []
+      },
+      {
+        "Label": "Image Capture",
+        "Command": "SpireCLI",
+        "CommandArgs": "image capture",
+        "Items": []
+      },
+      {
+        "Label": "Image Restore",
+        "Command": "SpireCLI",
+        "CommandArgs": "image restore",
+        "Items": []
+      }
+    ]
+  },
+  {
+    "Label": "Update",
+    "Command": "",
+    "CommandArgs": "",
+    "Items": [
+      {
+        "Label": "Update All",
+        "Command": "SpireCLI",
+        "CommandArgs": "update all",
+        "Items": []
+      },
+      {
+        "Label": "Update ACM",
+        "Command": "SpireCLI",
+        "CommandArgs": "update acm",
+        "Items": []
+      },
+      {
+        "Label": "Update Platform",
+        "Command": "",
+        "CommandArgs": "",
+        "Items": [
+          {
+            "Label": "Update Platform All",
+            "Command": "SpireCLI",
+            "CommandArgs": "update platform",
+            "Items": []
+          },
+          {
+            "Label": "Update Chrome",
+            "Command": "SpireCLI",
+            "CommandArgs": "update chrome",
+            "Items": []
+          }
+        ]
+      },
+      {
+        "Label": "Update Spire",
+        "Command": "SpireCLI",
+        "CommandArgs": "update spire",
+        "Items": []
+      }
+    ]
+  },
+  {
+    "Label": "USB Menu",
+    "Command": "",
+    "CommandArgs": "",
+    "Items": [
+      {
+        "Label": "Configuration",
+        "Command": "",
+        "CommandArgs": "",
+        "Items": [
+          {
+            "Label": "Config Backup Config",
+            "Command": "SpireCLI",
+            "CommandArgs": "config backup",
+            "Items": []
+          },
+          {
+            "Label": "Config Restore",
+            "Command": "SpireCLI",
+            "CommandArgs": "config restore",
+            "Items": []
+          }
+        ]
+      },
+      {
+        "Label": "Update",
+        "Command": "",
+        "CommandArgs": "",
+        "Items": [
+          {
+            "Label": "Update All",
+            "Command": "SpireCLI",
+            "CommandArgs": "update all",
+            "Items": []
+          },
+          {
+            "Label": "Update ACM",
+            "Command": "SpireCLI",
+            "CommandArgs": "update acm",
+            "Items": []
+          },
+          {
+            "Label": "Update Platform",
+            "Command": "",
+            "CommandArgs": "",
+            "Items": [
+              {
+                "Label": "Update Platform All",
+                "Command": "SpireCLI",
+                "CommandArgs": "update platform",
+                "Items": []
+              },
+              {
+                "Label": "Update Chrome",
+                "Command": "SpireCLI",
+                "CommandArgs": "update chrome",
+                "Items": []
+              }
+            ]
+          },
+          {
+            "Label": "Update Spire",
+            "Command": "SpireCLI",
+            "CommandArgs": "update spire",
+            "Items": []
+          }
+        ]
+      },
+      {
+        "Label": "Diagnostics",
+        "Command": "",
+        "CommandArgs": "",
+        "Items": [
+          {
+            "Label": "Run Diagnostics",
+            "Command": "SpireCLI",
+            "CommandArgs": "rundiagnostics",
+            "Items": []
+          },
+          {
+            "Label": "Collect Logs",
+            "Command": "SpireCLI",
+            "CommandArgs": "collectlogs c:\\spire\\config",
+            "Items": []
+          },
+          {
+            "Label": "Image Capture",
+            "Command": "SpireCLI",
+            "CommandArgs": "image capture",
+            "Items": []
+          },
+          {
+            "Label": "Image Restore",
+            "Command": "SpireCLI",
+            "CommandArgs": "image restore",
+            "Items": []
+          }
+        ]
+      }
+    ]
+  }
+]

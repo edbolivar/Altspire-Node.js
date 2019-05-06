@@ -1,0 +1,72 @@
+{
+  "id": "water-tap",
+  "recipeId": "f094e81a-b006-410d-9d38-58246e08e51f",
+  "languageCountryCode": "en-us",
+  "name": "Water",
+  "flavors": [
+    ""
+  ],
+  "group": "group-water",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/water-tap_logo.png",
+      "logoBrand": "./assets/beverages/water-tap_logo.png",
+      "gradient": null,
+      "liquidIntro": null,
+      "liquidIdle": null,
+      "liquidBackground": null
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": null,
+      "animationLight": null,
+      "animationDark": null
+    },
+    "particlesHome": {
+      "colors": [],
+      "opacity": {
+        "from": 0.0,
+        "to": 0.0
+      }
+    },
+    "particlesBrand": [],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffffff"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/water-tap_logo.png",
+  "spire6BackgroundColor": "#d5e8fa",
+  "CalorieCups": []
+}

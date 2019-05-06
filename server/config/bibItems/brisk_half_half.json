@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "brisk_half_half",
+  "Weighting": 1500,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "BSK HALF HALF 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk 1/2 & 1/2",
+      "SKU": "012000112027",
+      "CaloriesPerOz": "5.29387424225",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "BSK HALF HALF 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk 1/2 & 1/2",
+      "SKU": "012000112010",
+      "CaloriesPerOz": "5.29387424225",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

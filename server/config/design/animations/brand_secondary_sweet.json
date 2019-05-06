@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_sweet",
+  "image": "assets/animations/brands/secondary_sweet.png",
+  "frameWidth": 192,
+  "frameHeight": 167,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

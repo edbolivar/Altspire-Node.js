@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Settings": [
+    {
+      "Key": "ValveController_Virtualized",
+      "ValueAsString": "true",
+      "Description": "Valve Controller is Virtualized",
+      "SettingSource": "User"
+    }
+  ]
+}
+

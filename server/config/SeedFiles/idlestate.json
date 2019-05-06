@@ -1,0 +1,12 @@
+{
+  "videos": [
+    {
+      "name": "Default",
+      "url": "./assets/attractor/video.mp4"
+    }
+  ],
+  "loop": false,
+  "delayHome": 10,
+  "delayBrand": 15,
+  "colorLight": "#ffe2e4b4"
+}

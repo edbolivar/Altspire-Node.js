@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "diet_mountain_dew_baja_blast",
+  "Weighting": 1220,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "5G Diet Mountain Dew Baja Blast",
+      "MixRatio": "5",
+      "Name": "Diet Mountain Dew Baja Blast",
+      "SKU": "012000130007",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "3G Diet Mountain Dew Baja Blast",
+      "MixRatio": "5",
+      "Name": "Diet Mountain Dew Baja Blast",
+      "SKU": "012000130014",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

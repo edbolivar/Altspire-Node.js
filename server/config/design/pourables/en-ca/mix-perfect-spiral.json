@@ -1,0 +1,94 @@
+{
+  "id": "mix-perfect-spiral",
+  "recipeId": null,
+  "languageCountryCode": "en-ca",
+  "name": "Perfect Spiral",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-perfect-spiral_logo.png",
+      "logoBrand": "./assets/beverages/mix-perfect-spiral_logo.png",
+      "gradient": "./assets/beverages/mix-perfect-spiral_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-perfect-spiral_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-perfect-spiral_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-perfect-spiral_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ff419831",
+      "animationLight": "#d1eab5",
+      "animationDark": "#8dca48"
+    },
+    "particlesHome": {
+      "colors": [
+        "#cddd49",
+        "#55b047",
+        "#ab1f5c"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#cddd49",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#55b047",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ab1f5c",
+        "opacityMin": 0.35,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": []
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-perfect-spiral_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

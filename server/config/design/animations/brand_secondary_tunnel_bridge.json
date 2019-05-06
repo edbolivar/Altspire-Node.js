@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_tunnel_bridge",
+  "image": "assets/animations/brands/secondary_tunnel_bridge.png",
+  "frameWidth": 238,
+  "frameHeight": 271,
+  "frames": 58,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

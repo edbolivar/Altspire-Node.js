@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "8b29a7ed-6328-4eda-b3a6-3c56af581a18",
+  "Name": "Lemon Berry Twst",
+  "BeverageId": "mix-lemon-berry-twst",
+  "Type": "Mix",
+  "BrandId": "sierra-mist" ,
+  "FlavorIds":[
+    "lemon",
+    "strawberry"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000503894",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000029295",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000503887",
+      "Name": "Sierra Mist"
+    },
+    {
+      "Sku": "012000029301",
+      "Name": "Sierra Mist"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043246",
+      "Name": "Flavor Works Lemon"
+    },
+    {
+      "Sku": "888888000008",
+      "Name": "FW Lemon (CA)"
+    },
+    {
+      "Sku": "012000043239",
+      "Name": "Flavor Works Strawberry"
+    },
+    {
+      "Sku": "888888000012",
+      "Name": "FW Strawberry (CA)"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

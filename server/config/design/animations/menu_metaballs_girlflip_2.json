@@ -1,0 +1,11 @@
+{
+  "id": "menu_metaballs_girlflip_2",
+  "image": "assets/animations/menu/metaballs_girlflip_2.png",
+  "frameWidth": 62,
+  "frameHeight": 88,
+  "frames": 23,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

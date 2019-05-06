@@ -1,0 +1,21 @@
+{
+  "CountryLanguageCode": "en-us",
+  "UnitLocation": "US",
+  "UICustomizationState": {
+    "OverrideName": "Default",
+    "AttractLoopName": "SubUs"
+  },
+  "ValveFlowRatesState": {
+    "HighStillFlowRate": 0.0,
+    "LowStillFlowRate": 0.0,
+    "HighCarbFlowRate": 0.0,
+    "LowCarbFlowRate": 0.0,
+    "FlavorShotFlowRate": 0.0
+  },
+  "UnitType": "Spire41",
+  "PourMode": "OptifillPour",
+  "ClearSelectionsDelay": 5000,
+  "DeviceId": "",
+  "PrimaryConsumerLanguage": "en-us",
+  "SecondaryConsumerLanguage": "fr-ca"
+}

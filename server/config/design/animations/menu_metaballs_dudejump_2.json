@@ -1,0 +1,11 @@
+{
+  "id": "menu_metaballs_dudejump_2",
+  "image": "assets/animations/menu/metaballs_dudejump_2.png",
+  "frameWidth": 50,
+  "frameHeight": 89,
+  "frames": 26,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "brisk_strawberry_melon",
+  "Weighting": 1590,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "BRSK STRW MELON 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Strawberry Melon",
+      "SKU": "012000161131",
+      "CaloriesPerOz": "5.860767521625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

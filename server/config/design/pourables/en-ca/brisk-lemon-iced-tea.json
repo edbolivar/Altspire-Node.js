@@ -1,0 +1,106 @@
+{
+  "id": "brisk-lemon-iced-tea",
+  "recipeId": "534a5a0f-a35d-47a1-9270-9fd8c233542b",
+  "languageCountryCode": "en-ca",
+  "name": "Brisk Iced Tea With Lemon",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-brisk",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/brisk-lemon-iced-tea_logo.png",
+      "logoBrand": "./assets/beverages/brisk-lemon-iced-tea_logo.png",
+      "gradient": "./assets/beverages/brisk-lemon-iced-tea_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_idle.webm",
+      "liquidBackground": "./assets/beverages/brisk-sweet-tea-iced-tea_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ff4d71f7",
+      "animationLight": "#6888ff",
+      "animationDark": "#2a46b2"
+    },
+    "particlesHome": {
+      "colors": [
+        "#3e5bc8",
+        "#233ea5",
+        "#021b82"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#7768ee",
+        "opacityMin": 0.25,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#cac8e1",
+        "opacityMin": 0.6,
+        "opacityMax": 0.8,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#2c20a5",
+        "opacityMin": 0.15,
+        "opacityMax": 0.3,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_circles",
+      "offsetX": 0.0,
+      "offsetY": 20.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_circles",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.6,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_circles",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff3938b0",
+      "#ff452a74",
+      "#ff452a74"
+    ]
+  },
+  "Weighting": 1490,
+  "spire6ImageLogo": "./assets/beverages/brisk-lemon-iced-tea_logo.png",
+  "spire6BackgroundColor": "#0d4d96",
+  "CalorieCups": []
+}

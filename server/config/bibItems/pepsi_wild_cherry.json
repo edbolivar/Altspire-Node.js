@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "pepsi_wild_cherry",
+  "Weighting": 1150,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "Pepsi Wild Cherry US 3G",
+      "MixRatio": "3",
+      "Name": "Pepsi Wild Cherry",
+      "SKU": "012000608902",
+      "CaloriesPerOz": "12.959509283875",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "5",
+      "Description": "PEPSI WILD CHY 5G BIB",
+      "MixRatio": "5",
+      "Name": "Pepsi Wild Cherry",
+      "SKU": "012000400186",
+      "CaloriesPerOz": "12.959509283875",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

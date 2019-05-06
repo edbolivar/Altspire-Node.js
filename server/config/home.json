@@ -1,0 +1,1145 @@
+{
+  "BeverageItems": [
+    {
+      "BeverageId": "pepsi",
+      "Weightings": [
+        {
+          "weighting": 1,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-real-sugar",
+      "Weightings": [
+        {
+          "weighting": 2,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-diet",
+      "Weightings": [
+        {
+          "weighting": 3,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-max",
+      "Weightings": [
+        {
+          "weighting": 4,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-caffeine-free",
+      "Weightings": [
+        {
+          "weighting": 5,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-diet-caffeine-free",
+      "Weightings": [
+        {
+          "weighting": 6,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-next",
+      "Weightings": [
+        {
+          "weighting": 7,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-twist",
+      "Weightings": [
+        {
+          "weighting": 8,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-wild-cherry",
+      "Weightings": [
+        {
+          "weighting": 9,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "pepsi-wild-cherry-diet",
+      "Weightings": [
+        {
+          "weighting": 10,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mountain-dew",
+      "Weightings": [
+        {
+          "weighting": 11,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mountain-dew-diet",
+      "Weightings": [
+        {
+          "weighting": 12,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mountain-dew-baja-blast",
+      "Weightings": [
+        {
+          "weighting": 13,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mountain-dew-baja-blast-diet",
+      "Weightings": [
+        {
+          "weighting": 14,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mountain-dew-sangrita-blast",
+      "Weightings": [
+        {
+          "weighting": 15,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mountain-dew-code-red",
+      "Weightings": [
+        {
+          "weighting": 16,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "sierra-mist",
+      "Weightings": [
+        {
+          "weighting": 17,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "sierra-mist-diet",
+      "Weightings": [
+        {
+          "weighting": 18,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mug",
+      "Weightings": [
+        {
+          "weighting": 19,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mug-diet",
+      "Weightings": [
+        {
+          "weighting": 20,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "tropicana-lemonade",
+      "Weightings": [
+        {
+          "weighting": 21,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "tropicana-fruit-punch",
+      "Weightings": [
+        {
+          "weighting": 22,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "tropicana-twister-orange",
+      "Weightings": [
+        {
+          "weighting": 23,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "tropicana-lemonade-light",
+      "Weightings": [
+        {
+          "weighting": 24,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "tropicana-pink-lemonade",
+      "Weightings": [
+        {
+          "weighting": 25,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "dr-pepper",
+      "Weightings": [
+        {
+          "weighting": 26,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "dr-pepper-diet",
+      "Weightings": [
+        {
+          "weighting": 27,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "brisk-iced-tea-unsweetened",
+      "Weightings": [
+        {
+          "weighting": 28,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "brisk-sweet-tea-iced-tea",
+      "Weightings": [
+        {
+          "weighting": 29,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "brisk-lemonade",
+      "Weightings": [
+        {
+          "weighting": 30,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "brisk-lemon-iced-tea",
+      "Weightings": [
+        {
+          "weighting": 31,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "brisk-half-and-half",
+      "Weightings": [
+        {
+          "weighting": 32,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "brisk-mango-iced-tea",
+      "Weightings": [
+        {
+          "weighting": 33,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "brisk-no-calorie-peach-iced-green-tea",
+      "Weightings": [
+        {
+          "weighting": 34,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "brisk-raspberry-iced-tea",
+      "Weightings": [
+        {
+          "weighting": 35,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "manzanita-sol",
+      "Weightings": [
+        {
+          "weighting": 36,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "sobe-yumberry-pomegranate",
+      "Weightings": [
+        {
+          "weighting": 37,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "sobe-elixir-diet-cranberry-grapefruit-lean",
+      "Weightings": [
+        {
+          "weighting": 38,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "sobe-v-water-blueberry-pomegranate",
+      "Weightings": [
+        {
+          "weighting": 39,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "gatorade-lemon-lime",
+      "Weightings": [
+        {
+          "weighting": 40,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "g2-fruit-punch",
+      "Weightings": [
+        {
+          "weighting": 41,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mirinda-orange",
+      "Weightings": [
+        {
+          "weighting": 42,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mirinda-strawberry",
+      "Weightings": [
+        {
+          "weighting": 43,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "cheerwine",
+      "Weightings": [
+        {
+          "weighting": 44,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "cheerwine-diet",
+      "Weightings": [
+        {
+          "weighting": 45,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "crush-grape",
+      "Weightings": [
+        {
+          "weighting": 46,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "crush-orange",
+      "Weightings": [
+        {
+          "weighting": 47,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "crush-cream",
+      "Weightings": [
+        {
+          "weighting": 48,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "schweppes-ginger-ale",
+      "Weightings": [
+        {
+          "weighting": 49,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "7up",
+      "Weightings": [
+        {
+          "weighting": 50,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "7up-free",
+      "Weightings": [
+        {
+          "weighting": 51,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "7up-mojito",
+      "Weightings": [
+        {
+          "weighting": 52,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "tango-apple",
+      "Weightings": [
+        {
+          "weighting": 53,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "tango-orange",
+      "Weightings": [
+        {
+          "weighting": 54,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "lipton-lemon",
+      "Weightings": [
+        {
+          "weighting": 55,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "lipton-peach",
+      "Weightings": [
+        {
+          "weighting": 56,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "fruit-shoot",
+      "Weightings": [
+        {
+          "weighting": 57,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "dole-strawberry-kiwi",
+      "Weightings": [
+        {
+          "weighting": 58,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "aquafina-flavorsplash-berry-loco",
+      "Weightings": [
+        {
+          "weighting": 59,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "aquafina-flavorsplash-peelin-good",
+      "Weightings": [
+        {
+          "weighting": 60,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "izze-sparkling-blackberry",
+      "Weightings": [
+        {
+          "weighting": 61,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "izze-sparkling-clementine",
+      "Weightings": [
+        {
+          "weighting": 62,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "izze-sparkling-grapefruit",
+      "Weightings": [
+        {
+          "weighting": 63,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "izze-sparkling-pomegranate",
+      "Weightings": [
+        {
+          "weighting": 64,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "big-red",
+      "Weightings": [
+        {
+          "weighting": 65,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mountain-dew-international",
+      "Weightings": [
+        {
+          "weighting": 66,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "kickstart-black-cherry",
+      "Weightings": [
+        {
+          "weighting": 67,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "kickstart-fruit-punch",
+      "Weightings": [
+        {
+          "weighting": 68,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "kickstart-orange-citrus",
+      "Weightings": [
+        {
+          "weighting": 69,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "culver-root-beer",
+      "Weightings": [
+        {
+          "weighting": 70,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "culver-root-beer-diet",
+      "Weightings": [
+        {
+          "weighting": 71,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "gatorade-fruit-punch",
+      "Weightings": [
+        {
+          "weighting": 72,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "robinson-summer-fruit",
+      "Weightings": [
+        {
+          "weighting": 73,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-risky-blitz",
+      "Weightings": [
+        {
+          "weighting": 74,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-hail-mary",
+      "Weightings": [
+        {
+          "weighting": 75,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-perfect-spiral",
+      "Weightings": [
+        {
+          "weighting": 76,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-punt-play",
+      "Weightings": [
+        {
+          "weighting": 77,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-strawberry-fields",
+      "Weightings": [
+        {
+          "weighting": 78,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-kentucky-cream",
+      "Weightings": [
+        {
+          "weighting": 79,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-dark-and-wild",
+      "Weightings": [
+        {
+          "weighting": 80,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-citrus-fiesta",
+      "Weightings": [
+        {
+          "weighting": 81,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-southern-style",
+      "Weightings": [
+        {
+          "weighting": 82,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-american-summer",
+      "Weightings": [
+        {
+          "weighting": 83,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-midnight-fog",
+      "Weightings": [
+        {
+          "weighting": 84,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-orchard-blush",
+      "Weightings": [
+        {
+          "weighting": 85,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-violet-twilight",
+      "Weightings": [
+        {
+          "weighting": 86,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-three-layer-berry",
+      "Weightings": [
+        {
+          "weighting": 87,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-zing-cherry",
+      "Weightings": [
+        {
+          "weighting": 88,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-snazzberry",
+      "Weightings": [
+        {
+          "weighting": 89,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-shimmy-berry",
+      "Weightings": [
+        {
+          "weighting": 90,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-beach-ready",
+      "Weightings": [
+        {
+          "weighting": 91,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-darkelberry",
+      "Weightings": [
+        {
+          "weighting": 92,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-ruby-juicy",
+      "Weightings": [
+        {
+          "weighting": 93,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-peachy-green",
+      "Weightings": [
+        {
+          "weighting": 94,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    },
+    {
+      "BeverageId": "mix-sun-blossom",
+      "Weightings": [
+        {
+          "weighting": 95,
+          "Customer": null,
+          "Country": null,
+          "Language": null,
+          "Platform": null
+        }
+      ]
+    }
+  ],
+  "CountryLanguageItems": []
+}

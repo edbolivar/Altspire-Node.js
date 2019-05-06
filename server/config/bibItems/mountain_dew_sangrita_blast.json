@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "mountain_dew_sangrita_blast",
+  "Weighting": 1230,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "MT DEW SANG BLAST 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Sangrita Blast",
+      "SKU": "012000130021",
+      "CaloriesPerOz": "14.183606130875",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "MT DEW SANG BLAST 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Mountain Dew Sangrita Blast",
+      "SKU": "012000130038",
+      "CaloriesPerOz": "14.183606130875",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

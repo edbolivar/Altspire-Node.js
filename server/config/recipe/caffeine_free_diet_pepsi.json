@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "67130f75-2518-42d3-a47b-18cb2009d7a6",
+  "Name": "Caffeine Free Diet Pepsi",
+  "BeverageId": "pepsi-diet-caffeine-free",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400070",
+      "Name": "Caffeine Free Diet Pepsi"
+    },
+    {
+      "Sku": "012000402494",
+      "Name": "Caffeine Free Diet Pepsi"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,31 @@
+{
+  "Revision": 1,
+  "Id": "6b92485a-6f62-4f37-98f1-fe309c2acdc1",
+  "Name": "Crush Orange",
+  "BeverageId": "crush-orange",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "088500901263",
+      "Name": "Crush Orange"
+    },
+    {
+      "Sku": "088500902406",
+      "Name": "Crush Orange"
+    },
+    {
+      "Sku": "056000000922",
+      "Name": "Crush Orange"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

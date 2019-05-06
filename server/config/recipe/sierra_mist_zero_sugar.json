@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "eb6bc44b-89f8-4fb8-8530-d2bb3486bcba",
+  "Name": "Sierra Mist Zero Sugar",
+  "BeverageId": "sierra-mist-zero-sugar",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000201615",
+      "Name": "Sierra Mist Zero Sugar"
+    },
+    {
+      "Sku": "012000201608",
+      "Name": "Sierra Mist Zero Sugar"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_waves",
+  "image": "assets/animations/brands/secondary_waves.png",
+  "frameWidth": 211,
+  "frameHeight": 220,
+  "frames": 81,
+  "smoothing": "bilinear",
+  "fps": 11,
+  "scale": 2,
+  "format": "bgra"
+}

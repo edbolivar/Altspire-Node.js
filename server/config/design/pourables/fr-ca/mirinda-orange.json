@@ -1,0 +1,95 @@
+{
+  "id": "mirinda-orange",
+  "recipeId": "f82e6b60-5644-4114-81cb-2cf1acfcbf50",
+  "languageCountryCode": "fr-ca",
+  "name": "Mirinda Orange",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-mirinda",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mirinda-orange_logo.png",
+      "logoBrand": "./assets/beverages/mirinda-orange_logo.png",
+      "gradient": "./assets/beverages/crush-orange_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/crush-orange_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/crush-orange_idle.webm",
+      "liquidBackground": "./assets/beverages/crush-orange_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffb6012",
+      "animationLight": "#fdc543",
+      "animationDark": "#f7aa2f"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffb020",
+        "#ff6824"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ffb020",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ffb020",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": []
+  },
+  "Weighting": 1680,
+  "spire6ImageLogo": "./assets/beverages/mirinda-orange_logo.png",
+  "spire6BackgroundColor": "#f9c1b4",
+  "CalorieCups": []
+}

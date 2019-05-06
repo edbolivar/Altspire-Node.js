@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "brisk_tea_unsweetened",
+  "Weighting": 1520,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "LPT BRSK UNS NLEM 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Tea Unsweetened",
+      "SKU": "041000007231",
+      "CaloriesPerOz": "0.1179133965",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "LPT BRSK UNS NLEM 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Tea Unsweetened",
+      "SKU": "041000010002",
+      "CaloriesPerOz": "0.1179133965",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

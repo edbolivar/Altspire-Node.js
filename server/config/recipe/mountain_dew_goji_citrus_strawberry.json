@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "b70d3e44-438a-4a96-b6c0-7b1b19116c5d",
+  "Name": "Mtn Dew Goji Citrus Strawberry",
+  "BeverageId": "mountain-dew-goji-citrus-strawberry",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000170010",
+      "Name": "Mtn Dew Goji Citrus Strawberry"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

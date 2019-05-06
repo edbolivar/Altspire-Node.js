@@ -1,0 +1,11 @@
+{
+  "id": "menu_character_headspin",
+  "image": "assets/animations/menu/character_headspin.png",
+  "frameWidth": 170,
+  "frameHeight": 170,
+  "frames": 118,
+  "smoothing": "bilinear",
+  "fps": 30,
+  "scale": 1,
+  "format": "compressedAlpha"
+}

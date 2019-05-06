@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Settings": [
+    {
+      "Key": "ValveController_Virtualized",
+      "ValueAsString": "true",
+      "Description": "Valve Controller is Virtualized",
+      "SettingSource": "User"
+    },
+    {
+      "Key": "InvisibleMouseCursor",
+      "Description": "Mouse cursor is not shown in app",
+      "ValueAsString": "false",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "logviewer.DTMode",
+      "Description": "If true, log viewer sessions are organized by VNext logs instead of KF logs.",
+      "ValueAsString": "True",
+      "DefaultValueAsString": "False",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "RCMExecuteOnStartup",
+      "Description": "does app start RCM on startup",
+      "ValueAsString": "false",
+      "SettingSource": "Application"
+    },
+     {
+      "Key": "TouchController_Virtualized",
+      "Description": null,
+      "ValueAsString": "True",
+      "DefaultValueAsString": null,
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    }
+  ]
+}
+

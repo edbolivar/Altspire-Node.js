@@ -1,0 +1,90 @@
+{
+  "id": "bubly-raspberry",
+  "recipeId": "6c94a347-1a1e-4b23-a50a-8ba1dcca02bd",
+  "languageCountryCode": "en-us",
+  "name": "Bubly Raspberry",
+  "flavors": [],
+  "group": "group-bubbly",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/bubly-raspberry_logo.png",
+      "logoBrand": "./assets/beverages/bubly-raspberry_logo_brand.png",
+      "gradient": "./assets/beverages/bubly-raspberry_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/bubly-raspberry_Intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/bubly-raspberry_Loop.webm",
+      "liquidBackground": "./assets/beverages/bubly-raspberry_background.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fff60086",
+      "animationLight": "#b00060",
+      "animationDark": "#8d004d"
+    },
+    "particlesHome": {
+      "colors": [
+        "#b00060",
+        "#8d004d"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#8d004d",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#b00060",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#fff60086",
+      "#fff60086",
+      "#fff60086"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/bubly-raspberry_logo.png",
+  "spire6BackgroundColor": "#b20060",
+  "CalorieCups": []
+}

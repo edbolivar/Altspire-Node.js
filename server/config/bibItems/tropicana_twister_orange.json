@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "tropicana_twister_orange",
+  "Weighting": 1340,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "TROP TWISTER ORANGE 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Tropicana Twister Orange",
+      "SKU": "012000016110",
+      "CaloriesPerOz": "14.267350958375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "TROP TWISTER ORANGE 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Tropicana Twister Orange",
+      "SKU": "012000016097",
+      "CaloriesPerOz": "14.267350958375",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Revision": 1,
+  "Id": "534a5a0f-a35d-47a1-9270-9fd8c233542b",
+  "Name": "Brisk Lemon Iced Tea",
+  "BeverageId": "brisk-lemon-iced-tea",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "090000000023",
+      "Name": "unknown"
+    },
+    {
+      "Sku": "041000007866",
+      "Name": "Brisk Lemon Iced Tea"
+    },
+    {
+      "Sku": "041000010033",
+      "Name": "Brisk Lemon Iced Tea"
+    },
+    {
+      "Sku": "069000015476",
+      "Name": "Brisk Lemon Iced Tea"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

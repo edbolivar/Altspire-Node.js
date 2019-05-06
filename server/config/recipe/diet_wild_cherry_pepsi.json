@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "cd143085-7793-49d2-b275-fd1b241128ed",
+  "Name": "Diet Wild Cherry Pepsi",
+  "BeverageId": "pepsi-wild-cherry-diet",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000503832",
+      "Name": "Diet Wild Cherry Pepsi"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

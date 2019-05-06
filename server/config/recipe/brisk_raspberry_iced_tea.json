@@ -1,0 +1,31 @@
+{
+  "Revision": 1,
+  "Id": "4eae68f5-92d6-48ee-90ce-486dc1a84878",
+  "Name": "Brisk Raspberry Iced Tea",
+  "BeverageId": "brisk-raspberry-iced-tea",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "041000010187",
+      "Name": "Brisk Raspberry Iced Tea"
+    },
+    {
+      "Sku": "041000010309",
+      "Name": "Brisk Raspberry Iced Tea"
+    },
+    {
+      "Sku": "069000147191",
+      "Name": "Brisk Raspberry Iced Tea"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

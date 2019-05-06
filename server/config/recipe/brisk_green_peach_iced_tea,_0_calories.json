@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "e431d94a-699e-44f2-be87-59e52b336b30",
+  "Name": "Brisk Green Peached Tea 0 cal",
+  "BeverageId": "brisk-no-calorie-peach-iced-green-tea",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000027512",
+      "Name": "Brisk Green Peached Tea 0 cal"
+    },
+    {
+      "Sku": "012000027529",
+      "Name": "Brisk Green Peached Tea 0 cal"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

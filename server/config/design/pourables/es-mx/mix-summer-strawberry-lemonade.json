@@ -1,0 +1,88 @@
+{
+  "id": "mix-summer-strawberry-lemonade",
+  "recipeId": "917d1c28-8c07-43b4-b77d-a07548067049",
+  "languageCountryCode": "es-mx",
+  "name": "Summer Strawberry Lemonade",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-summer-strawberry-lemonade_logo.png",
+      "logoBrand": "./assets/beverages/mix-summer-strawberry-lemonade_logo_brand.png",
+      "gradient": "./assets/beverages/mix-summer-strawberry-lemonade_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-summer-strawberry-lemonade_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-summer-strawberry-lemonade_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-looper-chill_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#fffebec4",
+      "animationLight": "#f898c5",
+      "animationDark": "#c52065"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f5afd0",
+        "#c31d57"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f9bcc9",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ed919d",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffef4665"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-summer-strawberry-lemonade_logo_brand.png",
+  "spire6BackgroundColor": "#df536c",
+  "CalorieCups": []
+}

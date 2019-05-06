@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "dd6a348b-6982-4a0b-80b5-e81b44495c18",
+  "Name": "Sobe Elixir Citrus Energy",
+  "BeverageId": "sobe-elixir-citrus-energy",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0222",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "739510701069",
+      "Name": "Sobe Elixir Citrus Energy"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "f329d9b2-94a2-4c9d-95a0-8e8b8ac00a5c",
+  "Name": "Tropicana Twister Orange",
+  "BeverageId": "tropicana-twister-orange",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000016110",
+      "Name": "Tropicana Twister Orange"
+    },
+    {
+      "Sku": "012000016097",
+      "Name": "Tropicana Twister Orange"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

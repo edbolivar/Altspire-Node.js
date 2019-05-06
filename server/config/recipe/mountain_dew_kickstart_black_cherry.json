@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "a8e785d7-e7e3-4666-a48e-a75b88dc0fce",
+  "Name": "Mountain Dew Kickstart Black Cherry",
+  "BeverageId": "kickstart-black-cherry",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000150913",
+      "Name": "Mountain Dew Kickstart Black Cherry"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

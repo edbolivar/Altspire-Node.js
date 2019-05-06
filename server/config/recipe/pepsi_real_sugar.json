@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "431b9e25-fbd5-4232-ba13-b9b86e938409",
+  "Name": "Pepsi Real Sugar",
+  "BeverageId": "pepsi-real-sugar",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "069000148730",
+      "Name": "Pepsi Real Sugar"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

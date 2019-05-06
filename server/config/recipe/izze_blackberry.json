@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "7b2d030a-7b43-40a6-b552-fe9b6896faa0",
+  "Name": "Izze Blackberry",
+  "BeverageId": "izze-sparkling-blackberry",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000116",
+      "Name": "Izze Blackberry"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

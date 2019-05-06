@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "d9c7f607-e6eb-4fa2-8807-abc1651c677f",
+  "Name": "Aquafina Sparkling Lemon Lime",
+  "BeverageId": "aquafina-sparkling-lemon-lime",
+   "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000163937",
+      "Name": "Aquafina Sparkling Lemon Lime"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_peelin_bridge",
+  "image": "assets/animations/brands/secondary_peelin_bridge.png",
+  "frameWidth": 298,
+  "frameHeight": 287,
+  "frames": 58,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

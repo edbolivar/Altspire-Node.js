@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "tango_apple",
+  "Weighting": 1860,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "tango apple 12L",
+      "MixRatio": "5",
+      "Name": "Tango Apple",
+      "SKU": "999998000123",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

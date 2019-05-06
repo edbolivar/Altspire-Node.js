@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "b9dfe2c0-0b4b-43da-a1d4-64e13ed9b7d8",
+  "Name": "Mountain Dew Sangrita Blast",
+  "BeverageId": "mountain-dew-sangrita-blast",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000130021",
+      "Name": "Mountain Dew Sangrita Blast"
+    },
+    {
+      "Sku": "012000130038",
+      "Name": "Mountain Dew Sangrita Blast"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,31 @@
+{
+  "Revision": 1,
+  "Id": "5dd7cc18-afe9-4daf-8f54-c907069a85ad",
+  "Name": "Diet Dr Pepper",
+  "BeverageId": "dr-pepper-diet",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "054900720476",
+      "Name": "Diet Dr Pepper"
+    },
+    {
+      "Sku": "054900720513",
+      "Name": "Diet Dr Pepper"
+    },
+    {
+      "Sku": "054900800291",
+      "Name": "Diet Dr Pepper"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

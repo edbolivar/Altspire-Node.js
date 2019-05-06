@@ -1,0 +1,94 @@
+{
+  "id": "mix-risky-blitz",
+  "recipeId": null,
+  "languageCountryCode": "fr-ca",
+  "name": "Risky Blitz",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-risky-blitz_logo.png",
+      "logoBrand": "./assets/beverages/mix-risky-blitz_logo.png",
+      "gradient": "./assets/beverages/mix-risky-blitz_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mix-risky-blitz_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mix-risky-blitz_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-risky-blitz_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#fffd551b",
+      "animationLight": "#fbc0a3",
+      "animationDark": "#f66921"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fcf596",
+        "#fa6227",
+        "#aa3101"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fcf596",
+        "opacityMin": 0.45,
+        "opacityMax": 0.55,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#fa6227",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#aa3101",
+        "opacityMin": 0.35,
+        "opacityMax": 0.5,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 100.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": []
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-risky-blitz_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

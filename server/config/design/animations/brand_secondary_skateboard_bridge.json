@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_skateboard_bridge",
+  "image": "assets/animations/brands/secondary_skateboard_bridge.png",
+  "frameWidth": 216,
+  "frameHeight": 234,
+  "frames": 72,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

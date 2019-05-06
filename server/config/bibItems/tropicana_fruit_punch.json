@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "tropicana_fruit_punch",
+  "Weighting": 1330,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "TROP FRUIT PUNCH 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Tropicana Fruit Punch",
+      "SKU": "012000016226",
+      "CaloriesPerOz": "14.15059155",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "TROP FRUIT PUNCH 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Tropicana Fruit Punch",
+      "SKU": "012000016219",
+      "CaloriesPerOz": "14.15059155",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

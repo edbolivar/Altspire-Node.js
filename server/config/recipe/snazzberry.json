@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "8af6af90-426e-48e1-99eb-a4a6a930d96a",
+  "Name": "Snazzberry",
+  "BeverageId": "mix-snazzberry",
+  "Type": "Mix",
+  "BrandId": "mountain-dew" ,
+  "FlavorIds":[
+    "lemon",
+    "raspberry"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0444"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400094",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000029325",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "069000020265",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000402500",
+      "Name": "Mountain Dew"
+    },
+    {
+      "Sku": "012000029318",
+      "Name": "Mountain Dew"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043246",
+      "Name": "Flavor Works Lemon"
+    },
+    {
+      "Sku": "888888000008",
+      "Name": "FW Lemon (CA)"
+    },
+    {
+      "Sku": "012000043277",
+      "Name": "Flavor Works Raspberry"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

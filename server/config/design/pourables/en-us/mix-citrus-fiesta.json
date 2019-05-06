@@ -1,0 +1,88 @@
+{
+  "id": "mix-citrus-fiesta",
+  "recipeId": "77d665d8-d618-4dbb-a0ed-e44b57f88a53",
+  "languageCountryCode": "en-us",
+  "name": "Citrus Fiesta",
+  "flavors": [],
+  "group": null,
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mix-citrus-fiesta_logo.png",
+      "logoBrand": "./assets/beverages/mix-citrus-fiesta_logo_brand.png",
+      "gradient": "./assets/beverages/mix-citrus-fiesta_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/crush-orange_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/crush-orange_idle.webm",
+      "liquidBackground": "./assets/beverages/mix-citrus-fiesta_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffffaf1f",
+      "animationLight": "#ffa200",
+      "animationDark": "#e05412"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f79015",
+        "#f75700"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f0f5c9",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#ffe6c3",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffffff"
+    ]
+  },
+  "Weighting": 10000,
+  "spire6ImageLogo": "./assets/beverages/mix-citrus-fiesta_logo_brand.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "big_red",
+  "Weighting": 2010,
+  "bibItems": [
+    {
+      "Bibsize": "3",
+      "Description": "BIG RED 3 GALLON BAG IN BOX SINGLE Brand Formula 0309",
+      "MixRatio": "3",
+      "Name": "Big Red",
+      "SKU": "850233004258",
+      "CaloriesPerOz": "12.5",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

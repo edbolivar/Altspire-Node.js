@@ -1,0 +1,93 @@
+{
+  "id": "mug-diet",
+  "recipeId": "3edd71ae-47c4-4349-a5ff-953abd0b74c8",
+  "languageCountryCode": "en-us",
+  "name": "Diet Mug Root Beer",
+  "flavors": [
+    "cherry",
+    "vanilla"
+  ],
+  "group": "group-mug",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/mug-diet_logo.png",
+      "logoBrand": "./assets/beverages/mug-diet_logo.png",
+      "gradient": "./assets/beverages/mug-diet_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/mug_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/mug_idle.webm",
+      "liquidBackground": "./assets/beverages/mug-diet_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffff2d3",
+      "animationLight": "#f6efe8",
+      "animationDark": "#8b6c54"
+    },
+    "particlesHome": {
+      "colors": [
+        "#f6efe8",
+        "#856e5d"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#f6efe8",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#856e5d",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_paws_dark_tower",
+      "offsetX": 0.0,
+      "offsetY": -10.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_paws_dark_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.3,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_paws_diet_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.94,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_paws_dark_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.3,
+      "scale": 0.9
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff9e8453",
+      "#ff653c26",
+      "#ff653c26"
+    ]
+  },
+  "Weighting": 1300,
+  "spire6ImageLogo": "./assets/beverages/mug-diet_logo.png",
+  "spire6BackgroundColor": "#e4d4c4",
+  "CalorieCups": []
+}

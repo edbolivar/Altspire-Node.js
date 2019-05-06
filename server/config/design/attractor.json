@@ -1,0 +1,20 @@
+{
+	// Names of file(s) to play, in sequence. Will stretch to the screen size.
+	"files": [
+		"./assets/attractor/video.mp4"
+	],
+
+	// Whether to loop or not. If false, goes back to the main menu at the end of the playback; if true, the user has to touch the screen to interrupt the attractor.
+	"loop": false,
+
+	// Delay, in seconds, before the attractor starts playing from the home menu screen. 0 means never play.
+	"delayHome": 10,
+
+	// Delay, in seconds, before the attractor starts playing from the brand screen. 0 means never play.
+	"delayBrand": 15,
+
+	// Color for the LED lights around the UI when the attractor is playing.
+	"colorLight": "#ffe2e4b4"
+
+	// Missing: delayHomeADA, delayHomeAfter, delayBrandADA, colorLights as an array
+}

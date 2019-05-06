@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "f82e6b60-5644-4114-81cb-2cf1acfcbf50",
+  "Name": "Mirinda Orange",
+  "BeverageId": "mirinda-orange",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000146",
+      "Name": "Mirinda Orange"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

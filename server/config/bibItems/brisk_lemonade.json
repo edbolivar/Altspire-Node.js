@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "brisk_lemonade",
+  "Weighting": 1450,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "LPT FTN LMNDE 5 GAL BIB SINGLE",
+      "MixRatio": "5",
+      "Name": "Brisk Lemonade",
+      "SKU": "041000075018",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "LPT FTN LMNDE 3 GAL BIB SINGLE",
+      "MixRatio": "5",
+      "Name": "Brisk Lemonade",
+      "SKU": "999999000007",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "12",
+      "Description": "CDN BRSK LMND 12L BIB",
+      "MixRatio": "5",
+      "Name": "Brisk Lemonade",
+      "SKU": "069000071021",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

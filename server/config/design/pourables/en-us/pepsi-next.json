@@ -1,0 +1,98 @@
+{
+  "id": "pepsi-next",
+  "recipeId": "cc615c84-5833-40af-9d94-3ef55de627c7",
+  "languageCountryCode": "en-us",
+  "name": "Pepsi Next",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-pepsi",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/pepsi-next_logo.png",
+      "logoBrand": "./assets/beverages/pepsi-next_logo_brand.png",
+      "gradient": "./assets/beverages/pepsi-next_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/pepsi_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/pepsi_idle.webm",
+      "liquidBackground": "./assets/beverages/pepsi-next_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ff00c5e8",
+      "animationLight": "#10b6ed",
+      "animationDark": "#0167aa"
+    },
+    "particlesHome": {
+      "colors": [
+        "#e9f9fc",
+        "#c0eaf2"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#dbf6fb",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#92e9ff",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff61b0c4",
+      "#ff425357",
+      "#ff425357"
+    ]
+  },
+  "Weighting": 1130,
+  "spire6ImageLogo": "./assets/beverages/pepsi-next_logo.png",
+  "spire6BackgroundColor": null,
+  "CalorieCups": []
+}

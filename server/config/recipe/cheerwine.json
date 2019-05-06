@@ -1,0 +1,27 @@
+{
+  "Revision": 1,
+  "Id": "aa3abf90-a583-442b-94ed-bb4782c47f8b",
+  "Name": "Cheerwine",
+  "BeverageId": "cheerwine",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "070925000836",
+      "Name": "Cheerwine"
+    },
+    {
+      "Sku": "070925000812",
+      "Name": "Cheerwine"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

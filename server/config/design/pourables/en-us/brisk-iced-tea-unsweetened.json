@@ -1,0 +1,98 @@
+{
+  "id": "brisk-iced-tea-unsweetened",
+  "recipeId": "ae7592bd-e4fd-4895-af8c-5ba17698bc7b",
+  "languageCountryCode": "en-us",
+  "name": "Brisk Unsweetened",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime"
+  ],
+  "group": "group-brisk",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/brisk-iced-tea-unsweetened_logo.png",
+      "logoBrand": "./assets/beverages/brisk-iced-tea-unsweetened_logo.png",
+      "gradient": "./assets/beverages/brisk-iced-tea-unsweetened_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/brisk-sweet-tea-iced-tea_idle.webm",
+      "liquidBackground": "./assets/beverages/brisk-iced-tea-unsweetened_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ff7278e9",
+      "animationLight": "#626bf7",
+      "animationDark": "#3f12b2"
+    },
+    "particlesHome": {
+      "colors": [
+        "#6e76f7",
+        "#411e9c"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#7278e9",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#411e9c",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_leaves_tower",
+      "offsetX": 0.0,
+      "offsetY": 40.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_leaves_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_leaves_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_leaves_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff3938b0",
+      "#ff452a74",
+      "#ff452a74"
+    ]
+  },
+  "Weighting": 1520,
+  "spire6ImageLogo": "./assets/beverages/brisk-iced-tea-unsweetened_logo.png",
+  "spire6BackgroundColor": "#0d4d96",
+  "CalorieCups": []
+}

@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "pepsi_real_sugar",
+  "Weighting": 1040,
+  "bibItems": [
+    {
+      "Bibsize": "20",
+      "Description": "CDN PEP RL SGR 20L",
+      "MixRatio": "5",
+      "Name": "Pepsi Real Sugar",
+      "SKU": "069000148730",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

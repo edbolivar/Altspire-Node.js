@@ -1,0 +1,30 @@
+{
+  "Revision": 1,
+  "Id": "bda4ca4c-f0bf-4d0e-9c34-cc6bdbbf8d41",
+  "Name": "Schweppes Ginger Ale",
+  "BeverageId": "schweppes-ginger-ale",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "088500901423",
+      "Name": "Schweppes Ginger Ale"
+    },
+    {
+      "Sku": "088500901652",
+      "Name": "Schweppes Ginger Ale"
+    },
+    {
+      "Sku": "016600010127",
+      "Name": "Schweppes Ginger Ale"
+    }
+  ],
+  "FlavorSkus": [],
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

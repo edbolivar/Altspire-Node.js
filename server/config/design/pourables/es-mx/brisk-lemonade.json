@@ -1,0 +1,98 @@
+{
+  "id": "brisk-lemonade",
+  "recipeId": "f7b41789-80b9-41d5-a3c8-64b3a6346a90",
+  "languageCountryCode": "es-mx",
+  "name": "Brisk Lemonade",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-brisk",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/brisk-lemonade_logo.png",
+      "logoBrand": "./assets/beverages/brisk-lemonade_logo.png",
+      "gradient": "./assets/beverages/brisk-lemonade_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/tropicana-lemonade_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/tropicana-lemonade_idle.webm",
+      "liquidBackground": "./assets/beverages/brisk-lemonade_liquid_tower.png"
+    },
+    "alphaCarbonation": 0,
+    "colors": {
+      "strokeHome": "#ffffe980",
+      "animationLight": "#fef871",
+      "animationDark": "#ecdd08"
+    },
+    "particlesHome": {
+      "colors": [
+        "#fff400",
+        "#f7e700"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#fff55e",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#f5e833",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_explosion_tower",
+      "offsetX": 0.0,
+      "offsetY": 50.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_explosion_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_explosion_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_explosion_tower",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 0.82
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ff284dd3",
+      "#ff141736",
+      "#ff141736"
+    ]
+  },
+  "Weighting": 1450,
+  "spire6ImageLogo": "./assets/beverages/brisk-lemonade_logo.png",
+  "spire6BackgroundColor": "#eeea68",
+  "CalorieCups": []
+}

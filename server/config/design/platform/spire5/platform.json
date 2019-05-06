@@ -1,0 +1,176 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "frameRate": 60,
+  "flavorDirection": "Vertical",
+   "brandFlavorsInfo": {
+      "flavorTitle": 0.5,
+      "itemFontSize": 20,
+      "itemCount": 3,
+      "titleFontSize": 32,
+      "preTitleFontSize": 20,
+      "itemHeight": 90
+    },
+  "layout": {
+    "homePreTitle": {
+      "top": "-50vh",
+      "left": "0vw",
+      "right": "0vw"
+    },
+    "homePreTitleAda": {
+      "top": "-50vh",
+      "left": "0vw",
+      "right": "0vw"
+    },
+    "homeTitle": {
+      "top": "-50vh",
+      "left": "0vw",
+      "right": "0vw"
+    },
+    "homeTitleAda": {
+      "top": "-50vh",
+      "left": "0vw",
+      "right": "0vw"
+    },
+    "homeNavTitleAda": {
+      "top": "40vh",
+      "left": "0vw",
+      "right": "0vw"
+    },
+    "homeNavTitle": {
+      "top": "-50vh",
+      "left": "0vw",
+      "right": "0vw"
+    },
+    "homeLayoutContainer": {
+      "top": "7vh",
+      "left": "-1vw",
+      "right": "-1vw",
+      "bottom": "12vh"
+    },
+    "container": {
+      "top": "0vh",
+      "left": "0vw",
+      "right": "100vw",
+      "bottom": "100vh"
+    },
+    "homeButtonTap": {
+      "bottom": "2vw",
+      "left": "2vw",
+      "width": "12vw",
+      "height": "12vw"
+    },
+    "homeButtonTapAda": {
+      "bottom": "44vw",
+      "right": "2vw",
+      "width": "12vw",
+      "height": "12vw"
+    },
+    "homeButtonSparkling": {
+      "bottom": "2vw",
+      "left": "16vw",
+      "width": "12vw",
+      "height": "12vw"
+    },
+    "homeButtonSparklingAda": {
+      "bottom": "30vw",
+      "right": "2vw",
+      "width": "12vw",
+      "height": "12vw"
+    },
+    "homeButtonLanguage": {
+      "bottom": "2vw",
+      "right": "17vw",
+      "width": "12vw",
+      "height": "12vw"
+    },
+    "homeButtonLanguageAda": {
+      "bottom": "16vw",
+      "right": "2vw",
+      "width": "12vw",
+      "height": "12vw"
+    },
+    "homeButtonAda": {
+      "bottom": "2vw",
+      "right": "2vw",
+      "width": "12vw",
+      "height": "12vw"
+    },
+    "brandLogo": {
+      "top": "38.19vh",
+      "left": "7.14vw",
+      "width": "23.70vw",
+      "height": "23.70vw"
+    },
+    "brandLogo_mix": {
+      "top": "38.19vh",
+      "left": "13.14vw",
+      "width": "23.70vw",
+      "height": "23.70vw"
+    },
+    "brandLogo_ada": {
+      "top": "45.19vh",
+      "left": "38.14vw",
+      "width": "23.70vw",
+      "height": "23.70vw"
+    },
+    "brandLogo_mix_ada": {
+      "top": "52.19vh",
+      "left": "38.14vw",
+      "width": "23.70vw",
+      "height": "23.70vw"
+    },
+    "brandButtonBack": {
+      "bottom": "2vw",
+      "left": "2vw",
+      "width": "12vw",
+      "height": "12vw"
+    },
+    "brandButtonPour": {
+      "left": "39.425vw",
+      "bottom": "3.18vh",
+      "width": "35.15vw",
+      "height": "23.15vw"
+    },
+    "brandLiquidBackground": {
+      "top": "0px",
+      "left": "0px",
+      "right": "0px",
+      "bottom": "0px"
+    },
+    "brandFlavors": {
+      "top": "1000px",
+      "left": "20px",
+      "right": "0px",
+      "bottom": "0px"
+    },
+
+    "brandLiquid": {
+      "left": "0px",
+      "width": "100vw",
+      "height": "90.37vw",
+      "bottom": "0px"
+    },
+    "brandBubble": {
+      "top": "699px",
+      "left": "289px",
+      "width": "1674px",
+      "height": "1674px"
+    },
+
+    "flavorMix": {
+      "x": 200,
+      "y": -200
+    },
+    "flavorMixAda": {
+      "x": 300,
+      "y": -500
+    },
+    "mastHead": {
+      "x": 0,
+      "y": 0,
+      "width": 1060,
+      "height": 650
+    }
+  }
+}

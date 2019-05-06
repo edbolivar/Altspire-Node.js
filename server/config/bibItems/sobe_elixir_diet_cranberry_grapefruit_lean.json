@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "sobe_elixir_diet_cranberry_grapefruit_lean",
+  "Weighting": 1620,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "SOBE ELIX DT CRAN GPFRT LEAN 5G",
+      "MixRatio": "5",
+      "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean",
+      "SKU": "999999000001",
+      "CaloriesPerOz": "0.213528732625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "SOBE ELIX DT CRAN GPFRT LEAN 3G",
+      "MixRatio": "5",
+      "Name": "Sobe Elixir Diet Cranberry Grapefruit Lean",
+      "SKU": "739510701151",
+      "CaloriesPerOz": "0.213528732625",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

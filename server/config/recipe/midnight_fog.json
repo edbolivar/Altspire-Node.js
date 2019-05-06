@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "bbf13efe-1d1e-47aa-9047-c240331a519c",
+  "Name": "Midnight Fog",
+  "BeverageId": "mix-midnight-fog",
+  "Type": "Mix",
+  "BrandId": "pepsi",
+  "FlavorIds":[
+    "raspberry",
+    "vanilla"
+  ],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "012000400032",
+      "Name": "Pepsi"
+    },
+    {
+      "Sku": "012000029363",
+      "Name": "Pepsi"
+    },
+    {
+      "Sku": "012000402463",
+      "Name": "Pepsi"
+    },
+    {
+      "Sku": "012000029356",
+      "Name": "Pepsi"
+    },
+    {
+      "Sku": "069000003039",
+      "Name": "Pepsi"
+    }
+  ],
+  "FlavorSkus": [
+    {
+      "Sku": "012000043277",
+      "Name": "Flavor Works Raspberry"
+    },
+    {
+      "Sku": "888888000010",
+      "Name": "FW Vanilla (CA)"
+    },
+    {
+      "Sku": "012000043215",
+      "Name": "Flavor Works Vanilla"
+    }
+  ],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

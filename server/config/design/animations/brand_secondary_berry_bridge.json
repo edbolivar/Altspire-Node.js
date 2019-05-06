@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_berry_bridge",
+  "image": "assets/animations/brands/secondary_berry_bridge.png",
+  "frameWidth": 290,
+  "frameHeight": 216,
+  "frames": 58,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "dr-pepper-diet",
+  "recipeId": "5dd7cc18-afe9-4daf-8f54-c907069a85ad",
+  "languageCountryCode": "es-mx",
+  "name": "Diet Dr Pepper",
+  "flavors": [
+    "cherry",
+    "vanilla",
+    "strawberry",
+    "lemon",
+    "raspberry",
+    "lime",
+    " peach"
+  ],
+  "group": "group-dr-pepper",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/dr-pepper-diet_logo.png",
+      "logoBrand": "./assets/beverages/dr-pepper-diet_logo.png",
+      "gradient": "./assets/beverages/dr-pepper-diet_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/dr-pepper_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/dr-pepper_idle.webm",
+      "liquidBackground": "./assets/beverages/dr-pepper-diet_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#ffefeeee",
+      "animationLight": "#fc6d6f",
+      "animationDark": "#c70e11"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ff7e80",
+        "#bb0a0d"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#ff7e80",
+        "opacityMin": 0.85,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#bb0a0d",
+        "opacityMin": 0.75,
+        "opacityMax": 1.0,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffd7b08f",
+      "#ff653c26",
+      "#ff653c26"
+    ]
+  },
+  "Weighting": 1380,
+  "spire6ImageLogo": "./assets/beverages/dr-pepper-diet_logo.png",
+  "spire6BackgroundColor": "#d4c9c9",
+  "CalorieCups": []
+}

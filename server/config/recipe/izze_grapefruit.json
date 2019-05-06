@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "432d388d-dbea-4311-bbaa-275dad1d8825",
+  "Name": "Izze Grapefruit",
+  "BeverageId": "izze-sparkling-grapefruit",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "999998000118",
+      "Name": "Izze Grapefruit"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_deliciously",
+  "image": "assets/animations/brands/secondary_deliciously.png",
+  "frameWidth": 357,
+  "frameHeight": 218,
+  "frames": 76,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

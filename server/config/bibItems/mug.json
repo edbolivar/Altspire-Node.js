@@ -1,0 +1,55 @@
+{
+  "Revision": 1,
+  "Id": "mug",
+  "Weighting": 1290,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "MUG ROOT BEER 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Mug",
+      "SKU": "012000400117",
+      "CaloriesPerOz": "11.98158140825",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "MUG ROOT BEER 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Mug",
+      "SKU": "012000404085",
+      "CaloriesPerOz": "11.98158140825",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "20",
+      "Description": "CDN MUG RT BR 20L BIB",
+      "MixRatio": "5",
+      "Name": "Mug",
+      "SKU": "069000041055",
+      "CaloriesPerOz": "11.98158140825",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

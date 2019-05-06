@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_circles_bridge",
+  "image": "assets/animations/brands/secondary_circles_bridge.png",
+  "frameWidth": 176,
+  "frameHeight": 240,
+  "frames": 73,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 2,
+  "format": "bgra"
+}

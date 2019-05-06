@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "actions": [
+    {
+      "id": "system_reboot_shutdown",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "action",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress", 
+      "resourceiId":""
+      
+    },
+   {
+      "id": "turn_off_display",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "action",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "volume_adjustment",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+     {
+      "id": "priming",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    }, 
+    {
+      "id": "view_valve_layout",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "intial_setup",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "customize_UI",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "define_flow_rates",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "sensor_pack_configuration",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "curated_mixology",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "change_service_language",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "change_consumer_language",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "change_service_language",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "dashboard",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    }
+  ],
+  "system": [
+     {
+      "id": "equipment_status",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "preventative_maintenance",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "ice_box_status",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    },
+    {
+      "id": "auto_fill_adjustments",
+      "weighting": 10,
+      "buttonState": "available",
+      "buttonType": "ACTION",
+      "backgroundColor": "#2d71b0",
+      "TextColor": null,
+      "TextColorSelected": null,
+      "behaviors": "Tap, LongPress",
+      "resourceiId":""
+    }
+    
+  ]
+}

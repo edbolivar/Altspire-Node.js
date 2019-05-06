@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "pepsi_next",
+  "Weighting": 1130,
+  "bibItems": [
+    {
+      "Bibsize": "20",
+      "Description": "CDN PEP NEXT ",
+      "MixRatio": "5",
+      "Name": "Pepsi Next",
+      "SKU": "999998000119",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}

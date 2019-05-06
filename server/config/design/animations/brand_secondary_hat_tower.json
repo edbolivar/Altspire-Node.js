@@ -1,0 +1,11 @@
+{
+  "id": "brand_secondary_hat_tower",
+  "image": "assets/animations/brands/secondary_hat_tower.png",
+  "frameWidth": 287,
+  "frameHeight": 273,
+  "frames": 76,
+  "smoothing": "bilinear",
+  "fps": 15,
+  "scale": 1.0,
+  "format": "bgra"
+}

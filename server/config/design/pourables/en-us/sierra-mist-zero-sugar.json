@@ -1,0 +1,82 @@
+{
+  "id": "sierra-mist-zero-sugar",
+  "recipeId": "eb6bc44b-89f8-4fb8-8530-d2bb3486bcba",
+  "languageCountryCode": "en-us",
+  "name": "Sierra Mist Zero Sugar",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-sierra-mist",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/sierra-mist-no-sugar_logo.png",
+      "logoBrand": "./assets/beverages/sierra-mist-no-sugar_logo.png",
+      "gradient": "./assets/beverages/sierra-mist-twist-diet_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/sierra-mist-diet_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/sierra-mist-diet_idle.webm",
+      "liquidBackground": "./assets/beverages/sierra-mist-twist-diet_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+        "strokeHome": "#ff009bb3",
+      "animationLight": "#d9d6d4",
+      "animationDark": "#949290"
+    },
+    "particlesHome": {
+      "colors": [
+        "#d9d6d4",
+        "#949290"
+      ],
+      "opacity": {
+        "from": 0.75,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [],
+    "secondaryAnimation": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimation_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#ffffffff"
+    ]
+  },
+  "Weighting": 1270,
+  "spire6ImageLogo": "./assets/beverages/sierra-mist-no-sugar_logo.png",
+  "spire6BackgroundColor": "#b0b0b0",
+  "CalorieCups": []
+}

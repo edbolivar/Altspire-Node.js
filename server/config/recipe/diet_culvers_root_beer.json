@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "457fce55-d6af-45f1-87a2-3558db10d6d6",
+  "Name": "Diet Culvers Root Beer",
+  "BeverageId": "culver-root-beer-diet",
+  "Type": "Beverage",
+  "BrandId": "" ,
+  "FlavorIds":[],
+  "WaterSkus": [
+    "0111",
+    "0333"
+  ],
+  "SyrupSkus": [
+    {
+      "Sku": "088500001109",
+      "Name": "Diet Culvers Root Beer"
+    }
+  ],
+  "FlavorSkus": [],
+ 
+  "UnAllowedFlavors": [],
+  "TopOffDelay": 5
+}

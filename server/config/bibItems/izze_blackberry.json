@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "izze_blackberry",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "IZZE BLACKBERRY 5G BIB",
+      "MixRatio": "5",
+      "Name": "Izze Blackberry",
+      "SKU": "999998000116",
+      "CaloriesPerOz": "0",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

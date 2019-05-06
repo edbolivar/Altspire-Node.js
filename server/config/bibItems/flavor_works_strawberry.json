@@ -1,0 +1,24 @@
+{
+  "Revision": 1,
+  "Id": "flavor_works_strawberry",
+  "Weighting": 10000,
+  "bibItems": [
+    {
+      "Bibsize": "1",
+      "Description": "1 Gal BIB",
+      "MixRatio": "5",
+      "Name": "Flavor Works Strawberry",
+      "SKU": "012000043239",
+      "CaloriesPerOz": null,
+      "Type": "FlavorShot",
+      "AltName" : "strawberry",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

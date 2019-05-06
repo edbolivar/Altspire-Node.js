@@ -1,0 +1,39 @@
+{
+  "Revision": 1,
+  "Id": "diet_mountain_dew",
+  "Weighting": 1180,
+  "bibItems": [
+    {
+      "Bibsize": "5",
+      "Description": "DT MT DEW 5 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Diet Mountain Dew",
+      "SKU": "012000400629",
+      "CaloriesPerOz": "0.402270201",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    },
+    {
+      "Bibsize": "3",
+      "Description": "DT MT DEW 3 GALLON BIB",
+      "MixRatio": "5",
+      "Name": "Diet Mountain Dew",
+      "SKU": "012000402517",
+      "CaloriesPerOz": "0.402270201",
+      "Type": "Syrup",
+      "Country": [
+        "US"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": true
+    }
+  ]
+}

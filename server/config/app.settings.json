@@ -1,0 +1,769 @@
+{
+  "Version": 1,
+  "Settings": [
+    {
+      "Key": "my.test.string",
+      "Description": null,
+      "ValueAsString": "my default value",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "my.test.bool",
+      "Description": null,
+      "ValueAsString": "true",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "gesture.longpress.time.delay",
+      "Description": null,
+      "ValueAsString": "400",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ShowGlobalError",
+      "Description": null,
+      "ValueAsString": "true",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ShowProcessStartWindow",
+      "Description": null,
+      "ValueAsString": "true",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ValveController_Virtualized",
+      "Description": null,
+      "ValueAsString": "false",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ValveController_LEDAnimationTime",
+      "Description": null,
+      "ValueAsString": "200",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ValveController_StatusPollFrequency",
+      "Description": null,
+      "ValueAsString": "1",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ValveController_EnableTopOffConfiguration",
+      "Description": null,
+      "ValueAsString": "true",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ValveController_InitializationDelay",
+      "Description": null,
+      "ValueAsString": "7000",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ValveController_StopDispenseOnIceBoxOpen",
+      "Description": null,
+      "ValueAsString": "true",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ValveController_StopDispenseIfLeverNotPressed",
+      "Description": null,
+      "ValueAsString": "true",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ValveController_WaitForCupLeverPressedInSeconds",
+      "Description": null,
+      "ValueAsString": "5",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "PourTimeout",
+      "Description": null,
+      "ValueAsString": "00:00:20",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MotherboardController_StatusPollFrequency",
+      "Description": null,
+      "ValueAsString": "5000",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MotherboardController_PrimaryDriveFreeSpaceMinimumInGB",
+      "Description": null,
+      "ValueAsString": "10",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MotherboardController_TemperatureThreshold",
+      "Description": null,
+      "ValueAsString": "100",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MotherboardController_CPUFanSpeedThreshold",
+      "Description": null,
+      "ValueAsString": "750",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MotherboardController_CPUTemperatureThreshold",
+      "Description": null,
+      "ValueAsString": "100",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MotherboardController_SSDTemperatureThreshold",
+      "Description": null,
+      "ValueAsString": "80",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MotherboardController_SSDRemainingLifeThreshold",
+      "Description": null,
+      "ValueAsString": "70",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "TouchController_Virtualized",
+      "Description": null,
+      "ValueAsString": "False",
+      "DefaultValueAsString": null,
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "TouchController_StatusPollFrequency",
+      "Description": null,
+      "ValueAsString": "1000",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "TouchController_EGalaxyDeviceId",
+      "Description": null,
+      "ValueAsString": "VID_0EEF&PID_C000",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "AdaController_StatusPollFrequency",
+      "Description": null,
+      "ValueAsString": "5000",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "LightingControl_StatusPollFrequency",
+      "Description": null,
+      "ValueAsString": "5000",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ScreenCleanTime",
+      "Description": null,
+      "ValueAsString": "30",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MotherboardAlarmTemperature",
+      "Description": null,
+      "ValueAsString": "100",
+      "DefaultValueAsString": null,
+      "Choices": null,
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.CleanBibPreRinseTime",
+      "Description": "BIB Cleaning pre-rinse time in seconds minimum 5",
+      "ValueAsString": "300",
+      "DefaultValueAsString": "300",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.CleanBibSanitizeTime",
+      "Description": "BIB Cleaning sanitize time in seconds minimum 5",
+      "ValueAsString": "300",
+      "DefaultValueAsString": "300",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.CleanBibSoakTime",
+      "Description": "BIB Cleaning sanitizer soak time in seconds minimum 5",
+      "ValueAsString": "300",
+      "DefaultValueAsString": "300",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.CleanBibPostRinseTime",
+      "Description": "BIB Cleaning post-rinse time in seconds minimum 5",
+      "ValueAsString": "600",
+      "DefaultValueAsString": "600",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.WaterFilterLastDateChanged",
+      "Description": "Water Filter Last Date Changed. Format is MM/DD/YYYY",
+      "ValueAsString": "07/24/2013",
+      "DefaultValueAsString": "07/24/2013",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.WaterFilterServiceInterval",
+      "Description": "Water Filter Service Interval In Days minimum 1",
+      "ValueAsString": "60",
+      "DefaultValueAsString": "60",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.MaxSelectedValves",
+      "Description": "Maximum number of valves allowed open simultaneously",
+      "ValueAsString": "5",
+      "DefaultValueAsString": "5",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.FixedPrimeDispenseTime",
+      "Description": "Fixed valve Prime time in seconds minimum 5",
+      "ValueAsString": "5",
+      "DefaultValueAsString": "5",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.ScreenCleanTime",
+      "Description": "Screen cleaning time in seconds minimum 5 maximum 1000",
+      "ValueAsString": "30",
+      "DefaultValueAsString": "30",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.ValveControllerContinuousDispensePattern",
+      "Description": "pour a sequence of 3 drinks continuously from valve controller - not for Production use",
+      "ValueAsString": "False",
+      "DefaultValueAsString": "False",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.ExecuteSpecialTests",
+      "Description": "User will be able to enable certain special tests at runtime - not for Production use",
+      "ValueAsString": "False",
+      "DefaultValueAsString": "False",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.BootupTimeAllowed",
+      "Description": "Time (in seconds) allowed to show booting message until an error is reported (maximum 120 seconds)",
+      "ValueAsString": "120",
+      "DefaultValueAsString": "120",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.AutoPourTopOffEnabled",
+      "Description": "Used to enable or disable auto pour top off in Crew Mode.",
+      "ValueAsString": "False",
+      "DefaultValueAsString": "False",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.ValveControllerOffline",
+      "Description": "Message shown when the Valve Controller is offline",
+      "ValueAsString": "Valve Controller Offline",
+      "DefaultValueAsString": "Valve Controller Offline",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.MotherboardControllerOffline",
+      "Description": "Message shown when the Motherboard Controller is offline",
+      "ValueAsString": "Motherboard Controller Offline",
+      "DefaultValueAsString": "Motherboard Controller Offline",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.MotherboardTemperatureOutOfRange",
+      "Description": "Message shown when the Motherboard Temperature is out of range",
+      "ValueAsString": "Motherboard Temperature Out of Range",
+      "DefaultValueAsString": "Motherboard Temperature Out of Range",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.CPUTemperatureOutOfRange",
+      "Description": "Message shown when the CPU Temperature is out of range",
+      "ValueAsString": "CPU Temperature Out of Range",
+      "DefaultValueAsString": "CPU Temperature Out of Range",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.CPUFanSpeedOutOfRange",
+      "Description": "Message shown when the CPU Fan Speed is out of range",
+      "ValueAsString": "CPU Fan Speed Out of Range",
+      "DefaultValueAsString": "CPU Fan Speed Out of Range",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.SSDTemperatureOutOfRange",
+      "Description": "Message shown when the SSD Temperature is out of range",
+      "ValueAsString": "SSD Temperature Out of Range",
+      "DefaultValueAsString": "SSD Temperature Out of Range",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.SSDRemainingLifeOutOfRange",
+      "Description": "Message shown when the SSD Remaining Life is out of range",
+      "ValueAsString": "SSD Remaining Life Out of Range",
+      "DefaultValueAsString": "SSD Remaining Life Out of Range",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.InventoryFailure",
+      "Description": "Message shown when the Inventory Settings are invalid",
+      "ValueAsString": "Invalid Inventory Settings",
+      "DefaultValueAsString": "Invalid Inventory Settings",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.BootingUp",
+      "Description": "Message shown when the system is booting up",
+      "ValueAsString": "Starting Up ...",
+      "DefaultValueAsString": "Starting Up ...",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.ADANotPresent",
+      "Description": "Message shown when the ADA is not present",
+      "ValueAsString": "ADA Not Present",
+      "DefaultValueAsString": "ADA Not Present",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.TouchNotPresent",
+      "Description": "Message shown when the Touch panel is not present",
+      "ValueAsString": "Touch Not Present",
+      "DefaultValueAsString": "Touch Not Present",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.BridgeDoorOpen",
+      "Description": "Message shown when the Bridge door is open",
+      "ValueAsString": "Door Open",
+      "DefaultValueAsString": "Door Open",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.BridgeIceLevelLow",
+      "Description": "Message shown when the Bridge ice level is low",
+      "ValueAsString": "Ice Level Low",
+      "DefaultValueAsString": "Ice Level Low",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.MaximumCupSize",
+      "Description": "The maximum size of the cup allowed to be defined",
+      "ValueAsString": "128",
+      "DefaultValueAsString": "128",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.MinimumCupSize",
+      "Description": "The minimum size of the cup allowed to be defined (Must be greater than zero)",
+      "ValueAsString": "4",
+      "DefaultValueAsString": "4",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.MaximumIceVolumeSize",
+      "Description": "The maximum volume of ice allowed to be defined",
+      "ValueAsString": "100",
+      "DefaultValueAsString": "100",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.MinimumIceVolumeSize",
+      "Description": "The minimum volume of ice allowed to be defined",
+      "ValueAsString": "0",
+      "DefaultValueAsString": "0",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.MaximumCupIceName",
+      "Description": "The maximum number of characters allowed for a cup or ice label in Crew",
+      "ValueAsString": "10",
+      "DefaultValueAsString": "10",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.FoamSettleTime",
+      "Description": "The time (in seconds) allowed for the foam to settle in a 10 oz cup",
+      "ValueAsString": "7",
+      "DefaultValueAsString": "7",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.FoamAdjustmentTime",
+      "Description": "The amount of time to pour a 10 oz cup of pepsi with no ice before overflow",
+      "ValueAsString": "1.5",
+      "DefaultValueAsString": "1.5",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.IceAdjustmentInOz",
+      "Description": "The amount of ice (in oz) to adjust the auto pour process",
+      "ValueAsString": "1.5",
+      "DefaultValueAsString": "1.5",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "service.ui.ImageVersionPath",
+      "Description": "Path to file containing the version of OS image in use",
+      "ValueAsString": "C:\\Software\\versions\\image.txt",
+      "DefaultValueAsString": "C:\\Software\\versions\\image.txt",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "logviewer.DTMode",
+      "Description": "If true, log viewer sessions are organized by VNext logs instead of KF logs.",
+      "ValueAsString": "True",
+      "DefaultValueAsString": "True",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "RCMPlayerPath",
+      "Description": "path to RCM Player.exe",
+      "ValueAsString": "C:\\Program Files (x86)\\Intel\\Intel(R) Retail Client Manager\\Player\\Player.exe",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "RCMExecuteOnStartup",
+      "Description": "does app start RCM on startup",
+      "ValueAsString": "true",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "Sen_config_bat",
+      "Description": "sen config.bat, to be run at the completion of initial setup",
+      "ValueAsString": "c:\\software\\sen\\intelrcm\\config.bat",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "MinimumTimeBetweenPoursInMilliseconds",
+      "Description": "Minimum Time Between Pours, in milliseconds",
+      "ValueAsString": "300",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "Sen_auto_reg_config",
+      "Description": "sen auto registration config file",
+      "ValueAsString": "c:\\SEN\\autoreg\\config\\autoreg.xml",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "Sen_diagnostics_config",
+      "Description": "sen diagnostics config file",
+      "ValueAsString": "c:\\SEN\\SENDiagnostic\\config\\sendiagnostic.xml",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "FBWF_included",
+      "Description": "determines whether or not to use the FBWFService",
+      "ValueAsString": "True",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "InvisibleMouseCursor",
+      "Description": "Mouse cursor is not shown in app",
+      "ValueAsString": "True",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "Is_Running_Under_KioskFrame",
+      "Description": "Determines whether or not to use KioskFrame libraries",
+      "ValueAsString": "False",
+      "Choices": [
+        "True",
+        "False"
+      ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "SEN_ReloadInMinutes",
+      "Description": "Reload SEN data interval in minutes",
+      "ValueAsString": "5",
+      "DefaultValueAsString": "5",
+      "Choices": [],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "EquipmentSuite",
+      "Description": "Determines the title of the Initial Setup Dialog",
+      "ValueAsString": "DriveThru",
+      "Choices": [ "DriveThru", "Spire" ],
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "IsScreenSaverEnabled",
+      "Description": "Determines whether the screen saver is allowed to run.",
+      "ValueAsString": "false",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ScreenSaverImagePath",
+      "Description": "Image which is displayed when the screen saver is on.",
+      "ValueAsString": "assets\\screensaver\\Pepsi_logo_1962.png",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ScreenSaverSpeed",
+      "Description": "Speed of the screen saver elements moving around the screen.",
+      "ValueAsString": "2",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ScreenSaverDisabledHoursOfDay",
+      "Description": "screensaver is disabled during this time of day",
+      "ValueAsString": "12:00 am - 12:01 am",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ScreenSaverTimeout",
+      "Description": "Time interval in minutes when the screen saver is activated after inactivity.",
+      "ValueAsString": "10",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ScreenSaverInactiveDays",
+      "Description": "Comma delimited days in which the screen saver is inactive.",
+      "ValueAsString": "xSaturday",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "CheckIntervalForSpireMonitor",
+      "Description": "Number of seconds between 'SpireCLI SpireMonitor' checks",
+      "ValueAsString": "10",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "WaitAfterStartIntervalSpireMonitor",
+      "Description": "Number of seconds after Spire re-starts for activity checks begin",
+      "ValueAsString": "10",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ProcessSystemStateInfoFrequency",
+      "Description": "Time interval in minutes when to run the system state info.",
+      "ValueAsString": "60",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "EnableZeroOffSetForItemsControlPlacement",
+      "Description": "If set to true it sets the items placement using zero offset instead of actual width.",
+      "valueAsString": "false",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "SenMonitorInterval",
+      "Description": "SenMonitor checks sen status every N milliseconds",
+      "valueAsString": "300000",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "EnableWebServer",
+      "Description": "Enable Web Server",
+      "valueAsString": "true",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "WebServerUrl",
+      "Description": "URL for web server",
+      "valueAsString": "http://localhost:4000/",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "EnableSignalRServer",
+      "Description": "Enable SignalR Server",
+      "valueAsString": "true",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "SignalRServerUrl",
+      "Description": "URL for SignalR server",
+      "valueAsString": "http://localhost:4002/",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "HeartbeatLogInterval",
+      "Description": "Logstatement on this interval",
+      "valueAsString": "60000",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "DistributePath",
+      "Description": "path to dropbox folder",
+      "ValueAsString": "\\Dropbox\\pepsi_deploy\\",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "IsWebAppDevMode",
+      "Description": "keeps spire visible for switching to visual studio, developer uses chrome",
+      "ValueAsString": "false",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "maxBackups",
+      "Description": "Max backups",
+      "ValueAsString": "3",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "SenPostingWriteInterval",
+      "Description": "SenPosting write interval in minutes",
+      "ValueAsString": "15",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "SenPostingRecordSize",
+      "Description": "SenPosting record size",
+      "ValueAsString": "1000",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "UrlForConsumerUIProduction",
+      "Description": "URL for Consumerui Prod",
+      "ValueAsString": "http://localhost:8080",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "UrlForConsumerUIDevelopment",
+      "Description": "URL for Consumerui Development",
+      "ValueAsString": "http://localhost:4200",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "UseApacheForConsumerUIImages",
+      "Description": "will change image urls to be a http reference",
+      "ValueAsString": "true",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "ChromeMemoryThreshold",
+      "Description": "Maxmium memory limit before chrome resets",
+      "ValueAsString": "2200000000",
+      "SettingSource": "Application"
+    },
+    {
+      "Key": "UseFullOnKioskMode",
+      "Description": "Use KioskMode for Chrome",
+      "ValueAsString": "true",
+      "SettingSource": "Application"
+    }
+  ]
+}

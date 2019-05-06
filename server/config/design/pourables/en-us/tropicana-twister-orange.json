@@ -1,0 +1,99 @@
+{
+  "id": "tropicana-twister-orange",
+  "recipeId": "f329d9b2-94a2-4c9d-95a0-8e8b8ac00a5c",
+  "languageCountryCode": "en-us",
+  "name": "Tropicana Twister Orange",
+  "flavors": [
+    "cherry",
+    "strawberry",
+    "lemon",
+    "vanilla",
+    "peach",
+    "raspberry",
+    "lime",
+    "grape"
+  ],
+  "group": "group-tropicana",
+  "design": {
+    "assets": {
+      "logoHome": "./assets/beverages/tropicana-twister-orange_logo.png",
+      "logoBrand": "./assets/beverages/tropicana-twister-orange_logo_brand.png",
+      "gradient": "./assets/beverages/tropicana-twister-orange_gradient.png",
+      "liquidIntro": "./assets/beverages/liquids/crush-orange_intro.webm",
+      "liquidIdle": "./assets/beverages/liquids/crush-orange_idle.webm",
+      "liquidBackground": "./assets/beverages/tropicana-twister-orange_liquid_tower.png"
+    },
+    "alphaCarbonation": 1,
+    "colors": {
+      "strokeHome": "#fffc367f",
+      "animationLight": "#ffdbaf",
+      "animationDark": "#ff9b55"
+    },
+    "particlesHome": {
+      "colors": [
+        "#ffdbaf",
+        "#f19a33"
+      ],
+      "opacity": {
+        "from": 0.8,
+        "to": 1.0
+      }
+    },
+    "particlesBrand": [
+      {
+        "color": "#b1d9ee",
+        "opacityMin": 0.3,
+        "opacityMax": 0.4,
+        "frequency": 1,
+        "colorVariation": 0
+      },
+      {
+        "color": "#90d4f4",
+        "opacityMin": 0.5,
+        "opacityMax": 0.8,
+        "frequency": 1,
+        "colorVariation": 0
+      }
+    ],
+    "secondaryAnimation": {
+      "animationId": "brand_secondary_exclamation_tower",
+      "offsetX": 0.0,
+      "offsetY": 30.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda": {
+      "animationId": "brand_secondary_exclamation_tower",
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "alpha": 0.3,
+      "scale": 0.8
+    },
+    "secondaryAnimation_5": {
+      "animationId": "brand_secondary_exclamation_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 1.0,
+      "scale": 1.0
+    },
+    "secondaryAnimationAda_5": {
+      "animationId": "brand_secondary_exclamation_bridge",
+      "offsetX": 0.0,
+      "offsetY": 300.0,
+      "alpha": 0.4,
+      "scale": 0.8
+    },
+    "particlesPerSecond": 3,
+    "particlesSizeScale": 1,
+    "particlesSpeedScale": 1,
+    "colorLight": [
+      "#fff25804",
+      "#ff892300",
+      "#ff892300"
+    ]
+  },
+  "Weighting": 1340,
+  "spire6ImageLogo": "./assets/beverages/tropicana-twister-orange_logo.png",
+  "spire6BackgroundColor": "#ff7e23",
+  "CalorieCups": []
+}

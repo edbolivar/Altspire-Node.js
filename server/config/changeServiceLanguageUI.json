@@ -1,0 +1,17 @@
+{
+  "Version": "1.0",
+  "ServiceLanguages": [
+    {
+      "Id": "en-us",
+      "label": "English (United States)",
+      "buttonType": "StateButton",
+      "behaviors": "Tap, Checkable"
+    },
+    {
+      "Id": "fr-ca",
+      "label": "francaise (Canada)",
+      "buttonType": "StateButton",
+      "behaviors": "Tap, Checkable"
+    }
+  ]
+}

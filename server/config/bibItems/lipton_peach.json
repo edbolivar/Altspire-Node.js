@@ -1,0 +1,23 @@
+{
+  "Revision": 1,
+  "Id": "lipton_peach",
+  "Weighting": 1890,
+  "bibItems": [
+    {
+      "Bibsize": "12",
+      "Description": "lipton peach 10L",
+      "MixRatio": "5",
+      "Name": "Lipton Peach",
+      "SKU": "999998000121",
+      "CaloriesPerOz": "5.849455873625",
+      "Type": "Syrup",
+      "Country": [
+        "CA"
+      ],
+      "IsLocked": false,
+      "IsHighYield": false,
+      "IsAssigned": true,
+"IsCalorieCountEnabled": false
+    }
+  ]
+}
