@@ -48,16 +48,16 @@ export class JsUtil {
   }
 
 
-  static formatSeconds(seconds: number) {
-    // converts seconds to hhh:mm:ss
-    const nseconds = Number(seconds) ;
-    const h = Math.floor(nseconds / 3600);
-    const m = this.zeroPad(Math.floor(nseconds % 3600 / 60),2);
-    const s = this.zeroPad(Math.floor(nseconds % 3600 % 60),2);
-
-    const result = `${h}:${m}:${s}` ;
-    return result;
-  }
+  // static formatSeconds(seconds: number) {
+  //   // converts seconds to hhh:mm:ss
+  //   const nseconds = Number(seconds) ;
+  //   const h = Math.floor(nseconds / 3600);
+  //   const m = this.zeroPad(Math.floor(nseconds % 3600 / 60),2);
+  //   const s = this.zeroPad(Math.floor(nseconds % 3600 % 60),2);
+  //
+  //   const result = `${h}:${m}:${s}` ;
+  //   return result;
+  // }
 
   static generateId() {
     // it'd wrapped in case we decide to change implementation;
