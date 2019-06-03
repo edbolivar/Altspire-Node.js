@@ -196,8 +196,8 @@ export class ConfigurationService {
              const buttonModel = this.convertRecipeToButtonModel(recipe);
 
              if (recipe.Type === RecipeType.Beverage) {
-                 buttonModel.ButtonType = ButtonType.brand;
-                 brands.push(buttonModel);
+                 // buttonModel.ButtonType = ButtonType.brand;
+                 // brands.push(buttonModel);
              } else if (recipe.Type === RecipeType.Water) {
                  buttonModel.ButtonType = ButtonType.water;
                  uiVisualsModel.waters.push(buttonModel);
@@ -1065,7 +1065,7 @@ export class ConfigurationService {
         this.addToPourItemModel(uidata.topCombinations, pourablesDesignArray, targetPourItemModel, "topCombinations");
         this.addToPourItemModel(uidata.waters, pourablesDesignArray, targetPourItemModel, "waters");
 
-        
+
         targetPourItemModel.brands = await this.addCalorieInfo(targetPourItemModel.brands);
         targetPourItemModel.curatedMixes = await this.addCalorieInfo(targetPourItemModel.curatedMixes);
 
