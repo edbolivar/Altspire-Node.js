@@ -196,8 +196,8 @@ export class ConfigurationService {
              const buttonModel = this.convertRecipeToButtonModel(recipe);
 
              if (recipe.Type === RecipeType.Beverage) {
-                 // buttonModel.ButtonType = ButtonType.brand;
-                 // brands.push(buttonModel);
+                 buttonModel.ButtonType = ButtonType.brand;
+                 brands.push(buttonModel);
              } else if (recipe.Type === RecipeType.Water) {
                  buttonModel.ButtonType = ButtonType.water;
                  uiVisualsModel.waters.push(buttonModel);

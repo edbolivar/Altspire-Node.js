@@ -126,7 +126,7 @@ export class ConfigurationController implements interfaces.Controller {
 
     @Get('/idlestate')
     public async getIdleState(req: express.Request, res: express.Response, next: express.NextFunction): Promise<any> {
-        this.logRequest(req);
+//        this.logRequest(req);
         const result = await this.configurationService.getIdleState();
         res.status(200)
             .json(result);
@@ -197,9 +197,9 @@ export class ConfigurationController implements interfaces.Controller {
     public getOutOfOrder(req: express.Request, res: express.Response, next: express.NextFunction): any {
         this.logRequest(req);
 
-        
+
         this.isOutOfOrder = ! this.isOutOfOrder;
-        
+
         // @@Eugen
         // TEST, will always send out of order
         //this.isOutOfOrder = true ;
