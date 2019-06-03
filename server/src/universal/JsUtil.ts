@@ -33,15 +33,15 @@ export class JsUtil {
   }
 
   static logPourConfig(brandButton: ButtonModel, flavorButtons: ButtonModel[]) {
-      let flavors = "";
-      _.forEach(flavorButtons, function(flavorButton: ButtonModel){
-
-        if (flavors.length > 0) {
-          flavors += ", ";
-        }
-
-        flavors += flavorButton.Label ;
-      });
+      // let flavors = "";
+      // _.forEach(flavorButtons, function(flavorButton: ButtonModel){
+      //
+      //   if (flavors.length > 0) {
+      //     flavors += ", ";
+      //   }
+      //
+      //   flavors += flavorButton.Label ;
+      // });
 
       const msg = `Pour: ${brandButton.Label}\r\n  Flavors: ${flavors}` ;
       console.log(msg);
