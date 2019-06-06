@@ -29,7 +29,7 @@ export class TaskRunner {
             this.showHelp();
             return ;
         }
-
++
         if (argv._.length > 1 || argv.help ) {
             this.showHelp();
             return ;
@@ -69,4 +69,3 @@ export interface ITask {
     usage() : string ;
     execute() : boolean ;
 }
-

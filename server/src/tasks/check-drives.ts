@@ -29,11 +29,11 @@ export class CheckDrives implements ITask {
 
     verifyArguments(argv: any): boolean {
         return true ;
-    } ;
+    };
 
     usage(): string {
         return "getting all the docs";
-    } ;
+    };
 
     execute(): boolean {
        return true ;

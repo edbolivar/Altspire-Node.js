@@ -61,7 +61,7 @@ export class JsUtil {
 
   static generateId() {
     // it'd wrapped in case we decide to change implementation;
-    return shortid.generate() ;
+    return shortid.generate();
   }
 
 
